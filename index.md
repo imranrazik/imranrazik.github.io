@@ -18,6 +18,6 @@ layout: home
   
 For my dissertation, I am working with wild-caught common vampire bats to answer three primary research questions: <br/>
 1. How do we quantify among-individual variation in cooperative traits that are inherently dependent on dyadic interactions and the market of available partners?
-2. Which factors (such as age, association, or cooperativeness) are most important for predicting the development of new social relationships in vampire bats? <br/>
+2. Which factors (such as age, association, or cooperativeness) are most important for predicting the development of new social relationships in vampire bats? 
 3. Can we control partner choice in vampire bats by experimentally manipulating opportunities to cooperate?
 

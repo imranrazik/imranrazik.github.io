@@ -7,9 +7,9 @@
 #
 layout: home
 ---
-My Research
+
 ---
-layout: default
+# My Research
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

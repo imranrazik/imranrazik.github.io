@@ -38,39 +38,67 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 6. Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium.
 
 ### Grants and Fellowships
-- American Society of Mammalogists                                                                                
-  - Grant-in-Aid of Research. $1,500. 2020.
-- Center for Latin American Studies, Ohio State University, Columbus, OH                    
-  - Tinker Foundation Field Research Grant. $1,200. April 2020.
-- Animal Behavior Society
-  - Graduate Student Research Grant. $1,500. May 2019.
-- Smithsonian Tropical Research Institute, Panama
-  - Short-Term Fellowship. $1,000. May 2019.
-- Graduate School, Ohio State University, Columbus, OH
-  - Graduate Enrichment Fellowship. $25,800. Aug. 2018.
-- Rice Creek Field Station, SUNY Oswego, Oswego, NY
-  - Rice Creek Small Grant. $1,250. April 2017.
-- Rochester Academy of Science, Rochester, NY. 
-  - Student Science Research Grant. $100. Jan. 2017.
+American Society of Mammalogists                                                                                
+ - Grant-in-Aid of Research. $1,500. 2020.
+Center for Latin American Studies, Ohio State University, Columbus, OH                    
+ - Tinker Foundation Field Research Grant. $1,200. April 2020.
+Animal Behavior Society
+ - Graduate Student Research Grant. $1,500. May 2019.
+Smithsonian Tropical Research Institute, Panama
+ - Short-Term Fellowship. $1,000. May 2019.
+Graduate School, Ohio State University, Columbus, OH
+ - Graduate Enrichment Fellowship. $25,800. Aug. 2018.
+Rice Creek Field Station, SUNY Oswego, Oswego, NY
+ - Rice Creek Small Grant. $1,250. April 2017.
+Rochester Academy of Science, Rochester, NY. 
+ - Student Science Research Grant. $100. Jan. 2017.
 
 ### Awards and Scholarships
-- SUNY Oswego, Oswego, NY
-  - Summa cum laude. GPA 3.91/4.0. May 2018.
-- Biological Sciences Department, SUNY Oswego, Oswego, NY
-  -Outstanding Zoology Senior Award. $425. April 2018.
-- Honors Program, SUNY Oswego, Oswego, NY
-  - McGill Peterson Honors Program Award. $475/year. 2015 – 2018.
-- SUNY Oswego, Oswego, NY
-  - Presidential Scholarship. $4,700/year. 2014 – 2018.
-- Higher Education Services Corporation, Albany, NY
-  - NYS Scholarship for Academic Excellence. $500/year. 2014 – 2018.
+SUNY Oswego, Oswego, NY
+ - Summa cum laude. GPA 3.91/4.0. May 2018.
+Biological Sciences Department, SUNY Oswego, Oswego, NY
+ -Outstanding Zoology Senior Award. $425. April 2018.
+Honors Program, SUNY Oswego, Oswego, NY
+ - McGill Peterson Honors Program Award. $475/year. 2015 – 2018.
+SUNY Oswego, Oswego, NY
+ - Presidential Scholarship. $4,700/year. 2014 – 2018.
+Higher Education Services Corporation, Albany, NY
+ - NYS Scholarship for Academic Excellence. $500/year. 2014 – 2018.
 
 ### Research Activities
-- Smithsonian Tropical Research Institute, Gamboa, Panama
-  - Short-Term Fellow. May 2019 - Oct. 2019.
-    - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
+Smithsonian Tropical Research Institute, Gamboa, Panama
+ - Short-Term Fellow. May 2019 - Oct. 2019.
+   - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
+Hacienda Barú Research Station, Costa Rica
+ - Research Assistant. June 2016.
+   - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
+SUNY Oswego Biological Sciences Department, Oswego, NY
+ - Honors Thesis. Aug. 2016 - May 2018.
+   - Reached proficiency in beaver trapping and tagging, VHF radio telemetry, and camera trapping. Performed satellite vegetation surveys and data analysis with ENVI Classic, ArcGIS, and R. 
+  - Undergraduate Research Assistant – Animal Ecology. Aug. 2016 - May 2018. 
+    - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
+  - Undergraduate Research Assistant – Botany. Sept. 2014 - May 2016.
+    - Helped manage university greenhouse, collected local flora in the field, processed histological plant samples, and became proficient in light, confocal, and scanning electron microscopy.
 
+### Teaching Appointments
+Center for Life Sciences Education, Ohio State University, Columbus, OH
+ - Graduate Teaching Associate: Human Biology (SP 2020)
+SUNY Oswego Biological Sciences Department, Oswego, NY
+ - Undergraduate Teaching Assistant: Mammalogy (AU 2016, AU 2017)
+ 
+### Outreach and Public Service
+Smithsonian Tropical Research Institute, Gamboa, Panama
+- Donor visits (3). Summer 2019.
+- Bat Night (5). June 2019 - Oct. 2019.
+Museum of Biological Diversity, The Ohio State University, Columbus, OH
+- Open House. March 2019.
+Rice Creek Field Station, SUNY Oswego, Oswego, NY
+- STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
 
+### Professional Memberships
+North American Society for Bat Research. 2016 – Present. <br/>
+Animal Behavior Society. 2018 – Present. <br/>
+American Society of Mammalogists. 2020 – Present. 
 
 
 

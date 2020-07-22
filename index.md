@@ -2,7 +2,7 @@
 layout: default
 ---
 ---
-My Research
+# My Research
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

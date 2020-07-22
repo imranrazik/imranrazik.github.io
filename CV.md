@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-## CV 
+# CV 
 ---
 
-Hello
+# Imran Razik
+## razik.2@osu.edu
+
+## Education

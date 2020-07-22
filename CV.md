@@ -6,6 +6,7 @@ layout: default
 
 ## Imran Razik
 Email: razik.2@osu.edu <br/>
+Mail: <br/>
 318 W. 12th Ave. <br/>
 300 Aronoff Laboratory <br/>
 Columbus, OH, 43210

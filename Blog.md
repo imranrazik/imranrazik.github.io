@@ -3,5 +3,4 @@ layout: page
 ---
 # Blog
 ---
-
-Hello
+## Updates and what not~

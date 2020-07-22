@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-
 ---
 # My Research
 ---

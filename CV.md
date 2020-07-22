@@ -8,12 +8,12 @@ layout: default
 razik.2@osu.edu
 
 ### Education
-The Ohio State University, Columbus, OH
-Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present.
+The Ohio State University, Columbus, OH <br/>
+Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 
-State University of New York College at Oswego, Oswego, NY
-B.Sc. in Zoology, Honors Programs. 2014 - 2018.
+State University of New York College at Oswego, Oswego, NY <br/>
+B.Sc. in Zoology, Honors Programs. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ### Publications

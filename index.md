@@ -7,6 +7,6 @@ layout: home
 (c) Imran Razik <br/>
 
 
-<p align="center">
-  <b> Hi! I study social relationships** and individual variation in vampire bats. :</b><br>
+# <p align="center">
+  <b> Hi! I study social relationships and individual variation in vampire bats. </b>
     </p>

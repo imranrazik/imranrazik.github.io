@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Imran Razik
-Email: razik.2@osu.edu <br/>
+Email: [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 Mail: <br/>
 318 W. 12th Ave. <br/>
 300 Aronoff Laboratory <br/>
@@ -21,21 +21,21 @@ B.Sc. in Zoology, Honors Programs. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
-1. Razik, I. and Sagot, M. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. In press. 
-2. Carter, G., Brown, B., Razik, I., and Ripperger, S. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. In press.
-3. Carter, G., Chen, T., and Razik, I. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. In press. 
-4. Julien, B., Razik, I., Schauer, M., and Seago, J.L., Jr. (2020). Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. 
-5. Macchiano, A., Razik, I., and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151.
-6. Sagot, M., Jago, A.J., Razik, I., and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. 
+1. **Razik, I.** and Sagot, M. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. In press. 
+2. Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. In press.
+3. Carter, G., Chen, T., and **Razik, I.** The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. In press. 
+4. Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. (2020). Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. 
+5. Macchiano, A., **Razik, I.**, and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151.
+6. Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. 
 
 ## Presentations
 1. Razik, I., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster.
 2. Razik, I., Carter, G. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. 
 3. Razik, I. and Sagot, M. 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. 
-Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral.
-4. Sagot, M., Jago, A.J., Razik, I., and Chaverri, G. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster.
-5. Bachelier, J., Razik, I., Sanchez, F., and Seago, J.L. 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral.
-6. Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium.
+4. Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral.
+5. Sagot, M., Jago, A.J., Razik, I., and Chaverri, G. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster.
+6. Bachelier, J., Razik, I., Sanchez, F., and Seago, J.L. 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral.
+7. Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium.
 
 ## Grants and Fellowships
 - American Society of Mammalogists                                                                                 

@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 # My Research
 ---
 

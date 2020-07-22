@@ -3,7 +3,8 @@ author:
   name: Imran Razik
   email: razik.2@osu.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  PhD Student / Behavioral Ecologist
+  PhD Student / Behavioral Ecologist <br/>
+  Bats, Social Bonds, Individual Variation
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

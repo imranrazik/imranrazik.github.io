@@ -18,3 +18,5 @@ For my dissertation, I work with common vampire bats to answer three **primary r
 2. *Which factors (such as age, association, or cooperativeness) are most important for predicting the development of new social relationships in vampire bats?* 
 3. *Can we control partner choice in vampire bats by experimentally manipulating opportunities to cooperate?*
 
+As I continue with my experiments, I plan on providing more frequent updates [here](https://imranrazik.github.io/Blog.html)
+Reach out if you have any questions or want to talk vampire bats!

@@ -7,9 +7,9 @@
 #
 layout: home
 ---
-layout: default
+
 ---
-My Research
+# My Research
 ---
 
 

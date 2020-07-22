@@ -4,9 +4,9 @@ layout: home
 # Research
 --- 
 ![Vampire bat digital drawing - Copyright (c) 2020 Imran Razik](/assets/vampterrestrial.png) <br/>
-<p align="center"> 
-  <font size="2"> (c) Imran Razik</font> 
-</p> 
+ <font size="2"> <p align="center"> 
+ (c) Imran Razik
+</p> </font> 
 
 <br/>
 

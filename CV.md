@@ -68,7 +68,7 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 ### Research Activities
 - Smithsonian Tropical Research Institute, Gamboa, Panama
   - Short-Term Fellow. May 2019 - Oct. 2019.
-  - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
+    - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
 
 
 

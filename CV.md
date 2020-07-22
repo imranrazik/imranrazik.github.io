@@ -39,19 +39,19 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 
 ### Grants and Fellowships
 American Society of Mammalogists                                                                                
- - Grant-in-Aid of Research. $1,500. 2020.
+ - Grant-in-Aid of Research. $1,500. 2020. <br/>
 Center for Latin American Studies, Ohio State University, Columbus, OH                    
- - Tinker Foundation Field Research Grant. $1,200. April 2020.
+ - Tinker Foundation Field Research Grant. $1,200. April 2020. <br/>
 Animal Behavior Society
- - Graduate Student Research Grant. $1,500. May 2019.
+ - Graduate Student Research Grant. $1,500. May 2019. <br/>
 Smithsonian Tropical Research Institute, Panama
- - Short-Term Fellowship. $1,000. May 2019.
+ - Short-Term Fellowship. $1,000. May 2019. <br/>
 Graduate School, Ohio State University, Columbus, OH
- - Graduate Enrichment Fellowship. $25,800. Aug. 2018.
+ - Graduate Enrichment Fellowship. $25,800. Aug. 2018. <br/>
 Rice Creek Field Station, SUNY Oswego, Oswego, NY
- - Rice Creek Small Grant. $1,250. April 2017.
+ - Rice Creek Small Grant. $1,250. April 2017. <br/>
 Rochester Academy of Science, Rochester, NY. 
- - Student Science Research Grant. $100. Jan. 2017.
+ - Student Science Research Grant. $100. Jan. 2017. <br/>
 
 ### Awards and Scholarships
 SUNY Oswego, Oswego, NY

@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
----
-# My Research
+## My Research
 ---
 

@@ -7,8 +7,8 @@ layout: default
 razik.2@osu.edu
 
 ### You can also find me on:
-* Twitter
-* Google Scholar
-* ResearchGate
-* ORCID
+Twitter <br/>
+Google Scholar <br/>
+ResearchGate <br/>
+ORCID <br/>
 

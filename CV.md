@@ -5,7 +5,10 @@ layout: default
 ---
 
 ## Imran Razik
-razik.2@osu.edu
+Email: razik.2@osu.edu
+318 W. 12th Ave. <br/>
+300 Aronoff Laboratory <br/>
+Columbus, OH, 43210
 
 ### Education
 The Ohio State University, Columbus, OH <br/>
@@ -61,8 +64,10 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 - Higher Education Services Corporation, Albany, NY
   - NYS Scholarship for Academic Excellence. $500/year. 2014 – 2018.
 
-
-
+### Research Activities
+- Smithsonian Tropical Research Institute, Gamboa, Panama
+  - Short-Term Fellow. May 2019 - Oct. 2019.
+  - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
 
 
 

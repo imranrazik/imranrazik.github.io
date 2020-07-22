@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# About Me
+## About Me
 ---
 
 Hello

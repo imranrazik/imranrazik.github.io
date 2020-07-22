@@ -4,14 +4,14 @@ layout: default
 # CV 
 ---
 
-## Imran Razik
+# Imran Razik
 Email: razik.2@osu.edu <br/>
 Mail: <br/>
 318 W. 12th Ave. <br/>
 300 Aronoff Laboratory <br/>
 Columbus, OH, 43210
 
-### Education
+## Education
 The Ohio State University, Columbus, OH <br/>
 Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
@@ -20,7 +20,7 @@ State University of New York College at Oswego, Oswego, NY <br/>
 B.Sc. in Zoology, Honors Programs. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
-### Publications
+## Publications
 1. Razik, I. and Sagot, M. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. In press. 
 2. Carter, G., Brown, B., Razik, I., and Ripperger, S. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. In press.
 3. Carter, G., Chen, T., and Razik, I. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. In press. 
@@ -28,7 +28,7 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 5. Macchiano, A., Razik, I., and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151.
 6. Sagot, M., Jago, A.J., Razik, I., and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. 
 
-### Presentations
+## Presentations
 1. Razik, I., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster.
 2. Razik, I., Carter, G. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. 
 3. Razik, I. and Sagot, M. 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. 
@@ -37,7 +37,7 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 5. Bachelier, J., Razik, I., Sanchez, F., and Seago, J.L. 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral.
 6. Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium.
 
-### Grants and Fellowships
+## Grants and Fellowships
 - American Society of Mammalogists                                                                                 
   - Grant-in-Aid of Research. $1,500. 2020. 
 - Center for Latin American Studies, Ohio State University, Columbus, OH <br/>                   
@@ -53,7 +53,7 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 - Rochester Academy of Science, Rochester, NY. 
   - Student Science Research Grant. $100. Jan. 2017. 
 
-### Awards and Scholarships
+## Awards and Scholarships
 - SUNY Oswego, Oswego, NY
   - Summa cum laude. GPA 3.91/4.0. May 2018.
 - Biological Sciences Department, SUNY Oswego, Oswego, NY
@@ -65,7 +65,7 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 - Higher Education Services Corporation, Albany, NY
   - NYS Scholarship for Academic Excellence. $500/year. 2014 – 2018.
 
-### Research Activities
+## Research Activities
 - Smithsonian Tropical Research Institute, Gamboa, Panama
   - Short-Term Fellow. May 2019 - Oct. 2019.
     - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
@@ -80,13 +80,13 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
    - Undergraduate Research Assistant – Botany. Sept. 2014 - May 2016.
      - Helped manage university greenhouse, collected local flora in the field, processed histological plant samples, and became proficient in light, confocal, and scanning electron microscopy.
 
-### Teaching Appointments
+## Teaching Appointments
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
   - Graduate Teaching Associate: Human Biology (SP 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY
   - Undergraduate Teaching Assistant: Mammalogy (AU 2016, AU 2017)
  
-### Outreach and Public Service
+## Outreach and Public Service
 - Smithsonian Tropical Research Institute, Gamboa, Panama
   - Donor visits (3). Summer 2019.
   - Bat Night (5). June 2019 - Oct. 2019.
@@ -95,7 +95,7 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY
   - STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
 
-### Professional Memberships
+## Professional Memberships
 North American Society for Bat Research. 2016 – Present. <br/>
 Animal Behavior Society. 2018 – Present. <br/>
 American Society of Mammalogists. 2020 – Present. 

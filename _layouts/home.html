@@ -8,11 +8,4 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
-
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
 </div>

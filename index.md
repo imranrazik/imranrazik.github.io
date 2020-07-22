@@ -19,4 +19,4 @@ For my dissertation, I work with common vampire bats to answer three **primary r
 3. *Can we control partner choice in vampire bats by experimentally manipulating opportunities to cooperate?*
 
 For more info on what the bats and I might be up to, check [here](https://imranrazik.github.io/Blog.html) <br/>
-Please reach out if you have any questions or want to talk vampire bats!
+Please reach out if you have any questions or want to hear more!

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: posts
+title: Updates
 permalink: /about/
 ---
 

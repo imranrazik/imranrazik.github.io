@@ -11,6 +11,6 @@ layout: home
 <br/>
 
 <p align="center">
-  <b/> Hi! I study social relationships and individual variation in vampire bats. <b/> </br>
+  <b/> Hi! I study social relationships and individual variation in vampire bats. </b> </br>
   To briefly describe my research background... <br/>
     </p>

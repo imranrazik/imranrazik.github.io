@@ -38,20 +38,20 @@ Razik, I. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of
 6. Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium.
 
 ### Grants and Fellowships
-American Society of Mammalogists                                                                                
- - Grant-in-Aid of Research. $1,500. 2020. <br/>
-Center for Latin American Studies, Ohio State University, Columbus, OH                    
- - Tinker Foundation Field Research Grant. $1,200. April 2020. <br/>
+American Society of Mammalogists <br/>                                                                                
+ - Grant-in-Aid of Research. $1,500. 2020. 
+Center for Latin American Studies, Ohio State University, Columbus, OH <br/>                   
+ - Tinker Foundation Field Research Grant. $1,200. April 2020.
 Animal Behavior Society
- - Graduate Student Research Grant. $1,500. May 2019. <br/>
+ - Graduate Student Research Grant. $1,500. May 2019.
 Smithsonian Tropical Research Institute, Panama
- - Short-Term Fellowship. $1,000. May 2019. <br/>
+ - Short-Term Fellowship. $1,000. May 2019.
 Graduate School, Ohio State University, Columbus, OH
- - Graduate Enrichment Fellowship. $25,800. Aug. 2018. <br/>
+ - Graduate Enrichment Fellowship. $25,800. Aug. 2018.
 Rice Creek Field Station, SUNY Oswego, Oswego, NY
- - Rice Creek Small Grant. $1,250. April 2017. <br/>
+ - Rice Creek Small Grant. $1,250. April 2017. 
 Rochester Academy of Science, Rochester, NY. 
- - Student Science Research Grant. $100. Jan. 2017. <br/>
+ - Student Science Research Grant. $100. Jan. 2017. 
 
 ### Awards and Scholarships
 SUNY Oswego, Oswego, NY

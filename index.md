@@ -7,4 +7,6 @@ layout: home
 (c) Imran Razik <br/>
 
 
-I'm a behavioral ecologist who studies social relationships in vampire bats. 
+<p align="center">
+  <b> Hi! I study social relationships** and individual variation in vampire bats. :</b><br>
+    </p>

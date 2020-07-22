@@ -50,7 +50,7 @@ minima:
 header_pages:
  - Blog.md
  - CV.md
- - About-Me.md
+ - Contact.md
 
 # Build settings
 theme: minima

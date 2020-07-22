@@ -10,8 +10,8 @@ layout: home
 
 <br/>
 
-## Hello! I'm a behavioral ecologist interested in social relationships, cognition, and individual variation. </br>
-## I'm also a PhD student and member of the Carter Lab at The Ohio State University in Columbus, OH, USA.
+### Hello! I'm a behavioral ecologist interested in social relationships, cognition, and individual variation. </br>
+### I'm also a PhD student and member of the Carter Lab at The Ohio State University in Columbus, OH, USA.
  
 For my dissertation, I work with common vampire bats to answer three **primary research questions**: <br/>
 1. *How do we quantify among-individual variation in cooperative traits that are inherently dependent on dyadic interactions and the market of available partners?*

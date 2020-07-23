@@ -1,4 +1,5 @@
 ---
+layout: post
 title: My academic journey
 date: 2020-07-22
 author: Imran Razik

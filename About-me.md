@@ -11,7 +11,7 @@ As for more personal interests of mine, I really love listening to and talking a
 
 
 
-#### Where to find me: 
+### Where to find me: 
 [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 [Twitter](https://twitter.com/irazik) <br/>
 [Google Scholar](https://scholar.google.com/citations?user=-YQ4T1YAAAAJ&hl=en) <br/>

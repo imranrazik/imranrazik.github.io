@@ -21,12 +21,12 @@ B.Sc. in Zoology, Honors Program. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
-1. **Razik, I.** and Sagot, M. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. In press. 
+1. **Razik, I.** and Sagot, M. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. In press. [Full text](https://doi.org/10.3996/092019-JFWM-078).
 2. Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. In press.
 3. Carter, G., Chen, T., and **Razik, I.** The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. In press. 
-4. Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. (2020). Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. 
-5. Macchiano, A., **Razik, I.**, and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151.
-6. Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. 
+4. Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. (2020). Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm).
+5. Macchiano, A., **Razik, I.**, and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151. [Full text](https://www.researchgate.net/publication/325856295_Same-sex_courtship_behaviors_in_male-biased_populations_evidence_for_the_mistaken_identity_hypothesis).
+6. Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding).
 
 ## Presentations
 1. Razik, I., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster.

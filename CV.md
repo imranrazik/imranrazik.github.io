@@ -12,7 +12,7 @@ Mail: <br/>
 Columbus, OH, 43210
 
 ## Education
-The Ohio State University, Columbus, OH <br/>
+Ohio State University, Columbus, OH <br/>
 Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 

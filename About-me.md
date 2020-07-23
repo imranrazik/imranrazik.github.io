@@ -10,9 +10,6 @@ As for more personal interests of mine, I really love listening to and talking a
 
 <br />
 <br />
-<br />
-<br />
-
 ### Where to find me: 
 [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 [Twitter](https://twitter.com/irazik) <br/>

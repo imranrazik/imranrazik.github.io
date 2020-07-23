@@ -17,7 +17,7 @@ Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 
 State University of New York College at Oswego, Oswego, NY, USA <br/>
-B.Sc. in Zoology, Honors Programs. 2014 - 2018. <br/>
+B.Sc. in Zoology, Honors Program. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications

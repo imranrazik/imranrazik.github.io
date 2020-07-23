@@ -3,7 +3,6 @@ layout: default
 ---
 # About me
 ---
-<img align="left" height="300" src="/assets/34349279-38d9-4de1-ad80-4556efc33ab1.jpg"> <br/>
 I grew up in a small agricultural town in upstate New York. My mother was born and raised in the same region, whereas my dad immigrated to the United States from Sri Lanka. Neither of my parents were able to obtain college degrees, so they taught me to keep pursuing what I found the most rewarding. I've always loved animals, so for me this meant pursuing a degree in Zoology. At university, I frequently sought out new opportunities and experiences. Over the course of four years, I was fortunate enough to work with plants, mice, shrews, frogs, squirrels, fruit flies, bats, and beavers. After graduating in 2018, I moved to Ohio to begin my dissertation on the social relationships of vampire bats! 
 <br />
 <br /> 

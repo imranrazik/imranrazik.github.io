@@ -12,11 +12,11 @@ Mail: <br/>
 Columbus, OH, 43210
 
 ## Education
-Ohio State University, Columbus, OH <br/>
+Ohio State University, Columbus, OH, USA <br/>
 Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 
-State University of New York College at Oswego, Oswego, NY <br/>
+State University of New York College at Oswego, Oswego, NY, USA <br/>
 B.Sc. in Zoology, Honors Programs. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 

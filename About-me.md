@@ -4,7 +4,7 @@ layout: default
 # About me
 ---
 
-I really love listening to and talking about music (**if anyone wants to share spotify playlists let me know**). I'm also a huge fan of nature walks and driving with the windows down. My favorite color is a tie between blue and green. Favorite food? Life Cinnamon Cereal. I named my goldfish Ralph Macchio. 
+I really love listening to and talking about music (**if anyone wants to share spotify playlists let me know**). I'm also a huge fan of nature walks and driving with the windows down. My favorite color is a tie between blue and green. Favorite food is Life Cinnamon Cereal, hands down. I named my goldfish Ralph Macchio. 
 
 #### Where to find me: 
 [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>

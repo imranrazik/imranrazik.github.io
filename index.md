@@ -3,7 +3,7 @@ layout: home
 ---
 # Research
 --- 
-![Vampire bat digital drawing - Copyright (c) 2020 Imran Razik](/assets/vampterrestrial.png) <br/>
+<img align="center" width="500" src="/assets/vampterrestrial.png"> <br/>
 <p align="right"> 
  (c) Imran Razik
 </p> 

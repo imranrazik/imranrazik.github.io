@@ -4,7 +4,7 @@ layout: default
 # About me
 ---
 
-<img align="left" height="340" src="/assets/34349279-38d9-4de1-ad80-4556efc33ab1.jpg">
+<img align="left" height="375" src="/assets/34349279-38d9-4de1-ad80-4556efc33ab1.jpg">
 I grew up in a small agricultural town in upstate New York. My mother was born and raised in the same region, whereas my dad immigrated to the United States from Sri Lanka. Neither of my parents were able to obtain college degrees, so they taught me how to work hard and pursue what I found the most rewarding. For me, this meant pursuing an undergraduate degree in Zoology. As a first-gen student in academia, I frequently sought out new experiences with both research and travel, while also dedicating myself to my coursework. I graduated with my degree in Zoology in 2018, after which I moved to Ohio to begin my dissertation on the social relationships of vampire bats! 
 <br />
 <br /> 

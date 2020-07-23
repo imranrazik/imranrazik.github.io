@@ -10,8 +10,6 @@ layout: home
  (c) Imran Razik
 </p> 
 
-<br/>
-
 ### Hi!
 <b> I'm a behavioral ecologist interested in social relationships, cognition, and individual variation. </b> <br/>
 I'm also a PhD student and member of the [Carter Lab](https://socialbat.org/) at Ohio State University in Columbus, OH, USA.

@@ -11,14 +11,13 @@ As for more personal interests of mine, I really love listening to and talking a
 <br />
 <br />
 
-<p align="center">
-  <img align="left" height="300" src="/assets/34349279-38d9-4de1-ad80-4556efc33ab1.jpg"> <br/>
-  Me getting food ready for the bats :)
-</p>
-
 **Where to find me:** <br/> 
 [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 [Twitter](https://twitter.com/irazik) <br/>
 [Google Scholar](https://scholar.google.com/citations?user=-YQ4T1YAAAAJ&hl=en) <br/>
 [ResearchGate](https://www.researchgate.net/profile/Imran_Razik) <br/>
 [ORCID](https://orcid.org/0000-0002-8529-6212) <br/>
+
+<p align="center">
+  <img height="300" src="/assets/34349279-38d9-4de1-ad80-4556efc33ab1.jpg"> <br/>
+</p>

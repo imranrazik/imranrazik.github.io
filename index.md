@@ -17,7 +17,7 @@ I'm also a PhD student and member of the Carter Lab at Ohio State University in 
 For my dissertation, I work with common vampire bats to answer three **primary research questions**: <br/>
 1. *How should we define among-individual variation in cooperative traits when cooperation is a function of both actor and receiver identity?*
 2. *Which factors (such as age, association, or cooperativeness) are most important for predicting the development of new social relationships in vampire bats?* 
-3. *Can we control partner choice and relationship development in vampire bats by experimentally manipulating opportunities to cooperate?*
+3. *Can we control partner choice (i.e. relationship formation) in vampire bats by experimentally manipulating opportunities to cooperate?*
 
 For more info on what the bats and I might be up to, check for updates [here](https://imranrazik.github.io/Blog.html) <br/>
 Please [reach out](https://imranrazik.github.io/About-me.html) if you have any questions or want to hear more!

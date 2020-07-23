@@ -10,7 +10,7 @@ layout: home
 
 <br/>
 
-##### Hi!
+### Hi!
 <b> I'm a behavioral ecologist interested in social relationships, cognition, and individual variation. </b> <br/>
 I'm also a PhD student and member of the Carter Lab at Ohio State University in Columbus, OH, USA.
  

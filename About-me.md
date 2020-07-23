@@ -8,8 +8,10 @@ I grew up in a small agricultural town in upstate New York. My mother was born a
 
 As for more personal interests of mine, I really love listening to and talking about music (**if anyone wants to share spotify playlists let me know**). I'm also a huge fan of nature walks and driving with the windows down. My favorite color is a tie between blue and green. My favorite food is Life Cinnamon Cereal, hands down. <br/> 
 
-
-
+<br />
+<br />
+<br />
+<br />
 
 ### Where to find me: 
 [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>

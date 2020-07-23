@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My academic journey
+title: My academic background
 date: 2020-07-22
 author: Imran Razik
 ---

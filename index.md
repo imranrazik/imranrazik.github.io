@@ -3,7 +3,9 @@ layout: home
 ---
 # Research
 --- 
-<img align="center" width="500" src="/assets/vampterrestrial.png"> <br/>
+<center> <img src=
+              "/assets/vampterrestrial.png" width="500" align="center"> 
+</center>
 <p align="right"> 
  (c) Imran Razik
 </p> 

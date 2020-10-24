@@ -82,7 +82,7 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Teaching Appointments
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
-  - Graduate Teaching Associate: Human Biology (SP 2020)
+  - Graduate Teaching Associate: Human Biology (SP 2020), Neurobiology of Behavior (AU 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY
   - Undergraduate Teaching Assistant: Mammalogy (AU 2016, AU 2017)
  

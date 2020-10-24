@@ -10,14 +10,14 @@ By 2016, I was inspired to pursue more research opportunities with animals in th
 
 <p align="center">
   <img src="/assets/image13.jpg" width="500"> <br/>
-  Spix's Disc-winged bats. (c) Imran Razik.
+  Spix's Disc-winged bats. © Imran Razik.
 </p>  
 
 Between 2016 and 2018 I completed my undergraduate honors thesis on the activity of North American beaver (*Castor canadensis*) and vertebrate species richness at littoral beaver lodges. To purchase field equipment, I received small competitive grants from the Rochester Academy of Science and Rice Creek Field Station. I used camera trapping, live-trapping and tagging of wild beavers, radio-telemetry, and satellite image repositories to collect my data. I analyzed these data using R, ENVI, LOAS, and ArcGIS. I then presented my work at a local outreach event hosted by the Rice Creek Associates as well as a university-wide research symposium, for which I received an award from Sigma Xi. My findings on vertebrates species richness at littoral beaver lodges were [published](https://meridian.allenpress.com/jfwm/article/doi/10.3996/092019-JFWM-078/436700/Vertebrate-species-richness-at-littoral-beaver) in *Journal of Fish and Wildlife Management*. 
 
 <p align="center">
   <img src="/assets/image6.JPG" width="500"> <br/>
-  A white-tailed deer and a great blue heron hanging out at a beaver dam. (c) Imran Razik.
+  A white-tailed deer and a great blue heron hanging out at a beaver dam. © Imran Razik.
 </p>  
 
 As I neared graduation, I began to consider graduate school. After speaking with [Dr. Gerry Carter](https://socialbat.org/), it was clear that my interests in tropical biology and bat social behavior aligned well with his ongoing work on the social relationships of vampire bats. Thus, I joined Gerry to begin my doctoral degree in Evolution, Ecology and Organismal Biology at The Ohio State University. I'm currently attempting to quantify individual variation in cooperativeness among female vampire bats and determine how this variation and other factors shape the development and regulation of cooperative social bonds in this species. Vampire bats are fitting for this line of research because they form stable social relationships distinguished by co-roosting, allogrooming, and costly food-sharing interactions. Most importantly, these social relationships can be created and manipulated between the lab and the field.  
@@ -28,7 +28,7 @@ During my first field season, I studied how vampire bats form new relationships 
 
 <p align="center">
   <img src="/assets/IMG_4282.jpg" width="500"> <br/>
-  One of my favorite bats from the 2019 field season, Winona. (c) Imran Razik.
+  One of my favorite bats from the 2019 field season, Winona. © Imran Razik.
 </p>  
 
 When I returned from the field, I presented some of my preliminary findings at the 2019 North American Symposium on Bat Research. Since then, I've scored hundreds of hours of footage and accumulated an incredibly huge dataset of social interactions (25000 observations!). I've also gotten two more grants: one from the American Society of Mammalogists and one from the Center for Latin American Studies here at OSU. Anyway, I've cleaned my data, so I guess it's time to start analyzing~ 

@@ -7,7 +7,7 @@ layout: home
  <img src="/assets/vampterrestrial.png" width="600">  
 </p>
 <p align="right"> 
- (c) Imran Razik
+ © Imran Razik
 </p> 
 
 ### Hi!

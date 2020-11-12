@@ -21,6 +21,8 @@ B.Sc. in Zoology, Honors Program. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
+**Razik, I.**, Brown, B.K.G., Page, R.A., and Carter, G.G. Non-kin adoption in the common vampire bat. [Preprint](https://drive.google.com/file/d/1ql2Sh3eYhCXmvzmGSvBcxwsZmfkyeDCo/view?usp=sharing).
+
 **Razik, I.** and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
 
 Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. 2020. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>

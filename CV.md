@@ -27,11 +27,11 @@ Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. 2020. Penguins, falcons,
 
 Carter, G., Chen, T., and **Razik, I.** 2020. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. [Book chapter](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-evolutionary-psychology/book267398#contents). <br/>
 
-Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. (2020). Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
+Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
 
-Macchiano, A., **Razik, I.**, and Sagot, M. (2018). Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151. [Full text](https://www.researchgate.net/publication/325856295_Same-sex_courtship_behaviors_in_male-biased_populations_evidence_for_the_mistaken_identity_hypothesis). <br/>
+Macchiano, A., **Razik, I.**, and Sagot, M. 2018. Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151. [Full text](https://www.researchgate.net/publication/325856295_Same-sex_courtship_behaviors_in_male-biased_populations_evidence_for_the_mistaken_identity_hypothesis). <br/>
 
-Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. (2018). The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
+Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. 2018. The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
 
 ## Presentations
 Razik, I., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>

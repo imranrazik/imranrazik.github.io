@@ -23,11 +23,11 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 ## Publications
 **Razik, I.**, Brown, B.K.G., Page, R.A., and Carter, G.G. Non-kin adoption in the common vampire bat. [Preprint](https://drive.google.com/file/d/1ql2Sh3eYhCXmvzmGSvBcxwsZmfkyeDCo/view?usp=sharing).
 
-**Razik, I.** and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
-
-Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. 2020. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
+Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. 2021. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
 
 Carter, G., Chen, T., and **Razik, I.** 2020. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. [Book chapter](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-evolutionary-psychology/book267398#contents). <br/>
+
+**Razik, I.** and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
 
 Julien, B., **Razik, I.**, Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
 
@@ -94,8 +94,10 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I.
      - Helped manage university greenhouse, collected local flora in the field, processed histological plant samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Appointments
+- Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
+  - Graduate Teaching Associate: Neurobiology of Behavior (AU 2020), Human Anatomy (SP 2021)
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
-  - Graduate Teaching Associate: Human Biology (SP 2020), Neurobiology of Behavior (AU 2020)
+  - Graduate Teaching Associate: Human Biology (SP 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY
   - Undergraduate Teaching Assistant: Mammalogy (AU 2016, AU 2017)
  

@@ -12,7 +12,7 @@ layout: home
 
 ### Hi!
 <b> I'm a behavioral ecologist interested in social bonds, cooperation, and individual variation. </b> <br/>
-I'm also a PhD student and member of the [Carter Lab](https://socialbat.org/) at Ohio State University in Columbus, OH, USA.
+I'm also a PhD candidate and member of the [Carter Lab](https://socialbat.org/) at Ohio State University in Columbus, OH, USA.
  
 For my dissertation, I work with common vampire bats to answer a few **primary research questions**: <br/>
 1. *How and why do vampire bats vary in their propensity to cooperate with strangers, and to what extent can we predict cooperative interactions based on actor and receiver identity?*

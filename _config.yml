@@ -1,9 +1,9 @@
 title: Imran Razik
 author:
-  name: Imran
+  name: 
   email: razik.2@osu.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Copyright © 2021 Imran Razik. 
+  Copyright © 2021 Imran Razik
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

@@ -6,14 +6,10 @@ layout: default
 
 # Imran Razik
 Email: [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
-Mail: <br/>
-318 W. 12th Ave. <br/>
-300 Aronoff Laboratory <br/>
-Columbus, OH, 43210
 
 ## Education
 Ohio State University, Columbus, OH, USA <br/>
-Ph.D. in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
+Ph.D. Candidate in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 
 State University of New York College at Oswego, Oswego, NY, USA <br/>
@@ -22,7 +18,7 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
 **Razik, I.**, Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. Royal Society Open Science, 8: 201927. [Full text](https://doi.org/10.1098/rsos.201927).
- - Press: [New Scientist](https://www.newscientist.com/article/2267108-vampire-bat-adopts-orphan-baby-bat-after-untimely-death-of-its-mother/), [Ohio State University News](https://news.osu.edu/a-rare-observation-of-a-vampire-bat-adopting-an-unrelated-pup/), [Smithsonian Newsdesk](https://www.si.edu/newsdesk/releases/baby-vampire-bat-adopted-moms-best-friend), [Forbes](https://www.forbes.com/sites/saratabin/2021/02/16/why-do-animals-adopt-the-case-of-a-baby-bat-adopted-by-its-mothers-best-friend-sheds-some-light-on-one-of-biologys-mysteries/?sh=5476317f4770), [Phys.org](https://phys.org/news/2021-02-baby-vampire-mom-friend.html), [EurekAlert](https://www.eurekalert.org/pub_releases/2021-02/osu-aro021021.php), [Cosmos Magazine](https://cosmosmagazine.com/uncategorized/you-might-have-missed/), [EcoWatch](https://www.ecowatch.com/vampire-bat-adopt-baby-2650428436.html), [IFLScience](https://www.iflscience.com/plants-and-animals/an-orphaned-vampire-bat-pup-was-adopted-by-its-mothers-best-friend/), [Treehugger](https://www.treehugger.com/vampire-bat-adopts-orphaned-pup-5112684), [GEO magazine (French)](https://www.geo.fr/environnement/des-chercheurs-observent-une-chauve-souris-vampire-adopter-le-petit-de-son-amie-morte-203701), [Panamá América (Spanish)](https://www.panamaamerica.com.pa/variedades/estudio-cria-un-murcielago-vampiro-fue-adoptada-1181442), [Ethologisch (German)](https://ethologisch.de/vampir-adoptiert-jungtier-einer-verstorbenen-freundin/), [Top 5% of research outputs scored by Altmetric](https://royalsociety.altmetric.com/details/99876020).
+ - Press: [New Scientist](https://www.newscientist.com/article/2267108-vampire-bat-adopts-orphan-baby-bat-after-untimely-death-of-its-mother/), [Ohio State University News](https://news.osu.edu/a-rare-observation-of-a-vampire-bat-adopting-an-unrelated-pup/), [Smithsonian Magazine](https://www.smithsonianmag.com/blogs/smithsonian-tropical-research-institute/2021/03/09/baby-vampire-bat-adopted-moms-best-friend/), [Forbes](https://www.forbes.com/sites/saratabin/2021/02/16/why-do-animals-adopt-the-case-of-a-baby-bat-adopted-by-its-mothers-best-friend-sheds-some-light-on-one-of-biologys-mysteries/?sh=5476317f4770), [Phys.org](https://phys.org/news/2021-02-baby-vampire-mom-friend.html), [EurekAlert](https://www.eurekalert.org/pub_releases/2021-02/osu-aro021021.php), [Cosmos Magazine](https://cosmosmagazine.com/uncategorized/you-might-have-missed/), [EcoWatch](https://www.ecowatch.com/vampire-bat-adopt-baby-2650428436.html), [IFLScience](https://www.iflscience.com/plants-and-animals/an-orphaned-vampire-bat-pup-was-adopted-by-its-mothers-best-friend/), [Treehugger](https://www.treehugger.com/vampire-bat-adopts-orphaned-pup-5112684), [GEO magazine (French)](https://www.geo.fr/environnement/des-chercheurs-observent-une-chauve-souris-vampire-adopter-le-petit-de-son-amie-morte-203701), [Panamá América (Spanish)](https://www.panamaamerica.com.pa/variedades/estudio-cria-un-murcielago-vampiro-fue-adoptada-1181442), [Ethologisch (German)](https://ethologisch.de/vampir-adoptiert-jungtier-einer-verstorbenen-freundin/), [Top 5% of research outputs scored by Altmetric](https://royalsociety.altmetric.com/details/99876020).
 
 Carter, G., Brown, B., **Razik, I.**, and Ripperger, S. 2021. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
 
@@ -37,6 +33,10 @@ Macchiano, A., **Razik, I.**, and Sagot, M. 2018. Same sex courtship behaviors i
 Sagot, M., Jago, A.J., **Razik, I.**, and Chaverri, G. 2018. The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
 
 ## Presentations
+Razik, I. 2021. Insights from tracking the development of new cooperative relationships in vampire bats. Behavior Discussion Group. Smithsonian Tropical Research Institute, Panama. Oral.
+
+Razik, I., Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. Animal Behavior Conference. Center for the Integrative Study of Animal Behavior, Indiana University, Indiana. United States. Oral <br/>
+
 Razik, I., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>
 
 Razik, I., Carter, G. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. <br/>
@@ -96,11 +96,11 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I.
 
 ## Teaching Appointments
 - Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
-  - Graduate Teaching Associate: Neurobiology of Behavior (AU 2020), Human Anatomy (SP 2021)
+  - Neurobiology of Behavior (AU 2020), Human Anatomy (SP 2021)
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
-  - Graduate Teaching Associate: Human Biology (SP 2020)
+  - Human Biology (SP 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY
-  - Undergraduate Teaching Assistant: Mammalogy (AU 2016, AU 2017)
+  - Mammalogy (AU 2016, AU 2017)
  
 ## Outreach and Public Service
 - Smithsonian Tropical Research Institute, Gamboa, Panama

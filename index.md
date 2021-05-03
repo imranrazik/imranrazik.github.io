@@ -9,6 +9,7 @@ layout: home
 
 ### Hi!
 <b> I'm a behavioral ecologist interested in social bonds, cooperation, and individual variation. </b> <br/>
+
 I'm also a PhD candidate and member of the [Carter Lab](https://socialbat.org/) at Ohio State University in Columbus, OH, USA.
  
 For my dissertation, I work with common vampire bats to answer a few **primary research questions**: <br/>
@@ -17,4 +18,5 @@ For my dissertation, I work with common vampire bats to answer a few **primary r
 3. *Can we control partner choice in vampire bats by experimentally manipulating opportunities to cooperate?*
 
 For more info on what the bats and I might be up to, check for updates [here](https://imranrazik.github.io/Blog.html). <br/>
+
 Please [reach out](https://imranrazik.github.io/About-me.html) if you have any questions or want to hear more~

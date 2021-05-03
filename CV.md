@@ -85,7 +85,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I.
     - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
 - Hacienda Barú Research Station, Costa Rica
   - Research Assistant. June 2016.
-    - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
+    - Captured wild Spix’s Disc-winged bats, performed behavioral experiments in a flight cage using AviSoft bioacoustics equipment and software, and analyzed data using R. 
 - SUNY Oswego Biological Sciences Department, Oswego, NY
   - Honors Thesis. Aug. 2016 - May 2018.
     - Reached proficiency in beaver trapping and tagging, VHF radio telemetry, and camera trapping. Performed satellite vegetation surveys and data analysis with ENVI Classic, ArcGIS, and R. 

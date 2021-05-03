@@ -6,7 +6,6 @@ layout: home
 <p align="center">
  <img src="/assets/vampterrestrial.png" width="600">  
 </p>
-</p> 
 
 ### Hi!
 <b> I'm a behavioral ecologist interested in social bonds, cooperation, and individual variation. </b> <br/>

@@ -103,6 +103,8 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and Razik, I.
   - Mammalogy (AU 2016, AU 2017)
  
 ## Outreach and Public Service
+- Community School District 32, Brooklyn, NY
+  - Virtual STEAM career fair for elementary students. June 2021.
 - Smithsonian Tropical Research Institute, Gamboa, Panama
   - Donor visits (3). Summer 2019.
   - Bat Night (5). June 2019 - Oct. 2019.

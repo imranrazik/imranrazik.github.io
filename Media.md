@@ -5,13 +5,8 @@ layout: default
 ---
 
 ## Presentations
-Non-kin adoption in vampire bats <br/>
-<video controls="controls">
-    <source src="assets/Razik_non-kin adoption.mp4" type="video/mp4" width="800px" height="400px">
-    Your browser does not support the HTML5 Video element.
-</video>
-
-<embed src="assets/Razik_non-kin adoption.mp4" width="420px" height="200px">
+Non-kin adoption in vampire bats: <br/>
+<embed src="assets/Razik_non-kin adoption.mp4" width="820px" height="400px">
 
 Forced proximity creates new, enduring cooperative relationships in vampire bats <br/>
 

@@ -45,15 +45,15 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 </p>
 
 <p align="center">
- <img src="/assets/vamphang.png" height="800">  
+ <img src="/assets/vamphang.png" height="600">  
 </p>
 
 <p align="center">
- <img src="/assets/vamphang_color.png" height="800">  
+ <img src="/assets/vamphang_color.png" height="600">  
 </p>
 
 <p align="center">
- <img src="/assets/vampprofile.png" height="400">  
+ <img src="/assets/vampprofile.png" width="100%">  
 </p>
 
 <p align="center">

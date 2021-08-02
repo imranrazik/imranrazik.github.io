@@ -9,6 +9,14 @@ Non-kin adoption in vampire bats: <br/>
 <embed src="assets/Razik_non-kin adoption.mp4" width="780px" height="390px"> <br/>
 
 
+<video controls width="700">
+
+    <source src="assets/Razik_non-kin adoption.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video> <br/>
+
 
 Forced proximity creates new, enduring cooperative relationships in vampire bats: <br/>
 <embed src="assets/Razik_forced proximity.mp4" width="780px" height="390px"> <br/>

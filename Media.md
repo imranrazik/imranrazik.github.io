@@ -10,7 +10,7 @@ Non-kin adoption in vampire bats: <br/>
 
 
 
-Forced proximity creates new, enduring cooperative relationships in vampire bats <br/>
+Forced proximity creates new, enduring cooperative relationships in vampire bats: <br/>
 <embed src="assets/Razik_forced proximity.mp4" width="780px" height="390px"> <br/>
 
 

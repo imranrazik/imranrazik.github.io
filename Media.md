@@ -53,7 +53,7 @@ Any personal artwork displayed below is licensed under a [Creative Commons Attri
 </p>
 
 <p align="center">
- <img src="/assets/vampprofile.png" width="100%">  
+ <img src="/assets/vampprofile.png" height="400">  
 </p>
 
 <p align="center">

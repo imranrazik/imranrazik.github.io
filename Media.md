@@ -4,7 +4,7 @@ layout: default
 # Media
 ---
 
-## Presentations
+## Recorded presentations
 Non-kin adoption in vampire bats: <br/>
 <video controls width="100%">
 

@@ -50,6 +50,7 @@ minima:
 header_pages:
  - index.md
  - Blog.md
+ - Media.md
  - CV.md
  - About-me.md
 

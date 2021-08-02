@@ -7,7 +7,7 @@ layout: default
 ## Presentations
 Non-kin adoption in vampire bats <br/>
 <video controls="controls">
-    <source src="assets/Razik_non-kin adoption.mp4" type="video/mp4">
+    <source src="assets/Razik_non-kin adoption.mp4" type="video/mp4" width="800px" height="400px">
     Your browser does not support the HTML5 Video element.
 </video>
 

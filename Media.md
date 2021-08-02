@@ -5,6 +5,14 @@ layout: default
 ---
 
 ## Presentations
+<div class="videoWrapper">
+
+<iframe width="740" height="370" src="assets/Razik_non-kin adoption.mp4" 
+frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
 Non-kin adoption in vampire bats: <br/>
 <video controls width="740">
 

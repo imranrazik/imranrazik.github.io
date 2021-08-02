@@ -33,7 +33,7 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 </p>
 
 <p align="center">
- <img src="/assets/vampterrestrial_color.png" width="100%">  
+ <img src="/assets/vampterrestrial_color_flip.png" width="100%">  
 </p>
 
 <p align="center">

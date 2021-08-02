@@ -41,7 +41,15 @@ Any personal artwork displayed below is licensed under a [Creative Commons Attri
 </p>
 
 <p align="center">
- <img src="/assets/vamphang.png" width="100%">  
+ <img src="/assets/vampflight_color.png" width="100%">  
+</p>
+
+<p align="center">
+ <img src="/assets/vamphang.png" height="800">  
+</p>
+
+<p align="center">
+ <img src="/assets/vamphang_color.png" height="800">  
 </p>
 
 <p align="center">

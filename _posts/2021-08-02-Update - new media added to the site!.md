@@ -9,9 +9,12 @@ Wow - it's been a while since my last post! Unsurprisingly, I've mostly been tea
 
 I wanted to let you all know that I've added a new page for assorted [media](https://imranrazik.github.io/Media.html) on my website. This is where I plan to upload photos, videos, and scientific illustrations of mine. In fact, I've already posted the recordings of two presentations that I made this year. The first gives an in-depth summary of the non-kin adoption paper, while the second covers a more recent analysis looking at the effect of forced proximity on the choice of cooperation partners in vampire bats. If you get the chance to watch either of them, please let me know you what you think! <br/>
 
- <video controls loop>
-  <source src="batsincage.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+<video controls loop width="100%">
+
+    <source src="assets/batsincage.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video> <br/>
 
 

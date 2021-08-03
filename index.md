@@ -19,4 +19,4 @@ For my dissertation, I work with common vampire bats to answer a few **primary r
 
 For more info on what the bats and I might be up to, check for updates [here](https://imranrazik.github.io/Blog.html). <br/>
 
-Please [reach out](https://imranrazik.github.io/About-me.html) if you have any questions or want to hear more~
+Please reach out if you have any questions or want to hear more~

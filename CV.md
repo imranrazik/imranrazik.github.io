@@ -98,13 +98,16 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
      - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Appointments
-- Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
-  - Neurobiology of Behavior (AU 2020)
-  - Human Anatomy (SP 2021)
+- Department of Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
+  - Graduate teaching assistant
+    - Neurobiology of Behavior (AU 2020)
+    - Human Anatomy (SP 2021)
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
-  - Human Biology (SP 2020)
+  - Graduate teaching assistant
+    - Human Biology (SP 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY
-  - Mammalogy (AU 2016, AU 2017)
+  - Undergraduate teaching assistant
+    - Mammalogy (AU 2016, AU 2017)
  
 ## Outreach and Public Service
 - Community School District 32, Brooklyn, NY

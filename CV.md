@@ -117,8 +117,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
 
 ## Professional Development
-Workshops: 
-- Cultivating an inclusive environment: recognizing and responding to unconscious bias. Office of Equity and Inclusion, The Ohio State University, Columbus, OH. Jan. 2020.
+Attended workshop *Cultivating an inclusive environment: recognizing and responding to unconscious bias*. Office of Equity and Inclusion, The Ohio State University, Columbus, OH. Jan. 2020.
 
 ## Professional Memberships
 North American Society for Bat Research. 2016 – Present. <br/>

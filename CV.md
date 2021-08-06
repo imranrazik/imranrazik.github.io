@@ -20,10 +20,6 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 **Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. Royal Society Open Science, 8: 201927. [Full text](https://doi.org/10.1098/rsos.201927).
  - Press: [New Scientist](https://www.newscientist.com/article/2267108-vampire-bat-adopts-orphan-baby-bat-after-untimely-death-of-its-mother/), [Ohio State University News](https://news.osu.edu/a-rare-observation-of-a-vampire-bat-adopting-an-unrelated-pup/), [Smithsonian Magazine](https://www.smithsonianmag.com/blogs/smithsonian-tropical-research-institute/2021/03/09/baby-vampire-bat-adopted-moms-best-friend/), [Forbes](https://www.forbes.com/sites/saratabin/2021/02/16/why-do-animals-adopt-the-case-of-a-baby-bat-adopted-by-its-mothers-best-friend-sheds-some-light-on-one-of-biologys-mysteries/?sh=5476317f4770), [Phys.org](https://phys.org/news/2021-02-baby-vampire-mom-friend.html), [EurekAlert](https://www.eurekalert.org/pub_releases/2021-02/osu-aro021021.php), [Cosmos Magazine](https://cosmosmagazine.com/uncategorized/you-might-have-missed/), [EcoWatch](https://www.ecowatch.com/vampire-bat-adopt-baby-2650428436.html), [IFLScience](https://www.iflscience.com/plants-and-animals/an-orphaned-vampire-bat-pup-was-adopted-by-its-mothers-best-friend/), [Treehugger](https://www.treehugger.com/vampire-bat-adopts-orphaned-pup-5112684), [GEO magazine (French)](https://www.geo.fr/environnement/des-chercheurs-observent-une-chauve-souris-vampire-adopter-le-petit-de-son-amie-morte-203701), [Panamá América (Spanish)](https://www.panamaamerica.com.pa/variedades/estudio-cria-un-murcielago-vampiro-fue-adoptada-1181442), [Ethologisch (German)](https://ethologisch.de/vampir-adoptiert-jungtier-einer-verstorbenen-freundin/), [Top 5% of research outputs scored by Altmetric](https://royalsociety.altmetric.com/details/99876020).
 
-Carter, G., Brown, B., **Razik, I**., and Ripperger, S. 2021. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
-
-Carter, G., Chen, T., and **Razik, I**. 2020. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. [Book chapter](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-evolutionary-psychology/book267398#contents). <br/>
-
 **Razik, I**. and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
 
 Julien, B., **Razik, I**., Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
@@ -32,46 +28,55 @@ Macchiano, A., **Razik, I**., and Sagot, M. 2018. Same sex courtship behaviors i
 
 Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. 2018. The importance of group vocal behavior in roost finding. Animal Behavior, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
 
+## Book Chapters
+Carter, G., Brown, B., **Razik, I**., and Ripperger, S. 2021. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: 50 Years of Bat Research. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
+
+Carter, G., Chen, T., and **Razik, I**. 2020. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. [Book chapter](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-evolutionary-psychology/book267398#contents). <br/>
+
 ## Presentations
-**Razik, I**. 2021. Insights from tracking the development of new cooperative relationships in vampire bats. Behavior Discussion Group. Smithsonian Tropical Research Institute, Panama. Oral.
+**Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. Aug. 2021. Forced association induces new cooperative relationships in female vampire bats. Animal Behavior Society 2021 virtual meeting. Oral. 
 
-**Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. Animal Behavior Conference. Center for the Integrative Study of Animal Behavior, Indiana University, Indiana. United States. Oral. <br/>
+**Razik, I**. March 2021. Insights from tracking the development of new cooperative relationships in vampire bats. Behavior Discussion Group. Smithsonian Tropical Research Institute, Panama. Oral.
 
-**Razik, I**., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>
+**Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. March 2021. Non-kin adoption in the common vampire bat. Animal Behavior Conference. Center for the Integrative Study of Animal Behavior, Indiana University, Indiana. United States. Oral. <br/>
 
-**Razik, I**., Carter, G. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. <br/>
+**Razik, I**., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. Oct. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>
 
-**Razik, I**. and Sagot, M. 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. <br/>
+**Razik, I**., Carter, G. Feb. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. <br/>
 
-**Razik, I**. and Sagot, M. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral. <br/>
+**Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. <br/>
 
-Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster. <br/>
+**Razik, I**. and Sagot, M. Nov. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral. <br/>
 
-Bachelier, J., **Razik, I**., Sanchez, F., and Seago, J.L. 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral. <br/>
+Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. Oct. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster. <br/>
 
-Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, I**. 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium. <br/>
+Bachelier, J., **Razik, I**., Sanchez, F., and Seago, J.L. July 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral. <br/>
+
+Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, I**. July 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium. <br/>
+
+## Invited Talks
 
 ## Grants and Fellowships
 - American Society of Mammalogists                                                                                 
-  - Grant-in-Aid of Research. $1,500. May 2020. 
+  - Grant-in-Aid of Research. $1,500. 2020. 
 - Center for Latin American Studies, Ohio State University, Columbus, OH <br/>                   
-  - Tinker Foundation Field Research Grant. $1,200. April 2020.
+  - Tinker Foundation Field Research Grant. $1,200. 2020.
 - Animal Behavior Society
-  - Graduate Student Research Grant. $1,500. May 2019.
+  - Graduate Student Research Grant. $1,500. 2019.
 - Smithsonian Tropical Research Institute, Panama
-  - Short-Term Fellowship. $1,000. May 2019.
+  - Short-Term Fellowship. $1,000. 2019.
 - Graduate School, Ohio State University, Columbus, OH
-  - Graduate Enrichment Fellowship. $25,800. Aug. 2018.
+  - Graduate Enrichment Fellowship. $25,800. 2018.
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY
-  - Rice Creek Small Grant. $1,250. April 2017. 
+  - Rice Creek Small Grant. $1,250. 2017. 
 - Rochester Academy of Science, Rochester, NY. 
-  - Student Science Research Grant. $100. Jan. 2017. 
+  - Student Science Research Grant. $100. 2017. 
 
 ## Awards and Scholarships
 - SUNY Oswego, Oswego, NY
-  - Summa cum laude. GPA 3.91/4.0. May 2018.
+  - Summa cum laude. GPA 3.91/4.0. 2018.
 - Biological Sciences Department, SUNY Oswego, Oswego, NY
-  - Outstanding Zoology Senior Award. $425. April 2018.
+  - Outstanding Zoology Senior Award. $425. 2018.
 - Honors Program, SUNY Oswego, Oswego, NY
   - McGill Peterson Honors Program Award. $475/year. 2015 – 2018.
 - SUNY Oswego, Oswego, NY
@@ -92,7 +97,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
    - Undergraduate Research Assistant – Animal Ecology. Aug. 2016 - May 2018. 
      - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
    - Undergraduate Research Assistant – Botany. Sept. 2014 - May 2016.
-     - Helped manage university greenhouse, collected local flora in the field, processed histological plant samples, and became proficient in light, confocal, and scanning electron microscopy.
+     - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Appointments
 - Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
@@ -112,6 +117,10 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Open House. March 2019.
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY
   - STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
+
+## Professional Development
+Workshops: 
+- Cultivating an inclusive environment: recognizing and responding to unconscious bias. Office of Equity and Inclusion, The Ohio State University, Columbus, OH. Jan. 2020.
 
 ## Professional Memberships
 North American Society for Bat Research. 2016 – Present. <br/>

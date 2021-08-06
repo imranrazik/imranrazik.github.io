@@ -54,8 +54,6 @@ Bachelier, J., **Razik, I**., Sanchez, F., and Seago, J.L. July 2015. The root o
 
 Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, I**. July 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium. <br/>
 
-## Invited Talks
-
 ## Grants and Fellowships
 - American Society of Mammalogists                                                                                 
   - Grant-in-Aid of Research. $1,500. 2020. 

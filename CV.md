@@ -99,7 +99,8 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 
 ## Teaching Appointments
 - Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, OH
-  - Neurobiology of Behavior (AU 2020), Human Anatomy (SP 2021)
+  - Neurobiology of Behavior (AU 2020)
+  - Human Anatomy (SP 2021)
 - Center for Life Sciences Education, Ohio State University, Columbus, OH
   - Human Biology (SP 2020)
 - SUNY Oswego Biological Sciences Department, Oswego, NY

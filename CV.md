@@ -22,7 +22,7 @@ Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 **Razik, I**. and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. Journal of Fish and Wildlife Management. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
 
-Julien, B., **Razik, I**., Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
+Bachelier, J., **Razik, I**., Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. Plants, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
 
 Macchiano, A., **Razik, I**., and Sagot, M. 2018. Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. Acta Ethologica, 21: 147-151. [Full text](https://www.researchgate.net/publication/325856295_Same-sex_courtship_behaviors_in_male-biased_populations_evidence_for_the_mistaken_identity_hypothesis). <br/>
 

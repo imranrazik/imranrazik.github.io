@@ -110,7 +110,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Virtual STEAM career fair for elementary students. June 2021.
 - Smithsonian Tropical Research Institute, Gamboa, Panama
   - Donor visits (3). Summer 2019.
-  - Bat Night (5). June 2019 - Oct. 2019.
+  - Monthly *Bat Night*. June 2019 - Oct. 2019.
 - Museum of Biological Diversity, The Ohio State University, Columbus, OH
   - Open House. March 2019.
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY

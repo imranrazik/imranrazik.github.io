@@ -96,8 +96,10 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 ## Teaching Appointments
 2021&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
-
+<div class="display-element">
+    <span class="display-label">2020&nbsp;&nbsp;&nbsp;</span>
+    <span class="display-field">TA for Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU</span>
+</div>
 2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Biology, Center for Life Sciences Education at OSU
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;TA for Mammalogy, Biological Sciences Department at SUNY Oswego

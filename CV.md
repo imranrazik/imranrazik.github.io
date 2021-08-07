@@ -13,7 +13,7 @@ Ph.D. Candidate in Evolution, Ecology, and Organismal Biology. 2018 - present. <
 Principal Investigator: Dr. Gerald Carter
 
 State University of New York College at Oswego, Oswego, NY, USA <br/>
-B.Sc. in Zoology, Honors Program, *Summa cum laude*. 2014 - 2018. <br/>
+B.Sc. in Zoology, Honors, *Summa cum laude*. 2014 - 2018. <br/>
 Research Advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
@@ -42,11 +42,7 @@ Carter, G., Chen, T., and **Razik, I**. 2020. The Theory of Reciprocal Altruism.
 
 **Razik, I**., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. Oct. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>
 
-**Razik, I**., Carter, G. Feb. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. <br/>
-
 **Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. *Won Sigma Xi - QUEST Award for outstanding presentation* <br/>
-
-**Razik, I**. and Sagot, M. Nov. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral. <br/>
 
 Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. Oct. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster. <br/>
 
@@ -74,7 +70,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 ## Awards and Scholarships
 2018&nbsp;&nbsp;&nbsp;&nbsp;Outstanding zoology senior award, Biological Sciences Department at SUNY Oswego ($425)
 
-2015&nbsp;&nbsp;&nbsp;&nbsp;McGill Peterson honors program award, Honors Program at SUNY Oswego ($1,425)
+2015&nbsp;&nbsp;&nbsp;&nbsp;McGill-Peterson honors program award, Honors Program at SUNY Oswego ($1,425)
 
 2014&nbsp;&nbsp;&nbsp;&nbsp;Presidental scholarship, SUNY Oswego ($18,800)
 
@@ -93,15 +89,15 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Appointments
-2021&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
+2021&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
+2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Biology, Center for Life Sciences Education at OSU
+2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Biology, Center for Life Sciences Education at OSU
 
-2017&nbsp;&nbsp;&nbsp;&nbsp;TA for Mammalogy, Biological Sciences Department at SUNY Oswego
+2017&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, Biological Sciences Department at SUNY Oswego
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;TA for Mammalogy, Biological Sciences Department at SUNY Oswego
+2016&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, Biological Sciences Department at SUNY Oswego
  
 ## Outreach and Public Service
 - Community School District 32, Brooklyn, NY
@@ -110,9 +106,10 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Donor visits (3). Summer 2019.
   - Monthly *Bat Night*. June 2019 - Oct. 2019.
 - Museum of Biological Diversity, The Ohio State University, Columbus, OH
-  - Open House. March 2019.
+  - Open House (3,000+ visitors). March 2019.
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY
   - STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
+  - Presented undegraduate thesis to public audience at annual social event. Nov. 2017.
 
 ## Professional Development
 Attended workshop *Cultivating an inclusive environment: recognizing and responding to unconscious bias*. Office of Equity and Inclusion, The Ohio State University, Columbus, OH. Jan. 2020.

@@ -44,7 +44,7 @@ Carter, G., Chen, T., and **Razik, I**. 2020. The Theory of Reciprocal Altruism.
 
 **Razik, I**., Carter, G. Feb. 2019. Causes and consequences of Individual Variation in Cooperativeness in Vampire Bats. Graduate Recruitment. The Ohio State University, Columbus, Ohio. United States. Poster. <br/>
 
-**Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. <br/>
+**Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. *Won Sigma Xi - QUEST Award for outstanding presentation* <br/>
 
 **Razik, I**. and Sagot, M. Nov. 2017. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. Rice Creek Associates Annual Social. Rice Creek Field Station, Oswego, New York. United States. Oral. <br/>
 
@@ -69,6 +69,8 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;Student science research grant, Rochester Academy of Science ($100)
 
+2016&nbsp;&nbsp;&nbsp;&nbsp;Travel grant, Office of Research and Individualized Student Experiences at SUNY Oswego ($250)
+
 ## Awards and Scholarships
 2018&nbsp;&nbsp;&nbsp;&nbsp;Outstanding zoology senior award, Biological Sciences Department at SUNY Oswego ($425)
 
@@ -79,27 +81,22 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 2014&nbsp;&nbsp;&nbsp;&nbsp;NYS scholarship for academic excellence, NYS Higher Education Services Corporation ($2,000)
 
 ## Research Activities
-- Smithsonian Tropical Research Institute, Gamboa, Panama
-  - **Short-Term Fellow**. May 2019 - Oct. 2019.
-    - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
-- Hacienda Barú Research Station, Costa Rica
-  - **Research Assistant**. June 2016.
-    - Captured wild Spix’s Disc-winged bats, performed behavioral experiments in a flight cage using AviSoft bioacoustics equipment and software, and analyzed data using R. 
-- SUNY Oswego Biological Sciences Department, Oswego, NY
-  - **Honors Thesis**. Aug. 2016 - May 2018.
-    - Reached proficiency in beaver trapping and tagging, VHF radio telemetry, and camera trapping. Performed satellite vegetation surveys and data analysis with ENVI Classic, ArcGIS, and R. 
-   - **Undergraduate Research Assistant** – Animal Ecology. Aug. 2016 - May 2018. 
-     - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
-   - **Undergraduate Research Assistant** – Botany. Sept. 2014 - May 2016.
-     - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
+- **Short-term fellow** at Smithsonian Tropical Research Institute. May - Oct. 2019.
+  - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
+- **Research assistant** at Hacienda Barú Research Station, Costa Rica. Summer 2016. 
+  - Captured wild Spix’s Disc-winged bats, performed behavioral experiments in a flight cage using AviSoft bioacoustics equipment and software, and analyzed data using R. 
+- **Honors thesis** at SUNY Oswego. Aug. 2016 - May 2018.
+  - Reached proficiency in beaver trapping and tagging, VHF radio telemetry, and camera trapping. Performed satellite vegetation surveys and data analysis with ENVI Classic, ArcGIS, and R. 
+- **Undergraduate research assistant (animal ecology)** at SUNY Oswego. Aug. 2016 - May 2018. 
+  - Trapped and handled small- to medium-sized mammals, performed behavioral experiments, and used radio telemetry techniques to tag and track local wildlife. 
+- **Undergraduate research assistant (botany)** at SUNY Oswego. Sept. 2014 - May 2016.
+  - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Appointments
 2021&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
 
-<div class="display-element">
-    <span class="display-label">2020&nbsp;&nbsp;&nbsp;</span>
-    <span class="display-field">TA for Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU</span>
-</div>
+2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
+
 2020&nbsp;&nbsp;&nbsp;&nbsp;TA for Human Biology, Center for Life Sciences Education at OSU
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;TA for Mammalogy, Biological Sciences Department at SUNY Oswego

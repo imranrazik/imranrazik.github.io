@@ -34,21 +34,22 @@ Carter, G., Brown, B., **Razik, I**., and Ripperger, S. 2021. Penguins, falcons,
 Carter, G., Chen, T., and **Razik, I**. 2020. The Theory of Reciprocal Altruism. In: The SAGE Handbook of Evolutionary Psychology (ed: Shackelford, T.). Sage. [Book chapter](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-evolutionary-psychology/book267398#contents). <br/>
 
 ## Presentations
-**Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. Aug. 2021. Forced association induces new cooperative relationships in female vampire bats. Animal Behavior Society 2021 virtual meeting. Oral. 
-
-**Razik, I**. March 2021. Insights from tracking the development of new cooperative relationships in vampire bats. Behavior Discussion Group. Smithsonian Tropical Research Institute, Panama. Oral.
+**Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. Aug. 2021. Forced association induces new cooperative relationships in female vampire bats. Animal Behavior Society annual meeting. Oral. 
 
 **Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. March 2021. Non-kin adoption in the common vampire bat. Animal Behavior Conference. Center for the Integrative Study of Animal Behavior, Indiana University, Indiana. United States. Oral. <br/>
 
 **Razik, I**., Brown, B.K.G., Marroquin, C.M., and Carter, G.G. Oct. 2019. Female Vampire Bats Vary in their Cooperativeness Towards Strangers. North American Symposium on Bat Research. Kalamazoo, Michigan. United States. Poster. <br/>
 
-**Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. *Won Sigma Xi - QUEST Award for outstanding presentation* <br/>
+**Razik, I**. and Sagot, M. April 2018. Effects of seasonality on the foraging patterns of the North American beaver, Castor canadensis. QUEST Symposium. State University of New York College at Oswego, Oswego, New York. United States. Oral. *Won Sigma Xi - QUEST Award for outstanding presentation*. <br/>
 
 Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. Oct. 2016. Being Loud Won’t Help You Find Your House: Contact-call Rates and Roost Finding in Thyroptera tricolor. North American Symposium on Bat Research. San Antonio, Texas. United States. Poster. <br/>
 
 Bachelier, J., **Razik, I**., Sanchez, F., and Seago, J.L. July 2015. The root of Austrobaileya scandens (Austrobaileyaceae) and its implications for the evolution of root structure and development in seed plants. Botany Annual Conference. Edmonton, Alberta. Canada. Oral. <br/>
 
 Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, I**. July 2015. Anatomical Aspects of Nymphaeales That Ed Schneider Did Not Do – Mostly Under Water. Botany Annual Conference. Edmonton, Alberta. Canada. Colloqium. <br/>
+
+## Invited Talks
+**Razik, I**. March 2021. Insights from tracking the development of new cooperative relationships in vampire bats. Behavior Discussion Group. Smithsonian Tropical Research Institute, Panama. 
 
 ## Grants and Fellowships
 2020&nbsp;&nbsp;&nbsp;&nbsp;Grant-in-aid of research, American Society of Mammalogists ($1,500)
@@ -77,7 +78,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 2014&nbsp;&nbsp;&nbsp;&nbsp;NYS scholarship for academic excellence, NYS Higher Education Services Corporation ($2,000)
 
 ## Research Activities
-- **Short-term fellow** at Smithsonian Tropical Research Institute. May - Oct. 2019.
+- **Short-term fellow** at Smithsonian Tropical Research Institute. May 2019 - Oct. 2019.
   - Organized a team of undergraduates, graduates, and interns in caring for and studying captive vampire bats. Performed daily behavior experiments for 5 months.
 - **Research assistant** at Hacienda Barú Research Station, Costa Rica. Summer 2016. 
   - Captured wild Spix’s Disc-winged bats, performed behavioral experiments in a flight cage using AviSoft bioacoustics equipment and software, and analyzed data using R. 
@@ -88,7 +89,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 - **Undergraduate research assistant (botany)** at SUNY Oswego. Sept. 2014 - May 2016.
   - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
-## Teaching Appointments
+## Teaching Experience
 2021&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
 
 2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
@@ -112,6 +113,8 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Presented undegraduate thesis to public audience at annual social event. Nov. 2017.
 
 ## Professional Development
+Attended workshop *I'm teaching but is it working? Basics of assessing instructional design and redesign*. Michael V. Drake Institute for Teaching and Learning, The Ohio State University, Columbus, OH. Aug. 2021.
+
 Attended workshop *Cultivating an inclusive environment: recognizing and responding to unconscious bias*. Office of Equity and Inclusion, The Ohio State University, Columbus, OH. Jan. 2020.
 
 ## Professional Memberships

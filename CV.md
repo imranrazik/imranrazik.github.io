@@ -8,7 +8,7 @@ layout: default
 Email: [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 
 ## Education
-Ohio State University, Columbus, OH, USA <br/>
+The Ohio State University, Columbus, OH, USA <br/>
 Ph.D. Candidate in Evolution, Ecology, and Organismal Biology. 2018 - present. <br/>
 Principal Investigator: Dr. Gerald Carter
 
@@ -90,15 +90,17 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
   - Helped manage university greenhouse, collected local flora, processed samples, and became proficient in light, confocal, and scanning electron microscopy.
 
 ## Teaching Experience
-2021&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Anatomy, Department of Evolution, Ecology and Organismal Biology at OSU
+2021&nbsp;&nbsp;&nbsp;&nbsp;TA - Climate Change: Mechanisms, Impacts, and Mitigation, OSU
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Neurobiology of Behavior, Department of Evolution, Ecology and Organismal Biology at OSU
+2021&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Anatomy, OSU
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Biology, Center for Life Sciences Education at OSU
+2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Neurobiology of Behavior, OSU
 
-2017&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, Biological Sciences Department at SUNY Oswego
+2020&nbsp;&nbsp;&nbsp;&nbsp;TA - Human Biology, OSU
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, Biological Sciences Department at SUNY Oswego
+2017&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, SUNY Oswego
+
+2016&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, SUNY Oswego
  
 ## Outreach and Public Service
 - Community School District 32, Brooklyn, NY

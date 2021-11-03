@@ -17,7 +17,7 @@ B.Sc. in Zoology, Honors, *Summa cum laude*. 2014 - 2018. <br/>
 Research advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
-Yarlagadda, K., **Razik, I**., Malhi, R.S., and Carter, G.G. Accepted. Social convergence of gut microbiomes in vampires bats. *Biology Letters*.
+Yarlagadda, K., **Razik, I**., Malhi, R.S., and Carter, G.G. 2021. Social convergence of gut microbiomes in vampires bats. *Biology Letters*, 17: 20210389. [Full text](https://doi.org/10.1098/rsbl.2021.0389).
 
 **Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. *Royal Society Open Science*, 8: 201927. [Full text](https://doi.org/10.1098/rsos.201927).
  - Press: [New Scientist](https://www.newscientist.com/article/2267108-vampire-bat-adopts-orphan-baby-bat-after-untimely-death-of-its-mother/), [Ohio State University News](https://news.osu.edu/a-rare-observation-of-a-vampire-bat-adopting-an-unrelated-pup/), [Smithsonian Magazine](https://www.smithsonianmag.com/blogs/smithsonian-tropical-research-institute/2021/03/09/baby-vampire-bat-adopted-moms-best-friend/), [Forbes](https://www.forbes.com/sites/saratabin/2021/02/16/why-do-animals-adopt-the-case-of-a-baby-bat-adopted-by-its-mothers-best-friend-sheds-some-light-on-one-of-biologys-mysteries/?sh=5476317f4770), [EcoWatch](https://www.ecowatch.com/vampire-bat-adopt-baby-2650428436.html), [IFLScience](https://www.iflscience.com/plants-and-animals/an-orphaned-vampire-bat-pup-was-adopted-by-its-mothers-best-friend/), [Treehugger](https://www.treehugger.com/vampire-bat-adopts-orphaned-pup-5112684), [GEO magazine (French)](https://www.geo.fr/environnement/des-chercheurs-observent-une-chauve-souris-vampire-adopter-le-petit-de-son-amie-morte-203701), [Panamá América (Spanish)](https://www.panamaamerica.com.pa/variedades/estudio-cria-un-murcielago-vampiro-fue-adoptada-1181442), [Ethologisch (German)](https://ethologisch.de/vampir-adoptiert-jungtier-einer-verstorbenen-freundin/), [Top 5% of research outputs scored by Altmetric](https://royalsociety.altmetric.com/details/99876020).
@@ -28,7 +28,7 @@ Bachelier, J., **Razik, I**., Schauer, M., and Seago, J.L., Jr. 2020. Roots stru
 
 Macchiano, A., **Razik, I**., and Sagot, M. 2018. Same sex courtship behaviors in male-biased populations: Evidence for the mistaken identity hypothesis. *Acta Ethologica*, 21: 147-151. [Full text](https://www.researchgate.net/publication/325856295_Same-sex_courtship_behaviors_in_male-biased_populations_evidence_for_the_mistaken_identity_hypothesis). <br/>
 
-Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. 2018. The importance of group vocal behavior in roost finding. *Animal Behavior*, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
+Sagot, M., Jago, A.J., **Razik, I**., and Chaverri, G. 2018. The importance of group vocal behavior in roost finding. *Animal Behaviour*, 142: 157-164. [Full text](https://www.researchgate.net/publication/326447054_The_importance_of_group_vocal_behaviour_in_roost_finding). <br/>
 
 ## Book Chapters
 Carter, G., Brown, B., **Razik, I**., and Ripperger, S. 2021. Penguins, falcons, and mountain lions: the extraordinary host diversity of vampire bats. In: *50 Years of Bat Research*. Foundations and New Frontiers: Fascinating Life Sciences. Springer. [Book chapter](https://www.springer.com/gp/book/9783030547264). <br/>
@@ -68,7 +68,7 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;Student science research grant, Rochester Academy of Science ($100)
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;Travel grant, Office of Research and Individualized Student Experiences at SUNY Oswego ($250)
+2016&nbsp;&nbsp;&nbsp;&nbsp;Travel grant, RISE Office at SUNY Oswego ($250)
 
 ## Awards and Scholarships
 2018&nbsp;&nbsp;&nbsp;&nbsp;Outstanding zoology senior award, Biological Sciences Department at SUNY Oswego ($425)
@@ -93,15 +93,17 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 2016&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, SUNY Oswego
  
 ## Outreach and Public Service
+- Franklinton Farms, Columbus, OH
+  - Fall festival - educated visitors about bats.  Nov. 2021. 
 - Community School District 32, Brooklyn, NY
   - Virtual STEAM career fair for elementary students. June 2021.
 - Smithsonian Tropical Research Institute, Gamboa, Panama
-  - Tours with visiting donors (3). Summer 2019.
+  - Tours of captive bat colonies with visiting donors (3). Summer 2019.
   - Monthly *Bat Night*. June 2019 - Oct. 2019.
 - Museum of Biological Diversity, The Ohio State University, Columbus, OH
-  - Open House volunteer (3,000+ visitors). March 2019.
+  - Open House volunteer in tetrapod collection (3,000+ visitors). March 2019.
 - Rice Creek Field Station, SUNY Oswego, Oswego, NY
-  - STEP Program - LeMoyne College Rice Creek/Planetarium Visit. March 2018. 
+  - Zoology Q&A for high school students of LeMoyne College STEP program. March 2018. 
   - Presented undegraduate thesis to public audience at annual social event. Nov. 2017.
 
 ## Professional Development

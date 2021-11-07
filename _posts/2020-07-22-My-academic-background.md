@@ -27,7 +27,7 @@ To aid in the early stages of this research, I was awarded a one-year fellowship
 During my first field season, I studied how vampire bats form new relationships by introducing 7 female vampire bats from each of three distant sites in Panama. I fasted individuals to induce food-sharing and I recorded these interactions with a system of infrared surveillance cameras. To test whether forced association creates new relationships, I temporarily divided the colony into 7 groups with 3 unfamiliar bats in each group. I then measured their rates of relationship development from before and after this manipulation phase. To collect behavioral data, I was scoring video footage with help from a team of 6 assistants. I also trained this team to help with experiments and daily animal care. 
 
 <p align="center">
-  <img src="/assets/IMG_4282.jpg" width="500"> <br/>
+  <img src="/assets/photos/IMG_4282.jpg" width="500"> <br/>
   One of my favorite bats from the 2019 field season, Winona.
 </p>  
 

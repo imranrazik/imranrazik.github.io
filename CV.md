@@ -93,6 +93,8 @@ Seago, J.L., Yang, C., Zhang, X., Bachelier, J., Yuan, L., Ai, X., and **Razik, 
 2016&nbsp;&nbsp;&nbsp;&nbsp;TA - Mammalogy, SUNY Oswego
  
 ## Outreach and Public Service
+- Ecology on Tap, Columbus, OH
+  - Gave public talk about bats. Nov. 2021. 
 - Franklinton Farms, Columbus, OH
   - Fall festival - educated visitors about bats.  Nov. 2021. 
 - Community School District 32, Brooklyn, NY

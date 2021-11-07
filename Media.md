@@ -30,44 +30,9 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/vampterrestrial.png" width="100%">| <img src="/assets/vampterrestrial_color_flip.png" width="100%">|
-|<img src="/assets/vampflight.png" width="100%">| <img src="/assets/vampflight_color.png" width="100%">|
+|<img src="/assets/vampterrestrial.png" width="65%">| <img src="/assets/vampterrestrial_color_flip.png" width="50%">|
+|<img src="/assets/vampflight.png" width="65%">| <img src="/assets/vampflight_color.png" width="50%">|
 |<img src="/assets/vamphang.png" height="300">| <img src="/assets/vamphang_color.png" height="300">|
-|<img src="/assets/cow_v02.png" width="100%">| <img src="/assets/cow_v02_color.png" width="100%">|
+|<img src="/assets/cow_v02.png" width="65%">| <img src="/assets/cow_v02_color.png" width="50%">|
 
 
-<p align="center">
- <img src="/assets/vampterrestrial.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/vampterrestrial_color_flip.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/vampflight.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/vampflight_color.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/vamphang.png" height="600">  
-</p>
-
-<p align="center">
- <img src="/assets/vamphang_color.png" height="600">  
-</p>
-
-<p align="center">
- <img src="/assets/vampprofile.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/cow_v02.png" width="100%">  
-</p>
-
-<p align="center">
- <img src="/assets/cow_v02_color.png" width="100%">  
-</p>

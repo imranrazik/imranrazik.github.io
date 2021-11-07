@@ -30,12 +30,12 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 
 <table align="center">
     <tr>
-        <td align="center"><img src="/assets/vampterrestrial_color_flip.png" width="100%"></td>
-        <td align="center"><img src="/assets/vampflight_color.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampterrestrial_color_flip.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampflight_color.png" width="100%"></td>
     </tr>
     <tr>
-        <td align="center"><img src="/assets/vamphang_color.png" width="30%"></td>
-        <td align="center"><img src="/assets/cow_v02_color.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vamphang_color.png" width="30%"></td>
+        <td align="center"><img src="/assets/illustrations/cow_v02_color.png" width="100%"></td>
     </tr>
 </table>
 

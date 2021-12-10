@@ -26,7 +26,7 @@ Forced proximity creates new, enduring cooperative relationships in vampire bats
 
 
 ## Illustrations
-My personal artwork displayed below and elsewhere on this site is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
+My personal artwork displayed below and elsewhere on this site is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
 <table align="center">
     <tr>

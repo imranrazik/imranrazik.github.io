@@ -17,12 +17,15 @@ B.Sc. in Zoology, Honors, *Summa cum laude*. 2014 - 2018. <br/>
 Research advisors: Dr. Julien Bachelier and Dr. Maria Sagot
 
 ## Publications
+**Razik, I.**, Brown, B.K.G., and Carter, G.G. Forced proximity promotes the formation of enduring cooperative relationships in vampire bats. *Biology Letters*, in press. [Preprint](https://doi.org/10.1101/2022.01.30.478382). 
+
 Yarlagadda, K., **Razik, I**., Malhi, R.S., and Carter, G.G. 2021. Social convergence of gut microbiomes in vampires bats. *Biology Letters*, 17: 20210389. [Full text](https://doi.org/10.1098/rsbl.2021.0389).
+- Press: [New Scientist](https://www.newscientist.com/article/2295878-vampire-bats-that-live-together-share-a-common-gut-microbiome/).
 
 **Razik, I**., Brown, B.K.G., Page, R.A., and Carter, G.G. 2021. Non-kin adoption in the common vampire bat. *Royal Society Open Science*, 8: 201927. [Full text](https://doi.org/10.1098/rsos.201927).
  - Press: [New Scientist](https://www.newscientist.com/article/2267108-vampire-bat-adopts-orphan-baby-bat-after-untimely-death-of-its-mother/), [Ohio State University News](https://news.osu.edu/a-rare-observation-of-a-vampire-bat-adopting-an-unrelated-pup/), [Smithsonian Magazine](https://www.smithsonianmag.com/blogs/smithsonian-tropical-research-institute/2021/03/09/baby-vampire-bat-adopted-moms-best-friend/), [Forbes](https://www.forbes.com/sites/saratabin/2021/02/16/why-do-animals-adopt-the-case-of-a-baby-bat-adopted-by-its-mothers-best-friend-sheds-some-light-on-one-of-biologys-mysteries/?sh=5476317f4770), [EcoWatch](https://www.ecowatch.com/vampire-bat-adopt-baby-2650428436.html), [IFLScience](https://www.iflscience.com/plants-and-animals/an-orphaned-vampire-bat-pup-was-adopted-by-its-mothers-best-friend/), [Treehugger](https://www.treehugger.com/vampire-bat-adopts-orphaned-pup-5112684), [GEO magazine (French)](https://www.geo.fr/environnement/des-chercheurs-observent-une-chauve-souris-vampire-adopter-le-petit-de-son-amie-morte-203701), [Panamá América (Spanish)](https://www.panamaamerica.com.pa/variedades/estudio-cria-un-murcielago-vampiro-fue-adoptada-1181442), [Ethologisch (German)](https://ethologisch.de/vampir-adoptiert-jungtier-einer-verstorbenen-freundin/), [Top 5% of research outputs scored by Altmetric](https://royalsociety.altmetric.com/details/99876020).
 
-**Razik, I**. and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. *Journal of Fish and Wildlife Management*. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
+**Razik, I**. and Sagot, M. 2020. Vertebrate species richness at littoral beaver lodges in a temperate artificial pond. *Journal of Fish and Wildlife Management*, 11: 422-429. [Full text](https://doi.org/10.3996/092019-JFWM-078). <br/>
 
 Bachelier, J., **Razik, I**., Schauer, M., and Seago, J.L., Jr. 2020. Roots structure and development of Austrobaileya scandens (Austrobaileyaceae) and implications for their evolution in angiosperms. *Plants*, 9: 54. [Full text](https://www.mdpi.com/2223-7747/9/1/54/htm). <br/>
 

@@ -3,5 +3,11 @@ layout: default
 ---
 # CV 
 ---
-<iframe src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true#viewfit"></iframe>
+$(document).ready(function(){
+  var width = $(window).width();
+  var height = $(window).height();
 
+  $('#objFile').attr('style', 'width: ' + width + 'px; height: ' + height + 'px;');
+});
+
+<object data="/assets/Razik_CV.pdf" type="application/pdf" id="objFile"></object>

@@ -38,10 +38,3 @@ My personal artwork displayed below and elsewhere on this site is licensed under
         <td align="center"><img src="/assets/illustrations/cow_v02_color.png" width="100%"></td>
     </tr>
 </table> <br/>
-
-<object data="https://drive.google.com/file/d/1k2AhBdNMp6VymZru0-C9n6HznCHdbXXL/view"
-width="100%"
-height="100%"
-type="text/html">
-</object>
-

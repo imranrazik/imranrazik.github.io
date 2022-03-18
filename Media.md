@@ -39,4 +39,4 @@ My personal artwork displayed below and elsewhere on this site is licensed under
     </tr>
 </table> <br/>
 
-<iframe src="https://docs.google.com/viewer?srcid=1k2AhBdNMp6VymZru0-C9n6HznCHdbXXL&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="900px"></iframe> 
+<iframe src="https://docs.google.com/viewer?srcid=1k2AhBdNMp6VymZru0-C9n6HznCHdbXXL&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="950px"></iframe> 

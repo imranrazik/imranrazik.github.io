@@ -39,11 +39,11 @@ My personal artwork displayed below and elsewhere on this site is licensed under
     </tr>
 </table> <br/>
 
-<iframe 
-        <script type="text/javascript">
+<script type="text/javascript">
   function resizeIframe(iframe) {
     iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
   }
 </script>  
-        src="https://docs.google.com/viewer?srcid=1k2AhBdNMp6VymZru0-C9n6HznCHdbXXL&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" onload="resizeIframe(this)"></iframe> 
+
+<iframe src="https://docs.google.com/viewer?srcid=1k2AhBdNMp6VymZru0-C9n6HznCHdbXXL&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" onload="resizeIframe(this)"></iframe> 
 

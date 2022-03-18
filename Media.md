@@ -30,7 +30,7 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 
 <table align="center">
     <tr>
-        <td align="center"><img src="/assets/illustrations/vampterrestrial_color_flip.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampterrestrial_color.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/vampflight_color.png" width="100%"></td>
     </tr>
     <tr>

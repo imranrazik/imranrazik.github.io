@@ -3,6 +3,10 @@ layout: default
 ---
 # CV 
 ---
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Preview</title>
 <style type="text/css">
 html, body {
     margin: 0;

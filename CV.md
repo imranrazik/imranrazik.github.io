@@ -3,13 +3,4 @@ layout: default
 ---
 # CV 
 ---
-<iframe src="assets/Razik_CV.pdf" id="Razik_CV-iframe"></iframe>
-
-<script>
-	let iframe = document.querySelector("#child-iframe");
-
-	iframe.addEventListener('load', function() {
-		iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px';
-		iframe.style.width = iframe.contentDocument.body.scrollWidth + 'px';
-	});	
-</script>
+<iframe src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="100%"></iframe>

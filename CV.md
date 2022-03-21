@@ -21,7 +21,7 @@ layout: default
 
 <div class="container">
   <iframe 
-    src="https://drive.google.com/viewerng/viewer?url=http://docs.google.com/fileview?id=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true" frameborder="0"
+    src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true"" frameborder="0"
     title="Razik CV" 
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen

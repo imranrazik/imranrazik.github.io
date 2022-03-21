@@ -3,30 +3,6 @@ layout: default
 ---
 # CV 
 ---
-
-.container {
-  position: relative;
-  width: 100%;
-  padding-top: 56.25%;
-}
-
-.container > iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-<div class="container">
-  <iframe> 
-    src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
-    title="Razik CV" 
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-  ></iframe>
-</div>
-
 # Imran Razik
 Email: [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 

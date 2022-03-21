@@ -20,8 +20,8 @@ layout: default
 </style>
 
 <div class="container">
-  <iframe 
-    src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true"" frameborder="0"
+  <iframe> 
+    src="https://docs.google.com/viewer?srcid=1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
     title="Razik CV" 
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen

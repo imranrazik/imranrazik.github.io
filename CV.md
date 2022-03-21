@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# CV 
+# [CV](https://drive.google.com/file/d/1jwOZwp416fbD2iPgwD4ufFyyjjgGmNsH/view?usp=sharing) 
 ---
 # Imran Razik
 Email: [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>

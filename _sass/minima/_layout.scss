@@ -30,6 +30,7 @@
 
 .site-nav {
   position: absolute;
+  z-index: 2;
   top: 9px;
   right: $spacing-unit / 2;
   background-color: $background-color;

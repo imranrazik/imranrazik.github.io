@@ -10,7 +10,7 @@ As for more personal interests of mine, I really love listening to and talking a
 <br />
 <br />
 **Where to find me:** <br/> 
-Email[(razik.2@osu.edu)](mailto:razik.2@osu.edu)
+Email - [razik.2@osu.edu](mailto:razik.2@osu.edu) <br/>
 [Twitter](https://twitter.com/irazik) <br/>
 [Google Scholar](https://scholar.google.com/citations?user=-YQ4T1YAAAAJ&hl=en) <br/>
 [ResearchGate](https://www.researchgate.net/profile/Imran_Razik) <br/>

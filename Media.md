@@ -39,6 +39,6 @@ My personal artwork displayed below and elsewhere on this site is licensed under
     </tr>
 </table> <br/>
 
-<p align="center"><img src="/assets/illustrations/vamp_infographic_letter.png" height="100%"></p>
+<p align="center"><img src="/assets/illustrations/vamp_infographic_letter.png" width="100%"></p>
 
 

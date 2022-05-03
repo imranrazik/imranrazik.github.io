@@ -6,7 +6,7 @@ layout: default
 <figure>
   
   <img align="right" src="assets/photos/sec lonnie bunch at stri_020422_JAleman-91.jpg" height="500px" style="float:right; margin-left:15px; margin-bottom:3px">
-  <figcaption>Photo credit: Jorge Aleman</figcaption>
+  <figcaption class="figure-caption text-center">Photo credit: Jorge Aleman</figcaption>
   
 </figure>
 I knew from a young age that I loved to observe and learn about animals. My parents didn't receive a college education, so they encouraged me to pursue my bachelor's degree in Zoology. While at university, I took exciting opportunities to work with plants, mice, shrews, frogs, flying squirrels, fruit flies, bats, and beavers! After graduating in 2018, I then moved to Ohio to begin my dissertation on the development and regulation of cooperative relationships in vampire bats.

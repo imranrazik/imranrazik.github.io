@@ -37,6 +37,18 @@ My personal artwork displayed below and elsewhere on this site is licensed under
         <td align="center"><img src="/assets/illustrations/vamphang_color.png" width="30%"></td>
         <td align="center"><img src="/assets/illustrations/cow_v02_color.png" width="100%"></td>
     </tr>
+    <tr>
+        <td align="center"><img src="/assets/illustrations/aj_sticker.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/micronycteris_sticker.png" width="100%"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/assets/illustrations/glossophaga_sticker.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/saccopteryx_sticker.png" width="100%"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/assets/illustrations/trachops_sticker_02.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/noctilio_sticker.png" width="100%"></td>
+    </tr>
 </table> <br/>
 
 <p align="center"><img src="/assets/illustrations/vamp_infographic_letter.png" width="100%"></p>

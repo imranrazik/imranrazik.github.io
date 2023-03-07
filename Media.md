@@ -42,16 +42,12 @@ My personal artwork displayed below and elsewhere on this site is licensed under
         <td align="center"><img src="/assets/illustrations/ajoffset.png" width="100%"></td>
     </tr>
     <tr>
-        <td align="center"><img src="/assets/illustrations/motherpup.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/saccopteryxoffset.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/cow_v02_color_offset.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/saccopteryxoffset.png" width="60%"></td>
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/spixoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/trachops_sticker_offset.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/assets/illustrations/trachopsoffset.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/cow_v02_color_offset.png" width="100%"></td>
     </tr>
 </table> <br/>
 

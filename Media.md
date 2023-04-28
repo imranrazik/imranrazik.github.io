@@ -6,14 +6,14 @@ layout: default
 
 ## Recorded presentations
 Non-kin adoption in vampire bats: <br/>
-<div class="auto-resizable-iframe">
+<div class="videoWrapper">
   <div>
    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/Tp19hFQF1h4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 </div><br/>
 
 Forced proximity promotes the formation of enduring cooperative relationships in vampire bats: <br/>
-<div class="auto-resizable-iframe">
+<div class="videoWrapper">
   <div>
    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/SM-w9azlOjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>

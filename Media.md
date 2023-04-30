@@ -44,10 +44,16 @@ My personal artwork displayed below and elsewhere on this site is licensed under
         <td align="center"><img src="/assets/illustrations/trachops_sticker_offset.png" width="100%"></td>
     </tr>
     <tr>
+        <td align="center"><img src="/assets/illustrations/redeye.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/tungara.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/hila.png" width="100%"></td>
+    </tr>
+    <tr>
         <td align="center"><img src="/assets/illustrations/neque.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/anole.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/katydid.png" width="100%"></td>
     </tr>
+  
 </table> <br/>
 
 

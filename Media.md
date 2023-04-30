@@ -22,7 +22,7 @@ layout: default
 ## Illustrations
 My personal artwork displayed below and elsewhere on this site is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
-<table class="table1">
+<table align="center">
     <tr>
         <td align="center"><img src="/assets/illustrations/vampireterrestrial_color_offset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/centurio.png" width="100%"></td>

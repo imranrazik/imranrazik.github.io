@@ -9,7 +9,7 @@ My personal artwork displayed below and elsewhere on this site is licensed under
 
 <table align="center">
     <tr>
-        <td align="center"><img src="/assets/illustrations/vampire_02" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampire_02.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/ajoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/trachops.png" width="100%"></td>  
     </tr>

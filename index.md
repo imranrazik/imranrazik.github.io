@@ -4,11 +4,11 @@ layout: home
 # Research
 --- 
 <p align="center">
- <img src="/assets/illustrations/vampterrestrial.png" width="75%">  
+ <img src="/assets/illustrations/vampire_v02.png" width="50%">  
 </p>
 
 ### Hi!
-<b> I'm a behavioral ecologist interested in social relationships, cooperation, and individual variation. </b> <br/>
+<b> I'm a behavioral ecologist that studies social relationships, cooperation, and individual variation. </b> <br/>
 
 I'm also a PhD candidate and member of the [Carter Lab](https://socialbat.org/) at Ohio State University in Columbus, OH, USA.
  

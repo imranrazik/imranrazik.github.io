@@ -4,7 +4,7 @@ layout: home
 # Research
 --- 
 <p align="center">
- <img src="/assets/illustrations/vampire_v02.png" width="50%">  
+ <img src="/assets/illustrations/vampterrestrial_v02.png" width="100%">  
 </p>
 
 ### Hi!

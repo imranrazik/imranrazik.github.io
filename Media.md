@@ -13,7 +13,6 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center" width ="50%"><img src="/assets/illustrations/page2.png" width="100%"></td>
     </tr>
 </table> <br/>
-
 <table align="center" style="width:100%">
     <tr>
         <td align="center" width ="25%"><img src="/assets/illustrations/vampire_v02.png" width="100%"></td>

@@ -50,6 +50,12 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center"><img src="/assets/illustrations/anole.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/katydid.png" width="100%"></td>
     </tr>
+        <tr>
+        <td align="center"><img src="/assets/illustrations/flowerpiercer.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/harpy.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/black capped pygmy tyrant.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/shining sunbeam.png" width="100%"></td>
+    </tr>
 </table> <br/>
 
 ## Recorded presentations

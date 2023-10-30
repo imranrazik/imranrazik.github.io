@@ -20,6 +20,11 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center" width ="25%"><img src="/assets/illustrations/trachops.png" width="100%"></td>  
         <td align="center" width ="25%"><img src="/assets/illustrations/tungara.png" width="90%"></td>
     </tr>
+        <td align="center" width ="25%"><img src="/assets/illustrations/blue naped chlorophonia.png" width="100%"></td>
+        <td align="center" width ="25%"><img src="/assets/illustrations/aracari.png" width="100%"></td>
+        <td align="center" width ="25%"><img src="/assets/illustrations/jacobin.png" width="100%"></td>  
+        <td align="center" width ="25%"><img src="/assets/illustrations/puffbird.png" width="90%"></td>
+    </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/glossophagaoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/ectophylla.png" width="100%"></td>
@@ -39,6 +44,12 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center"><img src="/assets/illustrations/spixoffset.png" width="100%"></td>
     </tr>
     <tr>
+        <td align="center"><img src="/assets/illustrations/flowerpiercer.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/harpy.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/black capped pygmy tyrant.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/shining sunbeam.png" width="100%"></td>
+    </tr>
+    <tr>
         <td align="center"><img src="/assets/illustrations/lonchorhina.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/cow_v02_color_offset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/redeye.png" width="100%"></td>
@@ -49,12 +60,6 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center"><img src="/assets/illustrations/neque.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/anole.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/katydid.png" width="100%"></td>
-    </tr>
-        <tr>
-        <td align="center"><img src="/assets/illustrations/flowerpiercer.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/harpy.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/black capped pygmy tyrant.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/shining sunbeam.png" width="100%"></td>
     </tr>
 </table> <br/>
 

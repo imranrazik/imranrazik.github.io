@@ -20,6 +20,7 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center" width ="25%"><img src="/assets/illustrations/trachops.png" width="100%"></td>  
         <td align="center" width ="25%"><img src="/assets/illustrations/tungara.png" width="90%"></td>
     </tr>
+    <tr>
         <td align="center" width ="25%"><img src="/assets/illustrations/blue naped chlorophonia.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/aracari.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/jacobin.png" width="100%"></td>  

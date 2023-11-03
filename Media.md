@@ -29,26 +29,26 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
     <tr>
         <td align="center"><img src="/assets/illustrations/glossophagaoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/ectophylla.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/molossus.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/noctilio_v02.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/lonch2.png" width="100%"></td>
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/saccopteryxoffset.png" width="80%"></td>
         <td align="center"><img src="/assets/illustrations/diclidurus.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/noctilio_v02.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/molossus.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/vampyrumoffset.png" width="100%"></td>
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/micronycterisoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/molossus_02.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/centurio.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/spixoffset.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/centurio.png" width="100%"></td>
     </tr>
     <tr>
-        <td align="center"><img src="/assets/illustrations/shining sunbeam.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/harpy.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/black capped pygmy tyrant.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/santa marta antbird.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/emeraldbird.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/puffbird.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampyrum.png" width="100%"></td>
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/lonchorhina.png" width="100%"></td>

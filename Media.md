@@ -16,12 +16,12 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
 <table align="center" style="width:100%">
     <tr>
         <td align="center" width ="25%"><img src="/assets/illustrations/vampire_v02.png" width="100%"></td>
-        <td align="center" width ="25%"><img src="/assets/illustrations/ajoffset.png" width="100%"></td>
+        <td align="center" width ="25%"><img src="/assets/illustrations/blue naped chlorophonia.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/trachops.png" width="100%"></td>  
         <td align="center" width ="25%"><img src="/assets/illustrations/tungara.png" width="90%"></td>
     </tr>
     <tr>
-        <td align="center" width ="25%"><img src="/assets/illustrations/blue naped chlorophonia.png" width="100%"></td>
+        <td align="center" width ="25%"><img src="/assets/illustrations/glass frog.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/aracari.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/jacobin.png" width="100%"></td>  
         <td align="center" width ="25%"><img src="/assets/illustrations/flowerpiercer.png" width="90%"></td>
@@ -58,7 +58,7 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/hila.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/neque.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/ajoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/anole.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/katydid.png" width="100%"></td>
     </tr>

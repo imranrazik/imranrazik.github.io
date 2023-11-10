@@ -57,6 +57,12 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
         <td align="center"><img src="/assets/illustrations/redeye.png" width="100%"></td>
     </tr>
     <tr>
+        <td align="center"><img src="/assets/illustrations/tinamou.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/coati.png" width="75%"></td>
+        <td align="center"><img src="/assets/illustrations/wellington.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/vampire_v03.png" width="100%"></td>
+    </tr>
+    <tr>
         <td align="center"><img src="/assets/illustrations/hila.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/ajoffset.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/anole.png" width="100%"></td>

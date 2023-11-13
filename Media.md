@@ -47,7 +47,7 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
     <tr>
         <td align="center"><img src="/assets/illustrations/santa marta antbird.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/emeraldbird.png" width="100%"></td>
-        <td align="center"><img src="/assets/illustrations/puffbird.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/cat.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/vampyrum.png" width="100%"></td>
     </tr>
     <tr>

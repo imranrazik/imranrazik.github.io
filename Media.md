@@ -34,7 +34,7 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
     </tr>
     <tr>
         <td align="center"><img src="/assets/illustrations/pronghorn.png" width="80%"></td>
-        <td align="center"><img src="/assets/illustrations/diclidurus.png" width="100%"></td>
+        <td align="center"><img src="/assets/illustrations/anteater.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/molossus_03.png" width="100%"></td>
         <td align="center"><img src="/assets/illustrations/saccopteryxoffset.png" width="100%"></td>
     </tr>

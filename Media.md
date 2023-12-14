@@ -15,6 +15,11 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
 </table> <br/>
 <table align="center" style="width:100%">
     <tr>
+        <td align="center" width ="50%"><img src="/assets/illustrations/vampire_poster.png" width="50%"></td>
+    </tr>
+</table> <br/>
+<table align="center" style="width:100%">
+    <tr>
         <td align="center" width ="25%"><img src="/assets/illustrations/vampire_v02.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/blue naped chlorophonia.png" width="100%"></td>
         <td align="center" width ="25%"><img src="/assets/illustrations/trachops.png" width="100%"></td>  

@@ -15,7 +15,8 @@ My work displayed below and elsewhere on this site is licensed under a [CC BY-NC
 </table> <br/>
 <table align="center" style="width:100%">
     <tr>
-        <td align="center" width ="50%"><img src="/assets/illustrations/vampire_poster.png" width="50%"></td>
+        <td align="center" width ="50%"><img src="/assets/illustrations/vampire_poster.png" width="100%"></td>
+        <td align="center" width ="50%"><img src="/assets/illustrations/trachops_poster.png" width="100%"></td>
     </tr>
 </table> <br/>
 <table align="center" style="width:100%">

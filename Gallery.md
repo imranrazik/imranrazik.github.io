@@ -8,7 +8,7 @@ layout: default
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/photos/chiroptology/01_IMG_2563.jpg" rel="lightbox">
+    <a target="_blank" rel="lightbox">
       <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" alt="01">
     </a>
   </div>

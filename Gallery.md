@@ -4,7 +4,7 @@ layout: default
 # Gallery
 ---
 
-## The behavioral ecology of neotropical bats
+## Bat biology in the neotropics
 
 <div class="responsive">
   <div class="gallery">

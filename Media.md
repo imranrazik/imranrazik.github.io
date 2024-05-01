@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-# Media
+# Design
 ---
 
-## Design & Illustration
-My work displayed below and elsewhere on this site is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
+My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
 <table align="center" style="width:100%">
     <tr>

@@ -38,3 +38,19 @@
     height: 100%;
 }
 
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery-item {
+  margin: 10px;
+}
+
+.gallery-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+

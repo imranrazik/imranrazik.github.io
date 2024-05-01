@@ -54,4 +54,3 @@ layout: gallery
     </div>  
   </div>
 </body>
-</html>

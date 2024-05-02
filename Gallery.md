@@ -221,5 +221,15 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
+
+  document.addEventListener('keydown', function(event) {
+    if(event.keyCode == 37) {
+        plusSlides(-1)
+    }
+    else if(event.keyCode == 39) {
+        plusSlides(1)
+    }
+})
+  
 </script>
 

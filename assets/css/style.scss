@@ -119,13 +119,13 @@ div.desc {
   height: 100%;
   overflow: auto;
   background-color: black;
-  opacity: 50%;
 }
 
 /* Modal Content */
 .modal-content {
   position: relative;
   background-color: #fefefe;
+  background-opacity: 50%;
   margin: auto;
   padding: 0;
   width: 90%;

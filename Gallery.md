@@ -220,8 +220,6 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = dots[slideIndex-1].alt;
-}
-
   document.addEventListener('keydown', function(event) {
     if(event.keyCode == 37) {
         plusSlides(-1)
@@ -230,6 +228,7 @@ function showSlides(n) {
         plusSlides(1)
     }
 })
+}
   
 </script>
 

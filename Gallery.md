@@ -113,6 +113,7 @@ onclick="openModal();currentSlide(15)">
 
 <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
+  <span class="close">&times;</span>
   <div class="modal-content">
 
     <div class="mySlides">

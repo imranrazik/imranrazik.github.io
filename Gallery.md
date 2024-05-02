@@ -8,7 +8,7 @@ layout: default
 
 <div class="responsive">
   <div class="gallery">
-    <a href="/assets/photos/chiroptology/01_IMG_2563.jpg" rel="lightbox">
+    <a href="/assets/photos/chiroptology/01_IMG_2563.jpg" data-lightbox="gallery">
       <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" alt="01">
     </a>
   </div>
@@ -16,7 +16,7 @@ layout: default
 
 <div class="responsive">
   <div class="gallery">
-    <a href="/assets/photos/chiroptology/02_IMG_2547.JPG" rel="lightbox">
+    <a href="/assets/photos/chiroptology/02_IMG_2547.JPG" data-lightbox="gallery">
       <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" alt="02">
     </a>
   </div>
@@ -24,7 +24,7 @@ layout: default
 
 <div class="responsive">
   <div class="gallery">
-    <a href="/assets/photos/chiroptology/03_IMG_5306.JPG" rel="lightbox">
+    <a href="/assets/photos/chiroptology/03_IMG_5306.JPG" data-lightbox="gallery">
       <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" alt="03">
     </a>
   </div>

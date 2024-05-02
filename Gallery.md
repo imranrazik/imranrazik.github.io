@@ -240,6 +240,15 @@ onclick="openModal();currentSlide(15)">
     if (event.key === 'Escape' && modal.style.display === 'block') {
       closeModal();
     }
+    
+    // Keyboard navigation for slideshow
+    if (modal.style.display === 'block') {
+      if (event.key === 'ArrowLeft') {
+        plusSlides(-1);
+      } else if (event.key === 'ArrowRight') {
+        plusSlides(1);
+      }
+    }
   });
 </script>
 

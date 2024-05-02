@@ -132,10 +132,6 @@ onclick="openModal();currentSlide(15)">
     </div>
       
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="height:auto" style="width:100%">   
-    </div>
-
-    <div class="mySlides">
       <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="height:auto" style="width:100%">   
     </div>
 
@@ -156,11 +152,11 @@ onclick="openModal();currentSlide(15)">
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="height:auto" style="width:100%">  
+      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="height:auto" style="width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="height:auto" style="width:100%">  
     </div>
 
     <div class="mySlides">
@@ -176,7 +172,7 @@ onclick="openModal();currentSlide(15)">
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="height:auto" style="width:100%">  
+      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="height:auto" style="width:100%">   
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

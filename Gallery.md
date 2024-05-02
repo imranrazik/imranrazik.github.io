@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: default
 ---
 # Gallery
 ---
@@ -130,67 +130,78 @@ onclick="openModal();currentSlide(15)">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
 
-   <div class="mySlides">
+    <div class="mySlides">
       <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="width:100%">
-   </div>
+    </div>
 
-   <div class="mySlides">
+    <div class="mySlides">
       <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" style="width:100%">
-   </div>
+    </div>
 
-   <div class="mySlides">
+    <div class="mySlides">
       <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" style="width:100%">
-   </div>
+    </div>
     
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="width:100%">   
+    </div>
       
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/06_P1012854.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/06_P1012854.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/07_P1012904.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/07_P1012904.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
+    <div class="mySlides">
       <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" style="width:100%">   
-  </div>
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="width:100%">  
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" style="width:100%">   
+    </div>
 
-  <div class="mySlides">
-      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="width:100%">   </div>
+    <div class="mySlides">
+      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="width:100%">  
+    </div>
     
-   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-  <div class="caption-container">
+    <div class="caption-container">
       <p id="caption"></p>
-  </div>
+    </div>
 
-
-   <div class="column">
+    <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="width:100%" onclick="currentSlide(1)">
     </div>
     <div class="column">
@@ -201,7 +212,7 @@ onclick="openModal();currentSlide(15)">
     </div>
     <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="width:100%" onclick="currentSlide(4)">
-   <div class="column">
+    <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="width:100%" onclick="currentSlide(5)">
     </div>
     <div class="column">
@@ -212,7 +223,7 @@ onclick="openModal();currentSlide(15)">
     </div>
     <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" style="width:100%" onclick="currentSlide(8)">
-   <div class="column">
+    <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="width:100%" onclick="currentSlide(9)">
     </div>
     <div class="column">
@@ -223,7 +234,7 @@ onclick="openModal();currentSlide(15)">
     </div>
     <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="width:100%" onclick="currentSlide(12)">
-   <div class="column">
+    <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="width:100%" onclick="currentSlide(13)">
     </div>
     <div class="column">
@@ -232,9 +243,8 @@ onclick="openModal();currentSlide(15)">
     <div class="column">
       <img class="demo cursor" src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="width:100%" onclick="currentSlide(15)">
     </div>
- </div>
+  </div>
 </div>
-
 
 <script>
 function openModal() {

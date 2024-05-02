@@ -128,7 +128,7 @@ div.desc {
   margin: auto;
   padding: 0;
   width: 90%;
-  max-width: 800px;
+  max-width: 900px;
 }
 
 /* The Close Button */
@@ -164,7 +164,7 @@ div.desc {
   top: 50%;
   width: auto;
   padding: 16px;
-  margin-top: -50px;
+  margin-top: -50%;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -183,7 +183,7 @@ div.desc {
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 img {

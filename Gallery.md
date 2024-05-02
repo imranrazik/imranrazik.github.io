@@ -185,48 +185,61 @@ onclick="openModal();currentSlide(15)">
 </div>
 
 <script>
-function openModal() {
-  document.getElementById("myModal").style.display = "block";
-}
+  // Get the modal and slideshow elements
+  var modal = document.getElementById('myModal');
+  var closeButton = modal.querySelector('.close');
 
-function closeModal() {
-  document.getElementById("myModal").style.display = "none";
-}
+  // Slideshow variables
+  var slideIndex = 1;
 
-var slideIndex = 1;
-showSlides(slideIndex);
+  // Function to open the modal and show the slideshow
+  function openModal() {
+    modal.style.display = 'block';
+    showSlides(slideIndex);
+  }
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+  // Function to close the modal
+  function closeModal() {
+    modal.style.display = 'none';
+  }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
+  // Function to navigate to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
+  // Function to show a specific slide
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  // Function to display slides
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
+    for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
+    }
+    slides[slideIndex - 1].style.display = "block";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
+
+  // Event listener for closing the modal
+  closeButton.addEventListener('click', closeModal);
+
+  // Close modal if clicked outside the slideshow content
+  modal.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      closeModal();
+    }
+  });
+
+  // Close modal on pressing Escape key
   document.addEventListener('keydown', function(event) {
-    if(event.keyCode == 37) {
-        plusSlides(-1)
+    if (event.key === 'Escape' && modal.style.display === 'block') {
+      closeModal();
     }
-    else if(event.keyCode == 39) {
-        plusSlides(1)
-    }
-})
-}
-  
+  });
 </script>
 

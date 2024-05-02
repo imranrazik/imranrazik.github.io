@@ -163,7 +163,7 @@ div.desc {
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
+  padding: -16px;
   margin-top: -50px;
   color: white;
   font-weight: bold;
@@ -188,13 +188,6 @@ div.desc {
 
 img {
   margin-bottom: -4px;
-}
-
-.caption-container {
-  text-align: center;
-  background-color: black;
-  padding: 2px 16px;
-  color: white;
 }
 
 .demo {

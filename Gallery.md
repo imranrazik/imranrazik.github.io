@@ -8,7 +8,7 @@ layout: gallery
 
 <div class="responsive">
   <div class="gallery">
-    <a href="https://www.imranrazik.github.io/slideshow.html" data-lightbox="gallery">
+    <a href="/assets/photos/chiroptology/01_IMG_2563.jpg" data-lightbox="gallery">
       <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" alt="01">
     </a>
   </div>

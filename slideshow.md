@@ -5,15 +5,15 @@ layout: default
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="img_nature_wide.jpg" style="height=auto" style="width:100%">
+  <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="height=auto" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="img_snow_wide.jpg" style="height=auto" style="width:100%">
+  <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" style="height=auto" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="img_mountains_wide.jpg" style="height=auto" style="width:100%">
+  <img src="/assets/photos/chiroptology/03_IMG_5306.JPG style="height=auto" style="width:100%">
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>

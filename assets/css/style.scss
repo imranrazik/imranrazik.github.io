@@ -193,7 +193,7 @@ img {
 .loader-container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   height: 100vh; /* Ensure the container takes up the full height of the viewport */
 }
 

@@ -192,10 +192,12 @@ img {
 
 /* Add styles for loading dots */
 .loading {
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     height: 100vh; /* Set to full viewport height */
+    grid-template-columns: repeat(3, 20px); /* Three columns for three dots */
+    gap: 10px; /* Adjust the spacing between dots */
 }
 
 .loading div {
@@ -203,7 +205,6 @@ img {
     height: 20px;
     background-color: #000;
     border-radius: 50%;
-    margin: 0 5px; /* Adjust the spacing between dots */
     animation: bounce 1s infinite alternate; /* Apply animation */
 }
 

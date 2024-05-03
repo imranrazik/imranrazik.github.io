@@ -6,6 +6,8 @@ layout: default
 
 ## Bat biology in the neotropics
 
+<div id="loading" class="loading">...</div> <!-- Add this loading element -->
+
 <div class="responsive">
   <div class="gallery">
       <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" alt="01"
@@ -183,6 +185,7 @@ onclick="openModal();currentSlide(15)">
     </div>
   </div>
 </div>
+</div>
 
 <script>
   // Get the modal and slideshow elements
@@ -250,5 +253,28 @@ onclick="openModal();currentSlide(15)">
       }
     }
   });
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Hide the gallery initially
+    document.getElementById("gallery-container").style.display = "none";
+
+    // Display loading symbol
+    document.getElementById("loading").style.display = "block";
+
+    // Check if all images are loaded
+    var images = document.getElementById("gallery-container").getElementsByTagName("img");
+    var loadedCount = 0;
+
+    for (var i = 0; i < images.length; i++) {
+        images[i].addEventListener("load", function() {
+            loadedCount++;
+            if (loadedCount === images.length) {
+                // All images loaded, hide loading symbol and show gallery
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("gallery-container").style.display = "block";
+            }
+        });
+    }
+});
 </script>
 

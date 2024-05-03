@@ -161,7 +161,7 @@ div.desc {
 .next {
   cursor: pointer;
   position: absolute;
-  color: white;
+  color: rgba(255, 255, 255, 0.50);
   font-weight: bold;
   font-size: 20px;
   padding: 16px;
@@ -187,7 +187,7 @@ div.desc {
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
-  color: white;
+  color: rgba(255, 255, 255, 0.50);
   transition: 200ms;
   font-size: 28px;
   text-decoration: none;

@@ -4,7 +4,7 @@ layout: default
 # Gallery
 ---
 
-## Bat biology in the neotropics
+<h2 style="text-align: center;">Bat biology in the neotropics</h2>
 
 <div id="loading" class="loading">
   <div class="loader-container">

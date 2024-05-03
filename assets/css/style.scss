@@ -190,75 +190,28 @@ img {
   opacity: 1;
 }
 
-
+/* Center the dots horizontally and vertically */
 .dot-pulse {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 20px;
-  height: 20px;
-  border-radius: 5px;
-  background-color: #818589;
-  color: #818589;
-  box-shadow: 9999px 0 0 -5px;
-  animation: dot-pulse 1.5s infinite linear;
-  animation-delay: 0.25s;
-}
-.dot-pulse::before, .dot-pulse::after {
-  content: "";
-  display: inline-block;
   position: absolute;
-  top: 0;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   width: 20px;
   height: 20px;
-  border-radius: 5px;
   background-color: #818589;
-  color: #818589;
-}
-.dot-pulse::before {
-  box-shadow: 9984px 0 0 -5px;
-  animation: dot-pulse-before 1.5s infinite linear;
-  animation-delay: 0s;
-}
-.dot-pulse::after {
-  box-shadow: 10014px 0 0 -5px;
-  animation: dot-pulse-after 1.5s infinite linear;
-  animation-delay: 0.5s;
+  border-radius: 50%;
+  animation: dot-pulse 1.5s infinite alternate;
 }
 
-@keyframes dot-pulse-before {
-  0% {
-    box-shadow: 9984px 0 0 -5px;
-  }
-  30% {
-    box-shadow: 9984px 0 0 2px;
-  }
-  60%, 100% {
-    box-shadow: 9984px 0 0 -5px;
-  }
-}
+/* Define the pulsing animation */
 @keyframes dot-pulse {
   0% {
-    box-shadow: 9999px 0 0 -5px;
+    transform: scale(1);
   }
-  30% {
-    box-shadow: 9999px 0 0 2px;
+  50% {
+    transform: scale(1.5);
   }
-  60%, 100% {
-    box-shadow: 9999px 0 0 -5px;
-  }
-}
-@keyframes dot-pulse-after {
-  0% {
-    box-shadow: 10014px 0 0 -5px;
-  }
-  30% {
-    box-shadow: 10014px 0 0 2px;
-  }
-  60%, 100% {
-    box-shadow: 10014px 0 0 -5px;
+  100% {
+    transform: scale(1);
   }
 }
-
-
-

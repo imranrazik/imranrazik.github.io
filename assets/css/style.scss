@@ -124,9 +124,9 @@ div.desc {
 /* Modal Content */
 .modal-content {
   position: relative;
-  background-color: #fefefe;
+  background-color: rgba(255, 255, 255, 0);
   margin: auto;
-  padding: 0;
+  padding: 0px;
   width: 90%;
   max-width: 900px;
 }
@@ -161,10 +161,6 @@ div.desc {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -172,12 +168,18 @@ div.desc {
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
+  top: 50%;
+  transform: translateY(-50%); 
+}
+
+/* Position the "prev button" to the left */
+.prev {
+  left: -30px; /* Increase this value to move the arrow further to the left */
 }
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
+  right: -30px; /* Increase this value to move the arrow further to the right */
 }
 
 /* On hover, add a black background color with a little bit see-through */

@@ -128,7 +128,7 @@ div.desc {
   margin: auto;
   padding: 0px;
   width: 90%;
-  max-width: 900px;
+  max-width: 800px;
 }
 
 /* The Close Button */
@@ -169,17 +169,16 @@ div.desc {
   user-select: none;
   -webkit-user-select: none;
   top: 50%;
-  transform: translateY(-50%); 
 }
 
 /* Position the "prev button" to the left */
 .prev {
-  left: -30px; /* Increase this value to move the arrow further to the left */
+  left: 0px; /* Increase this value to move the arrow further to the left */
 }
 
 /* Position the "next button" to the right */
 .next {
-  right: -30px; /* Increase this value to move the arrow further to the right */
+  right: 0px; /* Increase this value to move the arrow further to the right */
 }
 
 /* On hover, add a black background color with a little bit see-through */

@@ -258,9 +258,7 @@ layout: default
       }
     }
   });
-</script>
-
-<script>
+    
 document.addEventListener("DOMContentLoaded", function() {
     // Hide the gallery initially
     document.getElementById("gallery-container").style.display = "none";

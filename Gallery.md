@@ -116,63 +116,63 @@ onclick="openModal();currentSlide(15)">
   <div class="modal-content">
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="height:auto" style="width:100%">
+      <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="height:auto; width:100%">
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" style="height:auto" style="width:100%">
+      <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" style="height:auto; width:100%">
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" style="height:auto" style="width:100%">
+      <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" style="height:auto; width:100%">
     </div>
     
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="height:auto; width:100%">   
     </div>
       
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/06_P1012854.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/06_P1012854.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/07_P1012904.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/07_P1012904.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="height:auto" style="width:100%">  
+      <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="height:auto; width:100%">  
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" style="height:auto; width:100%">   
     </div>
 
     <div class="mySlides">
-      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="height:auto" style="width:100%">   
+      <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="height:auto; width:100%">   
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

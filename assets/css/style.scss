@@ -193,12 +193,13 @@ img {
 
 .dot-pulse {
   position: relative;
-  left: -9999px;
-  width: 10px;
-  height: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
   border-radius: 5px;
-  background-color: #9880ff;
-  color: #9880ff;
+  background-color: #818589;
+  color: #818589;
   box-shadow: 9999px 0 0 -5px;
   animation: dot-pulse 1.5s infinite linear;
   animation-delay: 0.25s;
@@ -211,8 +212,8 @@ img {
   width: 10px;
   height: 10px;
   border-radius: 5px;
-  background-color: #9880ff;
-  color: #9880ff;
+  background-color: #818589;
+  color: #818589;
 }
 .dot-pulse::before {
   box-shadow: 9984px 0 0 -5px;

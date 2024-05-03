@@ -6,8 +6,10 @@ layout: default
 
 ## Bat biology in the neotropics
 
-<div class="loader-container">
-  <div class="dot-pulse"></div>
+<div id="loading" class="loading">
+  <div class="loader-container">
+    <div class="dot-pulse"></div>
+  </div>
 </div>
 
 <div id="gallery-container" style="display: none;">

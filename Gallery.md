@@ -8,6 +8,8 @@ layout: default
 
 <div id="loading" class="loading">
     <div class="dot-pulse"></div>
+    <div class="dot-pulse"></div>
+    <div class="dot-pulse"></div>
 </div>
 
 <div id="gallery-container" style="display: none;">

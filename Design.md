@@ -36,7 +36,7 @@ layout: grid
 <div id="gallery-container">
   <div class="responsive">
     <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing"target="_blank">
         <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
       </a>
     </div>
@@ -44,7 +44,7 @@ layout: grid
   
   <div class="responsive">
     <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
         <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
       </a>
     </div>
@@ -52,7 +52,7 @@ layout: grid
   
   <div class="responsive">
     <div class="gallery">
-      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing" target="_blank">
         <img src="/assets/illustrations/trachops_poster.png" loading="lazy" decoding="async">
       </a>
     </div>
@@ -60,7 +60,7 @@ layout: grid
   
   <div class="responsive">
     <div class="gallery">
-      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing" target="_blank">
         <img src="/assets/illustrations/vampire_poster.png" loading="lazy" decoding="async">
       </a>
     </div>

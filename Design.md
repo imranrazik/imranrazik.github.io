@@ -57,12 +57,6 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
 
   <div class="responsive">
     <div class="gallery">
-        <img src="/assets/illustrations/noctilio_v02.png" loading="lazy" decoding="async" alt="04">
-    </div>
-  </div>
-
-  <div class="responsive">
-    <div class="gallery">
         <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" alt="04">
     </div>
   </div>
@@ -81,19 +75,7 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
 
   <div class="responsive">
     <div class="gallery">
-        <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" alt="04">
-    </div>
-  </div>
-
-  <div class="responsive">
-    <div class="gallery">
         <img src="/assets/illustrations/molossus_02.png" loading="lazy" decoding="async" alt="04">
-    </div>
-  </div>
-
-  <div class="responsive">
-    <div class="gallery">
-        <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" alt="04">
     </div>
   </div>
 

@@ -60,7 +60,7 @@ layout: grid
   
   <div class="responsive">
     <div class="gallery">
-      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing>
+      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing">
         <img src="/assets/illustrations/vampire_poster.png" loading="lazy" decoding="async">
       </a>
     </div>

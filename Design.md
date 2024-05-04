@@ -6,18 +6,38 @@ layout: default
 
 My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
-<table align="center" style="width:100%">
-    <tr>
-        <td align="center" width ="50%"><img src="/assets/illustrations/page1.png" width="100%"></td>
-        <td align="center" width ="50%"><img src="/assets/illustrations/page2.png" width="100%"></td>
-    </tr>
-</table> <br/>
-<table align="center" style="width:100%">
-    <tr>
-        <td align="center" width ="50%"><img src="/assets/illustrations/vampire_poster.png" width="100%"></td>
-        <td align="center" width ="50%"><img src="/assets/illustrations/trachops_poster.png" width="100%"></td>
-    </tr>
-</table> <br/>
+<div id="loading" class="loading">
+  <div class="loader-container">
+    <div class="dot-pulse"></div>
+  </div>
+</div>
+
+<div id="gallery-container" style="display: none;">
+  <div class="responsive">
+    <div class="gallery">
+        <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async" alt="01">
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+        <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async" alt="02">
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+        <img src="/assets/illustrations/vampire_poster.png" loading="lazy" decoding="async" alt="03">
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+        <img src="/assets/illustrations/trachops_poster.png" loading="lazy" decoding="async" alt="04">
+    </div>
+  </div>
+</div>
+
 <table align="center" style="width:100%">
     <tr>
         <td align="center" width ="25%"><img src="/assets/illustrations/vampire_v02.png" width="100%"></td>
@@ -74,5 +94,31 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
         <td align="center"><img src="/assets/illustrations/katydid.png" width="100%"></td>
     </tr>
 </table> <br/>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Hide the gallery initially
+    document.getElementById("gallery-container").style.display = "none";
+
+    // Display loading symbol
+    document.getElementById("loading").style.display = "block";
+
+    // Check if all images are loaded
+    var images = document.getElementById("gallery-container").getElementsByTagName("img");
+    var loadedCount = 0;
+
+    for (var i = 0; i < images.length; i++) {
+        images[i].addEventListener("load", function() {
+            loadedCount++;
+            if (loadedCount === images.length) {
+                // All images loaded, hide loading symbol and show gallery
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("gallery-container").style.display = "block";
+            }
+        });
+    }
+});
+</script>
+
 
 

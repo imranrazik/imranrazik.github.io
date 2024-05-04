@@ -6,12 +6,6 @@ layout: default
 
 My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
-<div id="loading" class="loading">
-  <div class="loader-container">
-    <div class="dot-pulse"></div>
-  </div>
-</div>
-
 <div id="gallery-container" style="display: none;">
   <div class="responsive">
     <div class="gallery">
@@ -140,30 +134,6 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
   </div>
 </div>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Hide the gallery initially
-    document.getElementById("gallery-container").style.display = "none";
-
-    // Display loading symbol
-    document.getElementById("loading").style.display = "block";
-
-    // Check if all images are loaded
-    var images = document.getElementById("gallery-container").getElementsByTagName("img");
-    var loadedCount = 0;
-
-    for (var i = 0; i < images.length; i++) {
-        images[i].addEventListener("load", function() {
-            loadedCount++;
-            if (loadedCount === images.length) {
-                // All images loaded, hide loading symbol and show gallery
-                document.getElementById("loading").style.display = "none";
-                document.getElementById("gallery-container").style.display = "block";
-            }
-        });
-    }
-});
-</script>
 
 
 

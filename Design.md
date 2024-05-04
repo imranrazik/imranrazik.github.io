@@ -24,7 +24,7 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
     <img src="/assets/illustrations/motmot.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/cat.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/tinamou.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/spixoffset.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/spixoffset.png" loading="lazy" decoding="async" style="width:75%">
     <img src="/assets/illustrations/wellington.png" loading="lazy" decoding="async" style="width:100%">
   </div> 
   <div class="column">

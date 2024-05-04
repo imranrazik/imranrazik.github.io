@@ -2,6 +2,161 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+
+  <style>
+    div.gallery {
+      border: 0px solid #ccc;
+    }
+    
+    div.gallery:hover {
+      border: 0px solid #777;
+      transition: 500ms;
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+    
+    div.gallery img {
+      width: 100%;
+      height: auto;
+      content-visibility: auto;
+    }
+    
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    .responsive {
+      padding: 5px;
+      float: left;
+      width: 33.32222%;
+    }
+    
+    @media only screen and (max-width: 700px) {
+      .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+      }
+    }
+    
+    @media only screen and (max-width: 500px) {
+      .responsive {
+        width: 100%;
+      }
+    }
+    
+    .clearfix:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    .row > .column {
+      padding: 0 8px;
+    }
+    
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    .column {
+      float: left;
+      width: 25%;
+    }
+    
+    /* The Modal (background) */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      padding-top: 0px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.75);
+    }
+    
+    /* Modal Content */
+    .modal-content {
+      position: relative;
+      background-color: rgba(255, 255, 255, 0);
+      margin: auto;
+      padding: 0px;
+      width: 90%;
+      max-width: 1000px;
+    }
+    
+    .mySlides {
+      display: none;
+    }
+    
+    .cursor {
+      cursor: pointer;
+    }
+    
+    /* Next & previous buttons */
+    .prev,
+    .next {
+      cursor: pointer;
+      position: absolute;
+      color: rgba(255, 255, 255, 0.50);
+      font-weight: bold;
+      font-size: 20px;
+      padding: 16px;
+      transition: 0.6s ease;
+      border-radius: 0 3px 3px 0;
+      user-select: none;
+      text-decoration: none;
+      -webkit-user-select: none;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    
+    /* Position the "prev button" to the left */
+    .prev {
+      left: 0px; /* Increase this value to move the arrow further to the left */
+    }
+    
+    /* Position the "next button" to the right */
+    .next {
+      right: 0px; /* Increase this value to move the arrow further to the right */
+    }
+    
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover,
+    .next:hover {
+      color: rgba(255, 255, 255, 0.50);
+      transition: 200ms;
+      font-size: 28px;
+      text-decoration: none;
+    }
+    
+    img {
+      margin-bottom: -4px;
+    }
+    
+    .demo {
+      opacity: 0.6;
+    }
+    
+    .active,
+    .demo:hover {
+      opacity: 1;
+    }
+
+  </style>
   
   <body>
 

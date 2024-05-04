@@ -6,7 +6,7 @@ layout: default
 
 My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
-<div id="gallery-container" style="display: none;">
+<div id="gallery-container">
   <div class="responsive">
     <div class="gallery">
         <img src="/assets/illustrations/vampire_v02.png" loading="lazy" decoding="async" alt="01">

@@ -42,20 +42,27 @@
     }
     
     /* Responsive layout - makes a two column-layout instead of four columns */
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .column {
         -ms-flex: 50%;
         flex: 50%;
         max-width: 50%;
       }
+      .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+      }
     }
     
     /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 500px) {
       .column {
         -ms-flex: 100%;
         flex: 100%;
         max-width: 100%;
+      }
+      .responsive {
+        width: 100%;
       }
     }
 
@@ -91,42 +98,10 @@
       width: 49.99999%;
     }
     
-    @media only screen and (max-width: 700px) {
-      .responsive {
-        width: 49.99999%;
-        margin: 6px 0;
-      }
-    }
-    
-    @media only screen and (max-width: 500px) {
-      .responsive {
-        width: 100%;
-      }
-    }
-    
     .clearfix:after {
       content: "";
       display: table;
       clear: both;
-    }
-    
-    * {
-      box-sizing: border-box;
-    }
-    
-    .rows > .columns {
-      padding: 0 8px;
-    }
-    
-    .rows:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-    
-    .columns {
-      float: left;
-      width: 25%;
     }
     
   </style>

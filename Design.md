@@ -33,4 +33,38 @@ layout: grid
   </div>
 </div>
 
+<div id="gallery-container" style="display: none;">
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing">
+        <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing">
+        <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing">
+        <img src="/assets/illustrations/trachops_poster.png" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/1k4-0WPZK2hLbHuhkJ5-Ndl_CIM8MDajM/view?usp=sharing>
+        <img src="/assets/illustrations/vampire_poster.png" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+</div>
+
 

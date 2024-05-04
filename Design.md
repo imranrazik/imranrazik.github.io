@@ -3,7 +3,6 @@ layout: grid
 ---
 # Design
 ---
-
 <div class="row"> 
   <div class="column">
     <img src="/assets/illustrations/vampire_v02.png" loading="lazy" decoding="async" style="width:100%">

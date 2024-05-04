@@ -32,6 +32,7 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
     <img src="/assets/illustrations/noctilio_v02.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/ectophylla.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/molossus_03.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/spixoffset.png" loading="lazy" decoding="async" style="width:100%">
   </div>
 </div>
 

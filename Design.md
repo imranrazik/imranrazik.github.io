@@ -1,17 +1,15 @@
 ---
-layout: default
+layout: grid
 ---
 # Design
 ---
 
 My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). <br/>
 
-<div id="gallery-container">
-  <div class="responsive">
-    <div class="gallery">
-        <img src="/assets/illustrations/vampire_v02.png" loading="lazy" decoding="async" alt="01">
-    </div>
-  </div>
+<div class="row"> 
+  <div class="column">
+    <div class="responsive">
+      <img src="/assets/illustrations/vampire_v02.png" loading="lazy" decoding="async" style="width:100%">
   
   <div class="responsive">
     <div class="gallery">

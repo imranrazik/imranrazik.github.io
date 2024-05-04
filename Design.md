@@ -12,13 +12,13 @@ My work displayed below is licensed under a [CC BY-NC-SA 4.0 International Licen
     <img src="/assets/illustrations/tungara.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/glass frog.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/jacobin.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/illustrations/molossus_02.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/lonch2.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/anteater.png"  loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/jacobin.png" loading="lazy" decoding="async" style="width:100%">
   </div>  
   <div class="column">
     <img src="/assets/illustrations/motmot.png" loading="lazy" decoding="async" style="width:100%">

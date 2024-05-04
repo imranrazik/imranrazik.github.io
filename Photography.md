@@ -6,6 +6,12 @@ layout: gallery
 
 <h2 style="text-align: center;">Bat biology in the neotropics</h2>
 
+<div id="loading" class="loading">
+  <div class="loader-container">
+    <div class="dot-pulse"></div>
+  </div>
+</div>
+
 <div id="gallery-container" style="display: none;">
   <div class="responsive">
     <div class="gallery">

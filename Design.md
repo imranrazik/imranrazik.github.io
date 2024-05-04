@@ -32,7 +32,7 @@ layout: grid
     <img src="/assets/illustrations/emeraldbird.png" loading="lazy" decoding="async" style="width:100%">
   </div>
 </div>
-
+<br>
 <div id="gallery-container">
   <div class="responsive">
     <div class="gallery">

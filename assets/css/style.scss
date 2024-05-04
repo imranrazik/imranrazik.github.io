@@ -39,11 +39,11 @@
 }
 
 div.gallery {
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 0px solid #777;
   transition: 500ms;
   transform: scale(1.05);
   cursor: pointer;

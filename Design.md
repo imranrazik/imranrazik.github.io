@@ -4,8 +4,6 @@ layout: grid
 # Design
 ---
 
-<h4 style="text-align: center;">My work displayed below is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)</h4> <br/>
-
 <div class="row"> 
   <div class="column">
     <img src="/assets/illustrations/vampire_v02.png" loading="lazy" decoding="async" style="width:100%">

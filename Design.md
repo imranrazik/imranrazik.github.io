@@ -33,7 +33,7 @@ layout: grid
   </div>
 </div>
 
-<div id="gallery-container" style="display: none;">
+<div id="gallery-container">
   <div class="responsive">
     <div class="gallery">
       <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing">

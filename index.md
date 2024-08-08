@@ -4,7 +4,7 @@ layout: home
 # Home
 --- 
 <p align="center">
- <img src="/assets/illustrations/vampterrestrial_v02.png" width="75%">  
+ <img src="/assets/illustrations/index.png" width="75%">  
 </p>
 
 

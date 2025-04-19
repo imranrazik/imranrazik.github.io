@@ -29,51 +29,53 @@
     * {
       box-sizing: border-box;
     }
-    
-    .responsive {
-      padding: 15px;
-      float: left;
-      width: 33.3321%;
+
+    /* Flexbox-based gallery layout */
+    .gallery-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 0 auto;
     }
-    
+
+    .gallery-item {
+      flex: 1 0 calc(33.333% - 10px);
+      box-sizing: border-box;
+    }
+
     @media only screen and (max-width: 700px) {
-      .responsive {
-        width: 49.99999%;
-        margin: 6px 0;
+      .gallery-item {
+        flex: 1 0 calc(50% - 10px);
       }
     }
-    
+
     @media only screen and (max-width: 500px) {
-      .responsive {
-        width: 100%;
+      .gallery-item {
+        flex: 1 0 100%;
       }
     }
-    
+
     .clearfix:after {
       content: "";
       display: table;
       clear: both;
     }
-    
-    * {
-      box-sizing: border-box;
-    }
-    
+
     .row > .column {
       padding: 0 8px;
     }
-    
+
     .row:after {
       content: "";
       display: table;
       clear: both;
     }
-    
+
     .column {
       float: left;
       width: 25%;
     }
-    
+
     /* The Modal (background) */
     .modal {
       display: none;
@@ -87,7 +89,7 @@
       overflow: auto;
       background-color: rgba(0, 0, 0, 0.75);
     }
-    
+
     /* Modal Content */
     .modal-content {
       position: relative;
@@ -97,16 +99,15 @@
       width: 90%;
       max-width: 1000px;
     }
-    
+
     .mySlides {
       display: none;
     }
-    
+
     .cursor {
       cursor: pointer;
     }
-    
-    /* Next & previous buttons */
+
     .prev,
     .next {
       cursor: pointer;
@@ -123,18 +124,15 @@
       top: 50%;
       transform: translateY(-50%);
     }
-    
-    /* Position the "prev button" to the left */
+
     .prev {
-      left: 0px; /* Increase this value to move the arrow further to the left */
+      left: 0px;
     }
-    
-    /* Position the "next button" to the right */
+
     .next {
-      right: 0px; /* Increase this value to move the arrow further to the right */
+      right: 0px;
     }
-    
-    /* On hover, add a black background color with a little bit see-through */
+
     .prev:hover,
     .next:hover {
       color: rgba(255, 255, 255, 0.50);
@@ -142,27 +140,27 @@
       font-size: 28px;
       text-decoration: none;
     }
-    
+
     img {
       margin-bottom: -4px;
     }
-    
+
     .demo {
       opacity: 0.6;
     }
-    
+
     .active,
     .demo:hover {
       opacity: 1;
     }
-    
+
     .loader-container {
       display: flex;
       justify-content: center;
       align-items: flex-start;
-      height: 100vh; /* Ensure the container takes up the full height of the viewport */
+      height: 100vh;
     }
-    
+
     .dot-pulse {
       position: relative;
       left: -9999px;
@@ -175,7 +173,7 @@
       animation: dot-pulse 1.5s infinite linear;
       animation-delay: 0.25s;
     }
-    
+
     .dot-pulse::before, .dot-pulse::after {
       content: "";
       display: inline-block;
@@ -187,64 +185,60 @@
       background-color: #787878;
       color: #787878;
     }
+
     .dot-pulse::before {
       box-shadow: 9984px 0 0 -5px;
       animation: dot-pulse-before 1.5s infinite linear;
       animation-delay: 0s;
     }
+
     .dot-pulse::after {
       box-shadow: 10014px 0 0 -5px;
       animation: dot-pulse-after 1.5s infinite linear;
       animation-delay: 0.5s;
     }
-    
+
     @keyframes dot-pulse-before {
-      0% {
-        box-shadow: 9984px 0 0 -5px;
-      }
-      30% {
-        box-shadow: 9984px 0 0 2px;
-      }
-      60%, 100% {
-        box-shadow: 9984px 0 0 -5px;
-      }
+      0% { box-shadow: 9984px 0 0 -5px; }
+      30% { box-shadow: 9984px 0 0 2px; }
+      60%, 100% { box-shadow: 9984px 0 0 -5px; }
     }
+
     @keyframes dot-pulse {
-      0% {
-        box-shadow: 9999px 0 0 -5px;
-      }
-      30% {
-        box-shadow: 9999px 0 0 2px;
-      }
-      60%, 100% {
-        box-shadow: 9999px 0 0 -5px;
-      }
+      0% { box-shadow: 9999px 0 0 -5px; }
+      30% { box-shadow: 9999px 0 0 2px; }
+      60%, 100% { box-shadow: 9999px 0 0 -5px; }
     }
+
     @keyframes dot-pulse-after {
-      0% {
-        box-shadow: 10014px 0 0 -5px;
-      }
-      30% {
-        box-shadow: 10014px 0 0 2px;
-      }
-      60%, 100% {
-        box-shadow: 10014px 0 0 -5px;
-      }
+      0% { box-shadow: 10014px 0 0 -5px; }
+      30% { box-shadow: 10014px 0 0 2px; }
+      60%, 100% { box-shadow: 10014px 0 0 -5px; }
     }
   </style>
-  
+
   <body>
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+
+        <div class="gallery-grid">
+          <!-- Repeat the following block 15 times -->
+          <div class="gallery-item">
+            <div class="gallery">
+              <img src="your-image1.jpg" alt="Description">
+              <div class="desc">Description</div>
+            </div>
+          </div>
+          <!-- ... more gallery-item blocks for all 15 images ... -->
+        </div>
+
       </div>
     </main>
 
     {%- include footer.html -%}
 
   </body>
-
 </html>

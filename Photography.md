@@ -12,26 +12,36 @@ layout: gallery
   </div>
 </div>
 
-<div id="gallery-container" class="gallery-grid">
+<div id="gallery-grid" style="display: none;">
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" alt="01"
   onclick="openModal();currentSlide(1)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" loading="lazy" decoding="async" alt="02"
   onclick="openModal();currentSlide(2)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" loading="lazy" decoding="async" alt="03"
   onclick="openModal();currentSlide(3)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" loading="lazy" decoding="async" alt="04"
   onclick="openModal();currentSlide(4)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" loading="lazy" decoding="async" alt="05"
   onclick="openModal();currentSlide(5)">
+    </div>
   </div>
   <div class="gallery-item">
     <div class="gallery">
@@ -40,40 +50,58 @@ layout: gallery
     </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/07_P1012904.JPG" loading="lazy" decoding="async" alt="07"
   onclick="openModal();currentSlide(7)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" loading="lazy" decoding="async" alt="08"
   onclick="openModal();currentSlide(8)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" loading="lazy" decoding="async" alt="09"
   onclick="openModal();currentSlide(9)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" loading="lazy" decoding="async" alt="10"
   onclick="openModal();currentSlide(10)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" loading="lazy" decoding="async" alt="11"
   onclick="openModal();currentSlide(11)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" loading="lazy" decoding="async" alt="12"
   onclick="openModal();currentSlide(12)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" loading="lazy" decoding="async" alt="13"
   onclick="openModal();currentSlide(13)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" loading="lazy" decoding="async" alt="14"
   onclick="openModal();currentSlide(14)">
+    </div>
   </div>
   <div class="gallery-item">
+    <div class="gallery">
         <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" loading="lazy" decoding="async" alt="15"
   onclick="openModal();currentSlide(15)">
+    </div>
   </div>
   
   <div id="myModal" class="modal">
@@ -218,35 +246,25 @@ layout: gallery
   });
     
 document.addEventListener("DOMContentLoaded", function() {
-  const container = document.getElementById("gallery-container");
-  const images = container.getElementsByTagName("img");
+    // Hide the gallery initially
+    document.getElementById("gallery-container").style.display = "none";
 
-  let loadedCount = 0;
-  const total = images.length;
+    // Display loading symbol
+    document.getElementById("loading").style.display = "block";
 
-  if (total === 0) {
-    // Show the gallery if there are no images
-    document.getElementById("loading").style.display = "none";
-    container.style.display = "block";
-  }
+    // Check if all images are loaded
+    var images = document.getElementById("gallery-container").getElementsByTagName("img");
+    var loadedCount = 0;
 
-  for (let img of images) {
-    if (img.complete) {
-      loadedCount++;
-      if (loadedCount === total) {
-        document.getElementById("loading").style.display = "none";
-        container.style.display = "block";
-      }
-    } else {
-      img.addEventListener("load", function () {
-        loadedCount++;
-        if (loadedCount === total) {
-          document.getElementById("loading").style.display = "none";
-          container.style.display = "block";
-        }
-      });
+    for (var i = 0; i < images.length; i++) {
+        images[i].addEventListener("load", function() {
+            loadedCount++;
+            if (loadedCount === images.length) {
+                // All images loaded, hide loading symbol and show gallery
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("gallery-container").style.display = "block";
+            }
+        });
     }
-  }
 });
 </script>
-

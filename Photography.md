@@ -12,7 +12,7 @@ layout: gallery
   </div>
 </div>
 
-<div id="gallery-grid" style="display: none;">
+<div id="gallery-container" class="gallery-grid" style="display: none;">
   <div class="gallery-item">
     <div class="gallery">
         <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" alt="01"

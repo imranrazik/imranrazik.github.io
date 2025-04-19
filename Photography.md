@@ -246,26 +246,35 @@ layout: gallery
   });
     
 document.addEventListener("DOMContentLoaded", function() {
-    // Hide the gallery initially
-    document.getElementById("gallery-container").style.display = "none";
+  const container = document.getElementById("gallery-container");
+  const images = container.getElementsByTagName("img");
 
-    // Display loading symbol
-    document.getElementById("loading").style.display = "block";
+  let loadedCount = 0;
+  const total = images.length;
 
-    // Check if all images are loaded
-    var images = document.getElementById("gallery-container").getElementsByTagName("img");
-    var loadedCount = 0;
+  if (total === 0) {
+    // Show the gallery if there are no images
+    document.getElementById("loading").style.display = "none";
+    container.style.display = "block";
+  }
 
-    for (var i = 0; i < images.length; i++) {
-        images[i].addEventListener("load", function() {
-            loadedCount++;
-            if (loadedCount === images.length) {
-                // All images loaded, hide loading symbol and show gallery
-                document.getElementById("loading").style.display = "none";
-                document.getElementById("gallery-container").style.display = "block";
-            }
-        });
+  for (let img of images) {
+    if (img.complete) {
+      loadedCount++;
+      if (loadedCount === total) {
+        document.getElementById("loading").style.display = "none";
+        container.style.display = "block";
+      }
+    } else {
+      img.addEventListener("load", function () {
+        loadedCount++;
+        if (loadedCount === total) {
+          document.getElementById("loading").style.display = "none";
+          container.style.display = "block";
+        }
+      });
     }
+  }
 });
 </script>
 

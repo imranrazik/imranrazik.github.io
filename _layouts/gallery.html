@@ -38,20 +38,26 @@
       margin: 0 auto;
     }
 
-    .gallery-item {
+   .gallery-item {
       flex: 1 0 calc(33.333% - 10px);
-      box-sizing: border-box;
+      max-width: calc(33.333% - 10px);
+    }
+    
+    .gallery {
+      width: 100%;
     }
 
     @media only screen and (max-width: 700px) {
       .gallery-item {
         flex: 1 0 calc(50% - 10px);
+        max-width: calc(50% - 10px);
       }
     }
 
     @media only screen and (max-width: 500px) {
       .gallery-item {
         flex: 1 0 100%;
+        max-width: 100%;
       }
     }
 
@@ -59,21 +65,6 @@
       content: "";
       display: table;
       clear: both;
-    }
-
-    .row > .column {
-      padding: 0 8px;
-    }
-
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-
-    .column {
-      float: left;
-      width: 25%;
     }
 
     /* The Modal (background) */

@@ -1,53 +1,80 @@
+You said:
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
 
   <style>
+    div.gallery {
+      border: 0px solid #ccc;
+    }
     
-    div.gallery-item:hover {
+    div.gallery:hover {
       border: 0px solid #777;
       transition: 500ms;
       transform: scale(1.05);
       cursor: pointer;
     }
-
-    /* Flexbox-based gallery layout */
-    /* Ensuring the gallery container always applies flexbox */
-    .gallery-grid {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
+    
+    div.gallery img {
+      width: 100%;
+      height: auto;
+      content-visibility: auto;
     }
     
-    /* Ensure the gallery items behave properly on different screen sizes */
-    .gallery-item {
-      flex: 1 1 calc(33.333% - 20px); /* Default for large screens */
-      max-width: calc(33.333% - 20px);
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    
+    * {
       box-sizing: border-box;
     }
     
+    .responsive {
+      padding: 10px;
+      float: left;
+      width: 33.3321%;
+    }
+    
     @media only screen and (max-width: 700px) {
-      .gallery-item {
-        flex: 1 0 calc(50% - 10px); /* For smaller screens (tablets and below) */
-        max-width: calc(50% - 10px);
+      .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
       }
     }
     
     @media only screen and (max-width: 500px) {
-      .gallery-item {
-        flex: 1 0 100%; /* For mobile screens */
-        max-width: 100%;
+      .responsive {
+        width: 100%;
       }
     }
-
+    
     .clearfix:after {
       content: "";
       display: table;
       clear: both;
     }
-
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    .row > .column {
+      padding: 0 8px;
+    }
+    
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    .column {
+      float: left;
+      width: 25%;
+    }
+    
     /* The Modal (background) */
     .modal {
       display: none;
@@ -61,25 +88,26 @@
       overflow: auto;
       background-color: rgba(0, 0, 0, 0.75);
     }
-
+    
     /* Modal Content */
     .modal-content {
       position: relative;
       background-color: rgba(255, 255, 255, 0);
       margin: auto;
       padding: 0px;
-      width: 80%;
+      width: 90%;
       max-width: 1000px;
     }
-
+    
     .mySlides {
       display: none;
     }
-
+    
     .cursor {
       cursor: pointer;
     }
-
+    
+    /* Next & previous buttons */
     .prev,
     .next {
       cursor: pointer;
@@ -96,15 +124,18 @@
       top: 50%;
       transform: translateY(-50%);
     }
-
+    
+    /* Position the "prev button" to the left */
     .prev {
-      left: 0px;
+      left: 0px; /* Increase this value to move the arrow further to the left */
     }
-
+    
+    /* Position the "next button" to the right */
     .next {
-      right: 0px;
+      right: 0px; /* Increase this value to move the arrow further to the right */
     }
-
+    
+    /* On hover, add a black background color with a little bit see-through */
     .prev:hover,
     .next:hover {
       color: rgba(255, 255, 255, 0.50);
@@ -112,27 +143,27 @@
       font-size: 28px;
       text-decoration: none;
     }
-
+    
     img {
       margin-bottom: -4px;
     }
-
+    
     .demo {
       opacity: 0.6;
     }
-
+    
     .active,
     .demo:hover {
       opacity: 1;
     }
-
+    
     .loader-container {
       display: flex;
       justify-content: center;
       align-items: flex-start;
-      height: 100vh;
+      height: 100vh; /* Ensure the container takes up the full height of the viewport */
     }
-
+    
     .dot-pulse {
       position: relative;
       left: -9999px;
@@ -145,7 +176,7 @@
       animation: dot-pulse 1.5s infinite linear;
       animation-delay: 0.25s;
     }
-
+    
     .dot-pulse::before, .dot-pulse::after {
       content: "";
       display: inline-block;
@@ -157,38 +188,52 @@
       background-color: #787878;
       color: #787878;
     }
-
     .dot-pulse::before {
       box-shadow: 9984px 0 0 -5px;
       animation: dot-pulse-before 1.5s infinite linear;
       animation-delay: 0s;
     }
-
     .dot-pulse::after {
       box-shadow: 10014px 0 0 -5px;
       animation: dot-pulse-after 1.5s infinite linear;
       animation-delay: 0.5s;
     }
-
+    
     @keyframes dot-pulse-before {
-      0% { box-shadow: 9984px 0 0 -5px; }
-      30% { box-shadow: 9984px 0 0 2px; }
-      60%, 100% { box-shadow: 9984px 0 0 -5px; }
+      0% {
+        box-shadow: 9984px 0 0 -5px;
+      }
+      30% {
+        box-shadow: 9984px 0 0 2px;
+      }
+      60%, 100% {
+        box-shadow: 9984px 0 0 -5px;
+      }
     }
-
     @keyframes dot-pulse {
-      0% { box-shadow: 9999px 0 0 -5px; }
-      30% { box-shadow: 9999px 0 0 2px; }
-      60%, 100% { box-shadow: 9999px 0 0 -5px; }
+      0% {
+        box-shadow: 9999px 0 0 -5px;
+      }
+      30% {
+        box-shadow: 9999px 0 0 2px;
+      }
+      60%, 100% {
+        box-shadow: 9999px 0 0 -5px;
+      }
     }
-
     @keyframes dot-pulse-after {
-      0% { box-shadow: 10014px 0 0 -5px; }
-      30% { box-shadow: 10014px 0 0 2px; }
-      60%, 100% { box-shadow: 10014px 0 0 -5px; }
+      0% {
+        box-shadow: 10014px 0 0 -5px;
+      }
+      30% {
+        box-shadow: 10014px 0 0 2px;
+      }
+      60%, 100% {
+        box-shadow: 10014px 0 0 -5px;
+      }
     }
   </style>
-
+  
   <body>
 
     {%- include header.html -%}
@@ -202,4 +247,5 @@
     {%- include footer.html -%}
 
   </body>
+
 </html>

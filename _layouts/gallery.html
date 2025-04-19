@@ -31,33 +31,31 @@
     }
 
     /* Flexbox-based gallery layout */
+    /* Ensuring the gallery container always applies flexbox */
     .gallery-grid {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
     }
-
+    
+    /* Ensure the gallery items behave properly on different screen sizes */
     .gallery-item {
-      flex: 1 1 calc(33.333% - 20px);
+      flex: 1 1 calc(33.333% - 20px); /* Default for large screens */
       max-width: calc(33.333% - 20px);
       box-sizing: border-box;
     }
     
-    .gallery {
-      width: 100%;
-    }
-
     @media only screen and (max-width: 700px) {
       .gallery-item {
-        flex: 1 0 calc(50% - 10px);
+        flex: 1 0 calc(50% - 10px); /* For smaller screens (tablets and below) */
         max-width: calc(50% - 10px);
       }
     }
-
+    
     @media only screen and (max-width: 500px) {
       .gallery-item {
-        flex: 1 0 100%;
+        flex: 1 0 100%; /* For mobile screens */
         max-width: 100%;
       }
     }

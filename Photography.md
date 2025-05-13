@@ -42,25 +42,8 @@ layout: grid
   onclick="openModal();currentSlide(15)">
   </div>
 </div>
-<br>
-<div id="gallery-container">
-  <div class="responsive">
-    <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing" target="_blank">
-        <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
-      </a>
-    </div>
-  </div>
-  
-  <div class="responsive">
-    <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
-        <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
-      </a>
-    </div>
-  </div>
 
-  <div id="myModal" class="modal">
+ <div id="myModal" class="modal">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
   
@@ -133,6 +116,24 @@ layout: grid
     </div>
   </div>
 </div>
+
+<br>
+<div id="gallery-container">
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing" target="_blank">
+        <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
+        <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
 
 <script>
   // Get the modal and slideshow elements

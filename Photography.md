@@ -41,9 +41,7 @@ layout: grid
     <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" loading="lazy" decoding="async" alt="15"
   onclick="openModal();currentSlide(15)">
   </div>
-</div>
-
- <div id="myModal" class="modal">
+  <div id="myModal" class="modal">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
   
@@ -115,6 +113,7 @@ layout: grid
       </div>
     </div>
   </div>
+</div>
 </div>
 
 <br>

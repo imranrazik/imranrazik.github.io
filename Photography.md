@@ -22,7 +22,6 @@ layout: gallery
   onclick="openModal();currentSlide(6)">
     <img src="/assets/photos/chiroptology/07_P1012904.JPG" loading="lazy" decoding="async" alt="07"
   onclick="openModal();currentSlide(7)">
-    <img src="/assets/illustrations/jacobin.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" loading="lazy" decoding="async" alt="08"
   onclick="openModal();currentSlide(8)">
     <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" loading="lazy" decoding="async" alt="09"

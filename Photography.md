@@ -7,115 +7,40 @@ layout: grid
 <div class="row"> 
   <div class="column">
     <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" style="width:100%" alt="01"
-  onclick="openModal();currentSlide(1)"/>
+  onclick="openModal();currentSlide(1)">
     <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" loading="lazy" decoding="async" alt="02"
-  onclick="openModal();currentSlide(2)"/>
+  onclick="openModal();currentSlide(2)">
     <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" loading="lazy" decoding="async" alt="03"
-  onclick="openModal();currentSlide(3)"/>
+  onclick="openModal();currentSlide(3)">
     <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" loading="lazy" decoding="async" alt="04"
-  onclick="openModal();currentSlide(4)"/>
+  onclick="openModal();currentSlide(4)">
     <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" loading="lazy" decoding="async" alt="05"
-  onclick="openModal();currentSlide(5)"/>
+  onclick="openModal();currentSlide(5)">
   </div>
   <div class="column">
     <img src="/assets/photos/chiroptology/06_P1012854.JPG" loading="lazy" decoding="async" alt="06"
-  onclick="openModal();currentSlide(6)"/>
+  onclick="openModal();currentSlide(6)">
     <img src="/assets/photos/chiroptology/07_P1012904.JPG" loading="lazy" decoding="async" alt="07"
-  onclick="openModal();currentSlide(7)"/>
+  onclick="openModal();currentSlide(7)">
     <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" loading="lazy" decoding="async" alt="08"
-  onclick="openModal();currentSlide(8)"/>
+  onclick="openModal();currentSlide(8)">
     <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" loading="lazy" decoding="async" alt="09"
-  onclick="openModal();currentSlide(9)"/>
+  onclick="openModal();currentSlide(9)">
     <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" loading="lazy" decoding="async" alt="10"
-  onclick="openModal();currentSlide(10)"/>
+  onclick="openModal();currentSlide(10)">
   </div>  
   <div class="column">
     <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" loading="lazy" decoding="async" alt="11"
-  onclick="openModal();currentSlide(11)"/>
+  onclick="openModal();currentSlide(11)">
     <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" loading="lazy" decoding="async" alt="12"
-  onclick="openModal();currentSlide(12)"/>
+  onclick="openModal();currentSlide(12)">
     <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" loading="lazy" decoding="async" alt="13"
-  onclick="openModal();currentSlide(13)"/>
+  onclick="openModal();currentSlide(13)">
     <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" loading="lazy" decoding="async" alt="14"
-  onclick="openModal();currentSlide(14)"/>
+  onclick="openModal();currentSlide(14)">
     <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" loading="lazy" decoding="async" alt="15"
-  onclick="openModal();currentSlide(15)"/>
+  onclick="openModal();currentSlide(15)">
   </div>
-  <div id="myModal" class="modal">
-    <span class="close cursor" onclick="closeModal()">&times;</span>
-    <div class="modal-content">
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" style="height:auto; width:99%">
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/02_IMG_2547.JPG" style="height:auto; width:99%">
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/03_IMG_5306.JPG" style="height:auto; width:99%">
-      </div>
-      
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/04_IMG_2406.JPG" style="height:auto; width:99%">   
-      </div>
-        
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/05_IMG_1995.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/06_P1012854.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/07_P1012904.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/09_IMG_1747.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/10_IMG_3159.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/11_IMG_5163.JPG" style="height:auto; width:99%">  
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/12_IMG_0363.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/13_IMG_2666.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/14_IMG_1759.JPG" style="height:auto; width:99%">   
-      </div>
-  
-      <div class="mySlides">
-        <img src="/assets/photos/chiroptology/15_IMG_5222.JPG" style="height:auto; width:99%">   
-      </div>
-      
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  
-      <div class="caption-container">
-        <p id="caption"></p>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
 <br>
 <div id="gallery-container">
   <div class="responsive">
@@ -134,66 +59,83 @@ layout: grid
     </div>
   </div>
 
+  !-- Modal -->
+<div id="myModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <!-- Slides (15) -->
+    <div class="mySlides"><img src="/assets/photos/chiroptology/01_IMG_2563.jpg" alt="01" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/02_IMG_2547.JPG" alt="02" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/03_IMG_5306.JPG" alt="03" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/04_IMG_2406.JPG" alt="04" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/05_IMG_1995.JPG" alt="05" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/06_P1012854.JPG" alt="06" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/07_P1012904.JPG" alt="07" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/08_37499008_Unknown.JPG" alt="08" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/09_IMG_1747.JPG" alt="09" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/10_IMG_3159.JPG" alt="10" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/11_IMG_5163.JPG" alt="11" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/12_IMG_0363.JPG" alt="12" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/13_IMG_2666.JPG" alt="13" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/14_IMG_1759.JPG" alt="14" /></div>
+    <div class="mySlides"><img src="/assets/photos/chiroptology/15_IMG_5222.JPG" alt="15" /></div>
+
+    <!-- Navigation -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+  </div>
+</div>
+
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  var modal = document.getElementById('myModal');
-  var closeButton = modal.querySelector('.close');
-  var slideIndex = 1;
+  let modal, slides, slideIndex;
 
-  function openModal() {
-    modal.style.display = 'block';
-    showSlides(slideIndex);
-  }
+  document.addEventListener("DOMContentLoaded", function () {
+    modal = document.getElementById("myModal");
+    slides = document.getElementsByClassName("mySlides");
+    slideIndex = 1;
 
-  function closeModal() {
-    modal.style.display = 'none';
-  }
-
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var slides = document.getElementsByClassName("mySlides");
-    if (n > slides.length) { slideIndex = 1 }
-    if (n < 1) { slideIndex = slides.length }
-    for (var i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slides[slideIndex - 1].style.display = "block";
-  }
-
-  closeButton.addEventListener('click', closeModal);
-
-  modal.addEventListener('click', function(event) {
-    if (event.target === modal) {
-      closeModal();
-    }
-  });
-
-  document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape' && modal.style.display === 'block') {
-      closeModal();
+    window.openModal = function () {
+      modal.style.display = "block";
+      showSlides(slideIndex);
     }
 
-    if (modal.style.display === 'block') {
-      if (event.key === 'ArrowLeft') {
-        plusSlides(-1);
-      } else if (event.key === 'ArrowRight') {
-        plusSlides(1);
+    window.closeModal = function () {
+      modal.style.display = "none";
+    }
+
+    window.plusSlides = function (n) {
+      showSlides(slideIndex += n);
+    }
+
+    window.currentSlide = function (n) {
+      showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+      if (n > slides.length) { slideIndex = 1 }
+      if (n < 1) { slideIndex = slides.length }
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
       }
+      slides[slideIndex - 1].style.display = "block";
     }
+
+    // Close on click outside
+    modal.addEventListener('click', function (e) {
+      if (e.target === modal) closeModal();
+    });
+
+    // Close on ESC / Navigate with arrows
+    document.addEventListener("keydown", function (e) {
+      if (modal.style.display === "block") {
+        if (e.key === "Escape") closeModal();
+        if (e.key === "ArrowLeft") plusSlides(-1);
+        if (e.key === "ArrowRight") plusSlides(1);
+      }
+    });
   });
-
-  // Expose modal functions to global scope
-  window.openModal = openModal;
-  window.closeModal = closeModal;
-  window.plusSlides = plusSlides;
-  window.currentSlide = currentSlide;
-});
 </script>
-

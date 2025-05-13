@@ -135,63 +135,51 @@ layout: grid
   </div>
 
 <script>
-  // Get the modal and slideshow elements
+document.addEventListener("DOMContentLoaded", function() {
   var modal = document.getElementById('myModal');
   var closeButton = modal.querySelector('.close');
-
-  // Slideshow variables
   var slideIndex = 1;
 
-  // Function to open the modal and show the slideshow
   function openModal() {
     modal.style.display = 'block';
     showSlides(slideIndex);
   }
 
-  // Function to close the modal
   function closeModal() {
     modal.style.display = 'none';
   }
 
-  // Function to navigate to the next or previous slide
   function plusSlides(n) {
     showSlides(slideIndex += n);
   }
 
-  // Function to show a specific slide
   function currentSlide(n) {
     showSlides(slideIndex = n);
   }
 
-  // Function to display slides
   function showSlides(n) {
-    var i;
     var slides = document.getElementsByClassName("mySlides");
     if (n > slides.length) { slideIndex = 1 }
     if (n < 1) { slideIndex = slides.length }
-    for (i = 0; i < slides.length; i++) {
+    for (var i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
     slides[slideIndex - 1].style.display = "block";
   }
 
-  // Event listener for closing the modal
   closeButton.addEventListener('click', closeModal);
 
-  // Close modal if clicked outside the slideshow content
   modal.addEventListener('click', function(event) {
     if (event.target === modal) {
       closeModal();
     }
   });
 
-  // Close modal on pressing Escape key
   document.addEventListener('keydown', function(event) {
     if (event.key === 'Escape' && modal.style.display === 'block') {
       closeModal();
     }
-    
-    // Keyboard navigation for slideshow
+
     if (modal.style.display === 'block') {
       if (event.key === 'ArrowLeft') {
         plusSlides(-1);
@@ -200,27 +188,12 @@ layout: grid
       }
     }
   });
-    
-document.addEventListener("DOMContentLoaded", function() {
-    // Hide the gallery initially
-    document.getElementById("gallery-container").style.display = "none";
 
-    // Display loading symbol
-    document.getElementById("loading").style.display = "block";
-
-    // Check if all images are loaded
-    var images = document.getElementById("gallery-container").getElementsByTagName("img");
-    var loadedCount = 0;
-
-    for (var i = 0; i < images.length; i++) {
-        images[i].addEventListener("load", function() {
-            loadedCount++;
-            if (loadedCount === images.length) {
-                // All images loaded, hide loading symbol and show gallery
-                document.getElementById("loading").style.display = "none";
-                document.getElementById("gallery-container").style.display = "block";
-            }
-        });
-    }
+  // Expose modal functions to global scope
+  window.openModal = openModal;
+  window.closeModal = closeModal;
+  window.plusSlides = plusSlides;
+  window.currentSlide = currentSlide;
 });
 </script>
+

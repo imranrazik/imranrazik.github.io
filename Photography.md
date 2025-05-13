@@ -49,7 +49,7 @@ slideIndex = 1;
 
 // Open modal and show the clicked image
 function openModal(img) {
-  modal.style.display = "block";
+  modal.style.display = "flex";  // Use flexbox for centering
   modalImg.src = img.src;  // Set the clicked image as the modal image
   caption.innerHTML = img.alt;  // Optionally, show the alt text as caption
   slideIndex = Array.from(img.parentElement.children).indexOf(img) + 1;
@@ -94,10 +94,10 @@ window.onclick = function(event) {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.8);  /* Black background with opacity */
-  display: none;
-  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);  /* Black background with opacity */
+  display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .modal-content {
@@ -129,14 +129,11 @@ a.prev, a.next {
   position: absolute;
   top: 50%;
   color: white;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
   cursor: pointer;
   padding: 16px;
-  background-color: rgba(0, 0, 0, 0.5);
   border: none;
-  border-radius: 50%;
-  user-select: none;
 }
 
 a.prev {
@@ -148,6 +145,16 @@ a.next {
 }
 
 a.prev:hover, a.next:hover {
-  background-color: rgba(0, 0, 0, 0.7);
+  color: #bbb;
+}
+
+a.prev, a.next {
+  font-size: 24px; /* Make arrows smaller */
+  color: white; /* Keep them white */
+  text-decoration: none; /* Remove any underlining */
+}
+
+a.prev:hover, a.next:hover {
+  color: #bbb; /* Change color slightly on hover */
 }
 </style>

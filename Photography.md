@@ -94,9 +94,17 @@ layout: grid
 }
 
 .modal-content {
-  max-width: 60%;
-  max-height: 60%;
-  margin: auto;
+  max-width: 90vw;
+  max-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
 .close {

@@ -81,7 +81,7 @@ layout: grid
 <style>
 /* Modal styling */
 .modal {
-  display: none;
+  display: flex;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -91,6 +91,11 @@ layout: grid
   background-color: rgba(0, 0, 0, 0.8);  /* Black background with opacity */
   justify-content: center;
   align-items: center;
+}
+
+.modal.show {
+  visibility: visible;
+  opacity: 1;
 }
 
 .modal-content {

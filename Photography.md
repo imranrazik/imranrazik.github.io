@@ -73,8 +73,8 @@ function showSlide(index) {
 
 // Close modal when clicking outside of the image area (on the background)
 modal.addEventListener("click", function (e) {
-  // Check if the clicked area is the background (modal itself) and not the image
-  if (e.target === modal) {
+  // Only close the modal if the click is outside the modal-content
+  if (!e.target.closest(".modal-content")) {
     closeModal();
   }
 });

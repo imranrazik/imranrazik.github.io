@@ -71,20 +71,20 @@ function showSlide(index) {
   modalImage.alt = images[index].alt;
 }
 
-// Close modal when clicking outside of the image (but within the modal background)
+// Close modal when clicking outside of the image area (on the background)
 modal.addEventListener("click", function (e) {
-  // If the clicked area is the modal background (outside the image), close the modal
+  // Check if the clicked area is the background (modal itself) and not the image
   if (e.target === modal) {
     closeModal();
   }
 });
 
-// Prevent clicks within the image area from closing the modal
+// Prevent clicks on the image from closing the modal (we only want clicks on the background)
 modalImage.addEventListener("click", function (e) {
-  e.stopPropagation();  // This stops the click from propagating to the modal background
+  e.stopPropagation();  // Prevent click from propagating to the modal (background)
 });
 
-// Listen for keyboard events to navigate through slides or close modal
+// Keyboard controls: Arrow keys to navigate and ESC to close
 document.addEventListener("keydown", function (e) {
   if (modal.style.display === "flex") {
     if (e.key === "ArrowLeft") {

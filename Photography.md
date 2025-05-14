@@ -41,40 +41,53 @@ layout: grid
 
 <script>
   const images = Array.from(document.querySelectorAll(".row img"));
-  const modal = document.getElementById("modal");
-  const modalImage = document.getElementById("modal-image");
-  let currentIndex = 0;
+const modal = document.getElementById("modal");
+const modalImage = document.getElementById("modal-image");
+let currentIndex = 0;
 
-  images.forEach((img, index) => {
-    img.addEventListener("click", () => {
-      currentIndex = index;
-      openModal();
-    });
+images.forEach((img, index) => {
+  img.addEventListener("click", () => {
+    currentIndex = index;
+    openModal();
   });
+});
 
-  function openModal() {
-    modal.style.display = "flex";
-    showSlide(currentIndex);
+function openModal() {
+  modal.style.display = "flex";
+  showSlide(currentIndex);
+}
+
+function closeModal() {
+  modal.style.display = "none";
+}
+
+function changeSlide(n) {
+  currentIndex = (currentIndex + n + images.length) % images.length;
+  showSlide(currentIndex);
+}
+
+function showSlide(index) {
+  modalImage.src = images[index].src;
+  modalImage.alt = images[index].alt;
+}
+
+// Optional: close when clicking outside image
+modal.addEventListener("click", function (e) {
+  if (e.target === modal) closeModal();
+});
+
+// Keyboard events for navigation and closing the modal
+document.addEventListener("keydown", function (e) {
+  if (modal.style.display === "flex") {
+    if (e.key === "ArrowLeft") {
+      changeSlide(-1);  // Go to the previous image
+    } else if (e.key === "ArrowRight") {
+      changeSlide(1);  // Go to the next image
+    } else if (e.key === "Escape") {
+      closeModal();  // Close the modal
+    }
   }
-
-  function closeModal() {
-    modal.style.display = "none";
-  }
-
-  function changeSlide(n) {
-    currentIndex = (currentIndex + n + images.length) % images.length;
-    showSlide(currentIndex);
-  }
-
-  function showSlide(index) {
-    modalImage.src = images[index].src;
-    modalImage.alt = images[index].alt;
-  }
-
-  // Optional: close when clicking outside image
-  modal.addEventListener("click", function (e) {
-    if (e.target === modal) closeModal();
-  });
+});
 </script>
 
 

@@ -120,6 +120,7 @@ document.addEventListener("keydown", function (e) {
 }
 
 .modal-content {
+  position: relative;
   max-width: 90vw;
   max-height: 90vh;
   display: flex;

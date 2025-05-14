@@ -71,20 +71,23 @@ function showSlide(index) {
   modalImage.alt = images[index].alt;
 }
 
-// Optional: close when clicking outside image
+// Close modal when clicking outside image (on the modal background)
 modal.addEventListener("click", function (e) {
-  if (e.target === modal) closeModal();
+  // Check if the click was on the background, not the modal-content
+  if (e.target === modal) {
+    closeModal();
+  }
 });
 
-// Keyboard events for navigation and closing the modal
+// Listen for keyboard events to navigate through slides or close modal
 document.addEventListener("keydown", function (e) {
   if (modal.style.display === "flex") {
     if (e.key === "ArrowLeft") {
-      changeSlide(-1);  // Go to the previous image
+      changeSlide(-1); // Move to previous image
     } else if (e.key === "ArrowRight") {
-      changeSlide(1);  // Go to the next image
+      changeSlide(1); // Move to next image
     } else if (e.key === "Escape") {
-      closeModal();  // Close the modal
+      closeModal(); // Close the modal
     }
   }
 });

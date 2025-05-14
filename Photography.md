@@ -32,12 +32,17 @@ layout: grid
 <!-- Modal -->
 <div id="modal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
+  
+  <!-- Arrows go here -->
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+
+  <!-- Only image inside modal-content -->
   <div class="modal-content">
     <img id="modal-image" src="" alt="">
-    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
-    <a class="next" onclick="changeSlide(1)">&#10095;</a>
   </div>
 </div>
+
 
 <script>
   const images = Array.from(document.querySelectorAll(".row img"));
@@ -102,7 +107,7 @@ document.addEventListener("keydown", function (e) {
 <style>
 /* Modal styling */
 .modal {
-  display: none; /* Hide on page load */
+  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -114,13 +119,9 @@ document.addEventListener("keydown", function (e) {
   align-items: center;
 }
 
-.modal.show {
-  visibility: visible;
-  opacity: 1;
-}
-
 .modal-content {
   position: relative;
+  z-index: 2;
   max-width: 90vw;
   max-height: 90vh;
   display: flex;
@@ -131,59 +132,32 @@ document.addEventListener("keydown", function (e) {
 .modal-content img {
   max-width: 70%;
   max-height: 70%;
-  margin: auto;
   display: block;
-}
-  
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  cursor: pointer;
-  background-color: transparent;
-  border: none;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
 }
 
 a.prev, a.next {
-  position: absolute;
+  position: fixed; /* fixed instead of absolute */
   top: 50%;
-  color: white;
-  font-size: 40px;
+  transform: translateY(-50%);
+  font-size: 24px;
   font-weight: bold;
-  cursor: pointer;
+  color: white;
+  background-color: transparent;
   padding: 16px;
-  border: none;
+  z-index: 2;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 a.prev {
-  left: 10px;
+  left: 20px;
 }
 
 a.next {
-  right: 10px;
+  right: 20px;
 }
 
 a.prev:hover, a.next:hover {
   color: #bbb;
-}
-
-a.prev, a.next {
-  font-size: 24px; /* Make arrows smaller */
-  color: white; /* Keep them white */
-  text-decoration: none; /* Remove any underlining */
-}
-
-a.prev:hover, a.next:hover {
-  color: #bbb; /* Change color slightly on hover */
 }
 </style>

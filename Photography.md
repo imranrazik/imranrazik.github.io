@@ -53,7 +53,7 @@ layout: grid
   });
 
   function openModal() {
-    modal.style.display = "block";
+    modal.style.display = "flex";
     showSlide(currentIndex);
   }
 
@@ -81,14 +81,14 @@ layout: grid
 <style>
 /* Modal styling */
 .modal {
-  display: flex;
+  display: none; /* Hide on page load */
   position: fixed;
   z-index: 1;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);  /* Black background with opacity */
+  background-color: rgba(0, 0, 0, 0.8);
   justify-content: center;
   align-items: center;
 }

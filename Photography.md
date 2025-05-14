@@ -73,10 +73,15 @@ function showSlide(index) {
 
 // Close modal when clicking outside of the image (but within the modal background)
 modal.addEventListener("click", function (e) {
-  // Close the modal only if the click is outside the modal-content (image area)
+  // If the clicked area is the modal background (outside the image), close the modal
   if (e.target === modal) {
     closeModal();
   }
+});
+
+// Prevent clicks within the image area from closing the modal
+modalImage.addEventListener("click", function (e) {
+  e.stopPropagation();  // This stops the click from propagating to the modal background
 });
 
 // Listen for keyboard events to navigate through slides or close modal

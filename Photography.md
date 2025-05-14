@@ -34,8 +34,6 @@ layout: grid
   <span class="close" onclick="closeModal()">&times;</span>
   <div class="modal-content">
     <img id="modal-image" src="" alt="">
-  </div>
-  <div class="nav-arrows" onclick="event.stopPropagation()">
     <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
     <a class="next" onclick="changeSlide(1)">&#10095;</a>
   </div>

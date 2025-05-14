@@ -81,6 +81,7 @@ layout: grid
 <style>
 /* Modal styling */
 .modal {
+  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -88,7 +89,6 @@ layout: grid
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.8);  /* Black background with opacity */
-  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -102,11 +102,12 @@ layout: grid
 }
 
 .modal-content img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto;
+  display: block;
 }
-
+  
 .close {
   position: absolute;
   top: 15px;

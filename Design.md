@@ -10,7 +10,7 @@ layout: grid
     <img src="/assets/illustrations/lonch2.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/tungara.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/whale.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/glass frog.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/macaque.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/hyena.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/molossus_02.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/coati.png" loading="lazy" decoding="async" style="width:100%">
@@ -31,7 +31,7 @@ layout: grid
   </div>  
   <div class="column">
     <img src="/assets/illustrations/motmot.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/macaque.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/glass frog.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/cat.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/tinamou.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/conure.png" loading="lazy" decoding="async" style="width:100%">

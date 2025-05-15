@@ -36,7 +36,7 @@ layout: grid
     <img src="/assets/illustrations/conure.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/bat_logo.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/meerkat.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/meerkat.png" loading="lazy" decoding="async" style="width:50%">
     <img src="/assets/illustrations/wellington.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
   </div> 

@@ -30,7 +30,6 @@ layout: grid
 <br>
 
 <!-- Modal -->
-
 <div id="modal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
   <div class="modal-content">
@@ -42,64 +41,81 @@ layout: grid
 
 <script>
   const images = Array.from(document.querySelectorAll(".row img"));
-const modal = document.getElementById("modal");
-const modalImage = document.getElementById("modal-image");
-let currentIndex = 0;
+  const modal = document.getElementById("modal");
+  const modalImage = document.getElementById("modal-image");
+  let currentIndex = 0;
 
-images.forEach((img, index) => {
-  img.addEventListener("click", () => {
-    currentIndex = index;
-    openModal();
+  images.forEach((img, index) => {
+    img.addEventListener("click", () => {
+      currentIndex = index;
+      openModal();
+    });
   });
-});
 
-function openModal() {
-  modal.style.display = "flex";
-  showSlide(currentIndex);
-}
-
-function closeModal() {
-  modal.style.display = "none";
-}
-
-function changeSlide(n) {
-  currentIndex = (currentIndex + n + images.length) % images.length;
-  showSlide(currentIndex);
-}
-
-function showSlide(index) {
-  modalImage.src = images[index].src;
-  modalImage.alt = images[index].alt;
-}
-
-// Close modal when clicking outside of the image area (on the background)
-modal.addEventListener("click", function (e) {
-  // Only close the modal if the click is outside the modal-content
-  if (!e.target.closest(".modal-content")) {
-    closeModal();
+  function openModal() {
+    modal.style.display = "flex";
+    showSlide(currentIndex);
   }
-});
 
-// Prevent clicks on the image from closing the modal (we only want clicks on the background)
-modalImage.addEventListener("click", function (e) {
-  e.stopPropagation();  // Prevent click from propagating to the modal (background)
-});
+  function closeModal() {
+    modal.style.display = "none";
+  }
 
-// Keyboard controls: Arrow keys to navigate and ESC to close
-document.addEventListener("keydown", function (e) {
-  if (modal.style.display === "flex") {
-    if (e.key === "ArrowLeft") {
-      changeSlide(-1); // Move to previous image
-    } else if (e.key === "ArrowRight") {
-      changeSlide(1); // Move to next image
-    } else if (e.key === "Escape") {
-      closeModal(); // Close the modal
+  function changeSlide(n) {
+    currentIndex = (currentIndex + n + images.length) % images.length;
+    showSlide(currentIndex);
+  }
+
+  function showSlide(index) {
+    modalImage.src = images[index].src;
+    modalImage.alt = images[index].alt;
+  }
+
+  // Close modal when clicking outside of the image area (on the background)
+  modal.addEventListener("click", function (e) {
+    // Only close the modal if the click is outside the modal-content
+    if (!e.target.closest(".modal-content")) {
+      closeModal();
     }
-  }
-});
+  });
+
+  // Prevent clicks on the image from closing the modal (we only want clicks on the background)
+  modalImage.addEventListener("click", function (e) {
+    e.stopPropagation();  // Prevent click from propagating to the modal (background)
+  });
+
+  // Keyboard controls: Arrow keys to navigate and ESC to close
+  document.addEventListener("keydown", function (e) {
+    if (modal.style.display === "flex") {
+      if (e.key === "ArrowLeft") {
+        changeSlide(-1); // Move to previous image
+      } else if (e.key === "ArrowRight") {
+        changeSlide(1); // Move to next image
+      } else if (e.key === "Escape") {
+        closeModal(); // Close the modal
+      }
+    }
+  });
 </script>
 
 <style>
+/* Flexbox layout */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* Adjust this value for space between images */
+}
+
+.column {
+  flex: 1 1 calc(33.333% - 16px); /* 3 images per row, considering the gap */
+}
+
+.column img {
+  width: 100%; /* Ensure each image takes up the full width of its column */
+  height: auto;
+  display: block;
+}
+
 /* Modal styling */
 .modal {
   display: none; /* Hide on page load */
@@ -112,11 +128,6 @@ document.addEventListener("keydown", function (e) {
   background-color: rgba(0, 0, 0, 0.8);
   justify-content: center;
   align-items: center;
-}
-
-.modal.show {
-  visibility: visible;
-  opacity: 1;
 }
 
 .modal-content {
@@ -134,7 +145,7 @@ document.addEventListener("keydown", function (e) {
   margin: auto;
   display: block;
 }
-  
+
 .close {
   position: absolute;
   top: 15px;
@@ -145,13 +156,6 @@ document.addEventListener("keydown", function (e) {
   cursor: pointer;
   background-color: transparent;
   border: none;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
 }
 
 a.prev, a.next {
@@ -177,13 +181,15 @@ a.prev:hover, a.next:hover {
   color: #bbb;
 }
 
-a.prev, a.next {
-  font-size: 24px; /* Make arrows smaller */
-  color: white; /* Keep them white */
-  text-decoration: none; /* Remove any underlining */
+@media (max-width: 768px) {
+  .column {
+    flex: 1 1 calc(50% - 16px); /* 2 items per row on smaller screens */
+  }
 }
 
-a.prev:hover, a.next:hover {
-  color: #bbb; /* Change color slightly on hover */
+@media (max-width: 480px) {
+  .column {
+    flex: 1 1 calc(100% - 16px); /* 1 item per row on very small screens */
+  }
 }
 </style>

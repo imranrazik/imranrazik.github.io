@@ -27,6 +27,7 @@ layout: grid
     <img src="/assets/illustrations/crow.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/Kibale_color_no_text.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/bee.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
   </div>  
   <div class="column">
     <img src="/assets/illustrations/motmot.png" loading="lazy" decoding="async" style="width:100%">
@@ -38,7 +39,6 @@ layout: grid
     <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" style="width:100%">
     <img src="/assets/illustrations/meerkat.png" loading="lazy" decoding="async" style="width:50%">
     <img src="/assets/illustrations/wellington.png" loading="lazy" decoding="async" style="width:100%">
-    <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
   </div> 
 </div>
 <br>

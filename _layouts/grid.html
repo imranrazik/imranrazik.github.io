@@ -7,124 +7,42 @@
     * {
       box-sizing: border-box;
     }
-    
+  
     .header {
       text-align: center;
       padding: 32px;
     }
-    
-    .row {
-      display: -ms-flexbox; /* IE10 */
-      display: flex;
-      -ms-flex-wrap: wrap; /* IE10 */
-      flex-wrap: wrap;
+  
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
       padding: 0 15px;
     }
-    
-    /* Create four equal columns that sits next to each other */
-    .column {
-      -ms-flex: 33%; /* IE10 */
-      flex: 33%;
-      max-width: 33%;
-      padding: 0 15px;
+  
+    .gallery {
+      position: relative;
+      border: 0;
     }
-    
-    .column img {
-      margin-top: 15px;
-      vertical-align: middle;
+  
+    .gallery img {
       width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+      transition: 0.5s;
+      content-visibility: auto;
     }
-    
-    .column img:hover {
-      transition: 500ms;
+  
+    .gallery img:hover {
       transform: scale(1.05);
       cursor: pointer;
     }
-    
-    /* Responsive layout - makes a two column-layout instead of four columns */
-    @media screen and (max-width: 700px) {
-      .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-      }
-      .responsive {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-      }
-    }
-    
-    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width: 500px) {
-      .column {
-        -ms-flex: 100%;
-        flex: 100%;
-        max-width: 100%;
-      }
-      .responsive {
-        -ms-flex: 100%;
-        flex: 100%;
-        max-width: 100%;
-      }
-    }
-
-    div.gallery {
-      border: 0px solid #ccc;
-    }
-    
-    div.gallery:hover {
-      cursor: pointer;
-    }
-    
-    div.gallery img {
-      width: 100%;
-      height: auto;
-      content-visibility: auto;
-    }
-    
-    div.gallery img::after {
-      content: "Download PDF";
-      position: absolute;
-      bottom: -20px;
-      left: 50%;
-      transform: translateX(-50%);
-      white-space: nowrap;
-      background-color: rgba(0, 0, 0, 0.8);
-      color: #fff;
-      padding: 5px 10px;
-      border-radius: 5px;
-      font-size: 12px;
-      opacity: 0;
-      pointer-events: none;
-      transition: opacity 0.3s ease;
-    }
-    
-    div.gallery:hover img::after {
-      opacity: 1;
-    }
-    
-    div.desc {
+  
+    .desc {
       padding: 15px;
       text-align: center;
     }
-    
-    * {
-      box-sizing: border-box;
-    }
-    
-    .responsive {
-      padding: 5px;
-      float: left;
-      width: 49.99999%;
-    }
-    
-    .clearfix:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-    
   </style>
 
   <body>

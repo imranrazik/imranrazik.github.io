@@ -40,7 +40,7 @@ layout: grid
 </div>
 
 <script>
-  const images = Array.from(document.querySelectorAll(".row img"));
+  const images = Array.from(document.querySelectorAll(".grid .gallery img"));
 const modal = document.getElementById("modal");
 const modalImage = document.getElementById("modal-image");
 let currentIndex = 0;

@@ -5,39 +5,28 @@
 
   <style>
   * {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
 
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px; /* <-- controls both horizontal and vertical spacing */
-    padding: 0 15px;
-  }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  padding: 20px;
+}
 
-  .gallery {
-    position: relative;
-    border: 0;
-  }
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
 
-  .gallery img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 4px;
-    transition: 0.5s;
-    content-visibility: auto;
-  }
-
-  .gallery img:hover {
-    transform: scale(1.05);
-    cursor: pointer;
-  }
-
-  .desc {
-    padding: 10px;
-    text-align: center;
-  }
+.gallery img:hover {
+  transform: scale(1.05);
+}
 </style>
 
   <body>

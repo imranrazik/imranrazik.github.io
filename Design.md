@@ -28,11 +28,11 @@ layout: grid
   <div class="gallery">
     <img src="/assets/illustrations/molossus_02.png" loading="lazy" decoding="async" style="width:100%">
   </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/coati.png" loading="lazy" decoding="async" style="width:100%">
+  <div class="gallery" style="text-align:center;">
+    <img src="/assets/illustrations/coati.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/noctilio_v02.png" loading="lazy" decoding="async" style="width:60%; display:inline-block;">
+    <img src="/assets/illustrations/noctilio_v02.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
   </div>
   <div class="gallery">
     <img src="/assets/illustrations/lion.png" loading="lazy" decoding="async" style="width:100%">
@@ -97,23 +97,18 @@ layout: grid
 </div>
 
 <br>
-<div id="gallery-container">
-  <div class="responsive">
-    <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing" target="_blank">
-        <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
-      </a>
-    </div>
-  </div>
-  
-  <div class="responsive">
-    <div class="gallery">
-      <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
-        <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
-      </a>
-    </div>
-  </div>
 
+<div class="grid">
+  <div class="gallery">
+    <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing" target="_blank">
+      <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
+      <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
+    </a>
+  </div>
 </div>
 
 

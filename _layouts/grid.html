@@ -7,41 +7,97 @@
     * {
       box-sizing: border-box;
     }
-  
-    .header {
-      text-align: center;
-      padding: 32px;
-    }
-  
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 15px;
-      padding: 0 15px;
+      gap: 30px;
+      padding: 20px;
     }
-  
-    .gallery {
-      position: relative;
-      border: 0;
-    }
-  
+
     .gallery img {
       width: 100%;
       height: auto;
       display: block;
-      border-radius: 4px;
-      transition: 0.5s;
-      content-visibility: auto;
-    }
-  
-    .gallery img:hover {
-      transform: scale(1.05);
+      border-radius: 6px;
+      transition: transform 0.3s ease;
       cursor: pointer;
     }
-  
-    .desc {
-      padding: 15px;
-      text-align: center;
+
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Modal styling */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content {
+      position: relative;
+      max-width: 90vw;
+      max-height: 90vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content img {
+      max-width: 90vw;
+      max-height: 90vh;
+      margin: auto;
+      display: block;
+    }
+
+    .close {
+      position: absolute;
+      top: 15px;
+      right: 35px;
+      color: #f1f1f1;
+      font-size: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      background-color: transparent;
+      border: none;
+    }
+
+    .close:hover,
+    .close:focus {
+      color: #bbb;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    a.prev, a.next {
+      position: absolute;
+      top: 50%;
+      color: white;
+      font-size: 24px;
+      font-weight: bold;
+      cursor: pointer;
+      padding: 16px;
+      text-decoration: none;
+    }
+
+    a.prev {
+      left: 10px;
+    }
+
+    a.next {
+      right: 10px;
+    }
+
+    a.prev:hover, a.next:hover {
+      color: #bbb;
     }
   </style>
 

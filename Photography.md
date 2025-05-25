@@ -29,7 +29,7 @@ layout: grid
     <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="08">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/IMG_3807.jpg" loading="lazy" decoding="async" style="width:100%" alt="09">
+    <img src="/assets/photos/IMG_3362.jpg" loading="lazy" decoding="async" style="width:100%" alt="09">
   </div> 
   <div class="gallery">
     <img src="/assets/photos/DSCF3527.jpg" loading="lazy" decoding="async" style="width:100%" alt="10">
@@ -41,10 +41,10 @@ layout: grid
     <img src="/assets/photos/DSCF3126.jpg" loading="lazy" decoding="async" style="width:100%" alt="12">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF1017.jpg" loading="lazy" decoding="async" style="width:100%" alt="13">
+    <img src="/assets/photos/DSCF0038.jpg" loading="lazy" decoding="async" style="width:100%" alt="13">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF3958.jpg" loading="lazy" decoding="async" style="width:100%" alt="14">
+    <img src="/assets/photos/DSCF1687.jpg" loading="lazy" decoding="async" style="width:100%" alt="14">
   </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_5688.jpg" loading="lazy" decoding="async" style="width:100%" alt="15">
@@ -68,7 +68,7 @@ layout: grid
     <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF4367.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
+    <img src="/assets/photos/DSCF3958.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
   </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_6824.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">

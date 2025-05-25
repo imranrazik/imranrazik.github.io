@@ -35,28 +35,28 @@
 
     /* Optional masonry layout using grid auto-rows and span for images */
     .grid.masonry {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      grid-auto-rows: 10px; /* Base unit for row height */
-      gap: 20px;
+      column-count: 1;
+      column-gap: 20px;
       padding: 20px;
+    }
+    
+    @media (min-width: 600px) {
+      .grid.masonry {
+        column-count: 2;
+      }
+    }
+    
+    @media (min-width: 900px) {
+      .grid.masonry {
+        column-count: 3;
+      }
     }
     
     .grid.masonry .gallery {
       break-inside: avoid;
+      margin-bottom: 20px;
     }
-    
-    .grid.masonry .gallery img {
-      width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 6px;
-      transition: transform 0.3s ease;
-      cursor: pointer;
-      /* Let height define span */
-      grid-row: span var(--row-span, 1);
-    }
-    
+
     /* Modal styling */
     .modal {
       display: none;

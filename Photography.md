@@ -3,43 +3,7 @@ layout: grid
 ---
 # Photography
 ---
-<div class="masonry">
-  <img src="/assets/photos/DSCF1772.jpg" loading="lazy" decoding="async" style="width:100%" alt="01">
-  <img src="/assets/photos/DSCF0155.jpg" loading="lazy" decoding="async" style="width:100%" alt="02">
-  <img src="/assets/photos/DSCF3898.jpg" loading="lazy" decoding="async" style="width:100%" alt="03">
-  <img src="/assets/photos/DSCF1756.jpg" loading="lazy" decoding="async" style="width:100%" alt="04">
-  <img src="/assets/photos/DSCF4159.jpg" loading="lazy" decoding="async" style="width:100%" alt="05">
-  <img src="/assets/photos/DSCF2152.jpg" loading="lazy" decoding="async" style="width:100%" alt="06">
-  <img src="/assets/photos/IMG_0208.jpg" loading="lazy" decoding="async" style="width:100%" alt="07">
-  <img src="/assets/photos/DSCF3527.jpg" loading="lazy" decoding="async" style="width:100%" alt="08">
-  <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="09">
-  <img src="/assets/photos/IMG_3807.jpg" loading="lazy" decoding="async" style="width:100%" alt="10">
-  <img src="/assets/photos/DSCF3126.jpg" loading="lazy" decoding="async" style="width:100%" alt="11">
-  <img src="/assets/photos/DSCF1017.jpg" loading="lazy" decoding="async" style="width:100%" alt="12">
-  <img src="/assets/photos/DSCF3958.jpg" loading="lazy" decoding="async" style="width:100%" alt="13">
-  <img src="/assets/photos/IMG_5688.jpg" loading="lazy" decoding="async" style="width:100%" alt="14">
-  <img src="/assets/photos/DSCF1823.jpg" loading="lazy" decoding="async" style="width:100%" alt="15">
-  <img src="/assets/photos/IMG_2289.jpg" loading="lazy" decoding="async" style="width:100%" alt="16">
-  <img src="/assets/photos/DSCF4262.jpg" loading="lazy" decoding="async" style="width:100%" alt="17">
-  <img src="/assets/photos/DSCF1546.jpg" loading="lazy" decoding="async" style="width:100%" alt="18">
-  <img src="/assets/photos/DSCF2615.jpg" loading="lazy" decoding="async" style="width:100%" alt="19">
-  <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="20">
-  <img src="/assets/photos/DSCF4367.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
-  <img src="/assets/photos/IMG_6824.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
-  <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">
-  <img src="/assets/photos/IMG_9014.jpg" loading="lazy" decoding="async" style="width:100%" alt="24">
-  <img src="/assets/photos/IMG_2611.jpg" loading="lazy" decoding="async" style="width:100%" alt="25">
-  <img src="/assets/photos/IMG_7276.jpg" loading="lazy" decoding="async" style="width:100%" alt="26">
-  <img src="/assets/photos/IMG_4325.jpg" loading="lazy" decoding="async" style="width:100%" alt="27">
-  <img src="/assets/photos/IMG_9338.jpg" loading="lazy" decoding="async" style="width:100%" alt="28">
-  <img src="/assets/photos/IMG_4711.jpg" loading="lazy" decoding="async" style="width:100%" alt="29">
-  <img src="/assets/photos/IMG_5883.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
-</div>
-<br>
-
-<div style="text-align: center;">
-  ## Bat biology in the neotropics.
-</div>
+<h2 style="text-align: center;">Bat biology in the neotropics</h2>
 <div class="grid"> 
   <div class="gallery">
     <img src="/assets/photos/chiroptology/01_IMG_2563.jpg" loading="lazy" decoding="async" style="width:100%" alt="01">
@@ -98,31 +62,6 @@ layout: grid
       <a class="next" onclick="changeSlide(1)">&#10095;</a>
     </div>
   </div>
-
-<style>
-  .masonry {
-    column-count: 3;
-    column-gap: 1rem;
-  }
-
-  .masonry img {
-    width: 100%;
-    margin-bottom: 1rem;
-    display: block;
-  }
-
-  @media (max-width: 768px) {
-    .masonry {
-      column-count: 2;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .masonry {
-      column-count: 1;
-    }
-  }
-</style>
 
   <script>
     const images = Array.from(document.querySelectorAll(".gallery img"));

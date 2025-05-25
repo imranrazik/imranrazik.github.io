@@ -62,10 +62,10 @@ layout: grid
     <img src="/assets/photos/DSCF1546.jpg" loading="lazy" decoding="async" style="width:100%" alt="19">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF2615.jpg" loading="lazy" decoding="async" style="width:100%" alt="20">
+    <img src="/assets/photos/IMG_0352.jpg" loading="lazy" decoding="async" style="width:100%" alt="20">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
+    <img src="/assets/photos/IMG_0846.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
   </div>
   <div class="gallery">
     <img src="/assets/photos/DSCF3958 2.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
@@ -93,6 +93,9 @@ layout: grid
   </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_4711_2.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
   </div>
 </div>
 <h2 style="text-align: center;">Bat biology in the neotropics</h2>

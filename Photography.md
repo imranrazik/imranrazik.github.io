@@ -68,7 +68,7 @@ layout: grid
     <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF3958.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
+    <img src="/assets/photos/DSCF3958 2.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
   </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_6824.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">

@@ -3,7 +3,7 @@ layout: grid
 ---
 # Photography
 ---
-<div class="grid masonry">
+<div class="masonry">
   <div class="gallery">
     <img src="/assets/photos/DSCF1772.jpg" loading="lazy" decoding="async" style="width:100%" alt="01">
   </div>
@@ -71,7 +71,7 @@ layout: grid
     <img src="/assets/photos/IMG_6824.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">
+    <img src="/assets/photos/IMG_4333.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">
   </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_9014.jpg" loading="lazy" decoding="async" style="width:100%" alt="24">

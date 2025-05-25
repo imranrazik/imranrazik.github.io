@@ -95,7 +95,7 @@ layout: grid
     <img src="/assets/photos/IMG_4711_2.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
   </div>
   <div class="gallery">
-    <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
+    <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="31">
   </div>
 </div>
 <h2 style="text-align: center;">Bat biology in the neotropics</h2>

@@ -3,6 +3,99 @@ layout: grid
 ---
 # Photography
 ---
+<div class="grid masonry">
+  <div class="gallery">
+    <img src="/assets/photos/DSCF1772.jpg" loading="lazy" decoding="async" style="width:100%" alt="01">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF0155.jpg" loading="lazy" decoding="async" style="width:100%" alt="02">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF3898.jpg" loading="lazy" decoding="async" style="width:100%" alt="03">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF1756.jpg" loading="lazy" decoding="async" style="width:100%" alt="04">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF4159.jpg" loading="lazy" decoding="async" style="width:100%" alt="05">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF2152.jpg" loading="lazy" decoding="async" style="width:100%" alt="06">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_0208.jpg" loading="lazy" decoding="async" style="width:100%" alt="07">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF3527.jpg" loading="lazy" decoding="async" style="width:100%" alt="08">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="09">
+  </div> 
+  <div class="gallery">
+    <img src="/assets/photos/IMG_3807.jpg" loading="lazy" decoding="async" style="width:100%" alt="10">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF3126.jpg" loading="lazy" decoding="async" style="width:100%" alt="11">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF1017.jpg" loading="lazy" decoding="async" style="width:100%" alt="12">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF3958.jpg" loading="lazy" decoding="async" style="width:100%" alt="13">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_5688.jpg" loading="lazy" decoding="async" style="width:100%" alt="14">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF1823.jpg" loading="lazy" decoding="async" style="width:100%" alt="15">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_2289.jpg" loading="lazy" decoding="async" style="width:100%" alt="16">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF4262.jpg" loading="lazy" decoding="async" style="width:100%" alt="17">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF1546.jpg" loading="lazy" decoding="async" style="width:100%" alt="18">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF2615.jpg" loading="lazy" decoding="async" style="width:100%" alt="19">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="20">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/DSCF4367.jpg" loading="lazy" decoding="async" style="width:100%" alt="21">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_6824.jpg" loading="lazy" decoding="async" style="width:100%" alt="22">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_5308.jpg" loading="lazy" decoding="async" style="width:100%" alt="23">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_9014.jpg" loading="lazy" decoding="async" style="width:100%" alt="24">
+  </div> 
+  <div class="gallery">
+    <img src="/assets/photos/IMG_2611.jpg" loading="lazy" decoding="async" style="width:100%" alt="25">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_7276.jpg" loading="lazy" decoding="async" style="width:100%" alt="26">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_4325.jpg" loading="lazy" decoding="async" style="width:100%" alt="27">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_9338.jpg" loading="lazy" decoding="async" style="width:100%" alt="28">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_4711.jpg" loading="lazy" decoding="async" style="width:100%" alt="29">
+  </div>
+  <div class="gallery">
+    <img src="/assets/photos/IMG_5883.jpg" loading="lazy" decoding="async" style="width:100%" alt="30">
+  </div>
+</div>
+<br>
 <h2 style="text-align: center;">Bat biology in the neotropics</h2>
 <div class="grid"> 
   <div class="gallery">

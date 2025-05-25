@@ -111,27 +111,33 @@
     }
 
     a.prev, a.next {
-      position: absolute;
+      position: fixed; /* changed from absolute */
       top: 50%;
       transform: translateY(-50%);
       color: white;
-      font-size: 24px;
+      font-size: 32px;
       font-weight: bold;
       cursor: pointer;
       padding: 16px;
       text-decoration: none;
+      z-index: 1001; /* make sure they stay above modal content */
+      background-color: rgba(0, 0, 0, 0.3);
+      border-radius: 50%;
+      transition: background-color 0.2s ease;
     }
-
+    
+    a.prev:hover,
+    a.next:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      color: #fff;
+    }
+    
     a.prev {
-      left: 10px;
+      left: 20px; /* consistent placement on screen */
     }
-
+    
     a.next {
-      right: 10px;
-    }
-
-    a.prev:hover, a.next:hover {
-      color: #bbb;
+      right: 20px;
     }
   </style>
 

@@ -100,6 +100,7 @@ layout: grid
     <img src="/assets/photos/IMG_4080.jpg" loading="lazy" decoding="async" style="width:100%" alt="32">
   </div>
 </div>
+<br>
 <h2 style="text-align: center;">Bat biology in the neotropics</h2>
 <div class="grid"> 
   <div class="gallery">

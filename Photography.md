@@ -96,6 +96,7 @@ layout: grid
   </div>
   <div class="gallery">
     <img src="/assets/photos/DSCF2244.jpg" loading="lazy" decoding="async" style="width:100%" alt="31">
+  </div>
   <div class="gallery">
     <img src="/assets/photos/IMG_4080.jpg" loading="lazy" decoding="async" style="width:100%" alt="32">
   </div>

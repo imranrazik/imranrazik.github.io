@@ -3,6 +3,20 @@ layout: default
 ---
 # Videography
 ---
+Video produced in collaboration with TED-Ed. Written by myself & directed by Sharon Colman. 
+<div style="position:relative; width:100%; aspect-ratio:16/9;">
+  <iframe 
+    src="https://www.youtube.com/embed/H5DhD5Nwl_0?si=LqC_9dOIeHLKGEtm" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
+
 Video produced and edited for Goldsborough et al. (2025) <a href="https://www.cell.com/current-biology/fulltext/S0960-9822%2825%2900372-0" target="_blank">**Rise and spread of a social tradition of interspecies abduction**</a>, _Current Biology_.
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 

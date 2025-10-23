@@ -19,7 +19,7 @@ Video produced in collaboration with TED-Ed. Written by myself & directed by Sha
 <br>
 
 Video produced and edited for Perez et al. (2025) <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00601-3" target="_blank">**Towering behavior and collective dispersal in Caenorhabditis nematodes**</a>, _Current Biology_.
-<div style="position: relative; width: 50%; aspect-ratio:9/16;">
+<div style="position: relative; width: 50%; aspect-ratio:9/16; margin: 0 auto; display: block;">
   <iframe 
     src="https://www.youtube.com/embed/F8QVcrjqrNI?si=op9FVoB61HK1yEXo" 
     title="YouTube Shorts video player"

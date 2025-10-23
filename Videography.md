@@ -18,6 +18,21 @@ Video produced in collaboration with TED-Ed. Written by myself & directed by Sha
 
 <br>
 
+Video produced and edited for Perez et al. (2025) <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00601-3" target="_blank">**Towering behavior and collective dispersal in Caenorhabditis nematodes**</a>, _Current Biology_.
+<div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px;">
+  <iframe 
+    src="https://www.youtube.com/embed/F8QVcrjqrNI?si=op9FVoB61HK1yEXo" 
+    title="YouTube Shorts video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
+<br>
+
 Video produced and edited for Goldsborough et al. (2025) <a href="https://www.cell.com/current-biology/fulltext/S0960-9822%2825%2900372-0" target="_blank">**Rise and spread of a social tradition of interspecies abduction**</a>, _Current Biology_.
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 

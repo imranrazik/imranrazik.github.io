@@ -101,17 +101,4 @@ layout: grid
 
 <br>
 
-<div class="grid">
-  <div class="gallery">
-    <a href="https://drive.google.com/file/d/10nz_KLOAVNlXMGAMwH5BJrA3bTe4ufYt/view?usp=sharing" target="_blank">
-      <img src="/assets/illustrations/page1.jpg" loading="lazy" decoding="async">
-    </a>
-  </div>
-  <div class="gallery">
-    <a href="https://drive.google.com/file/d/10nvEE8OEBtulAauLNFdgTiL9u4FC4FGO/view?usp=sharing" target="_blank">
-      <img src="/assets/illustrations/page2.jpg" loading="lazy" decoding="async">
-    </a>
-  </div>
-</div>
-
 

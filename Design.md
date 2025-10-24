@@ -5,95 +5,98 @@ layout: grid
 ---
 <div class="grid"> 
   <div class="gallery">
-    <img src="/assets/illustrations/vampterrestrial_v02.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/anteater.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/elephant.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/antelope.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/lonch2.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/tungara.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/whale.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/macaque.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/hyena.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/molossus_02.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/coati.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
-  </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/noctilio_v02.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/lion.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/wolf.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/anteater.png"  loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/molossus_03.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery">
-    <img src="/assets/illustrations/dolphin.png" loading="lazy" decoding="async" style="width:100%">
-  </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/flower.png" loading="lazy" decoding="async" style="width:60%; display:inline-block;">
+    <img src="/assets/illustrations/baboon.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
     <img src="/assets/illustrations/crow.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/Kibale_color_no_text.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/elephant.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/bee.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/octopus.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+</div>
+
+<br>
+<img src="/assets/illustrations/beach.png" loading="lazy" decoding="async" style="width:100%">
+<br>
+
+<div class="grid"> 
+  <div class="gallery">
+    <img src="/assets/illustrations/orangutan.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
-  </div>  
+    <img src="/assets/illustrations/uroderma.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
   <div class="gallery">
-    <img src="/assets/illustrations/motmot.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/humpback.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/halloween_crab_01.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/shark.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
     <img src="/assets/illustrations/glass frog.png" loading="lazy" decoding="async" style="width:100%">
   </div>
+</div>
+
+<br>
+<img src="/assets/illustrations/lions.png" loading="lazy" decoding="async" style="width:100%">
+<br>
+
+<div class="grid"> 
   <div class="gallery">
-    <img src="/assets/illustrations/cat.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
   </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/tinamou.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
+  <div class="gallery" style="text-align:center;">>
+    <img src="/assets/illustrations/noctilio.png"  loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/conure.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/wildebeest.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+  <div class="gallery" style="text-align:center;">>
+    <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/vampire.png"  loading="lazy" decoding="async" style="width:100%">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/jacobin.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+</div>
+
+<br>
+<img src="/assets/illustrations/cichlid.png" loading="lazy" decoding="async" style="width:100%">
+<br>
+
+<div class="grid"> 
+  <div class="gallery">
+    <img src="/assets/illustrations/lion.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/Kibale_color_no_text.png" loading="lazy" decoding="async" style="width:60%; display:inline-block;">
   </div>
   <div class="gallery">
     <img src="/assets/illustrations/bat_logo.png" loading="lazy" decoding="async" style="width:100%">
   </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/pronghorn.png" loading="lazy" decoding="async" style="width:70%; display:inline-block;">
-  </div>
-  <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/meerkat.png" loading="lazy" decoding="async" style="width:30%; display:inline-block;">
+  <div class="gallery">
+    <img src="/assets/illustrations/hyenas.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
-    <img src="/assets/illustrations/wellington.png" loading="lazy" decoding="async" style="width:100%">
-  </div> 
+    <img src="/assets/illustrations/MPIAB_STRI.png" loading="lazy" decoding="async" style="width:100%">
+  </div>
+  <div class="gallery">
+    <img src="/assets/illustrations/lonch.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
+  </div>
 </div>
 
 <br>

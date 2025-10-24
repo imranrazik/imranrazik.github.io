@@ -57,13 +57,13 @@ layout: grid
   <div class="gallery">
     <img src="/assets/illustrations/orca.png" loading="lazy" decoding="async" style="width:100%">
   </div>
-  <div class="gallery" style="text-align:center;">>
+  <div class="gallery" style="text-align:center;">
     <img src="/assets/illustrations/noctilio.png"  loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">
     <img src="/assets/illustrations/wildebeest.png" loading="lazy" decoding="async" style="width:100%">
   </div>
-  <div class="gallery" style="text-align:center;">>
+  <div class="gallery" style="text-align:center;">
     <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery">

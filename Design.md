@@ -83,7 +83,7 @@ layout: grid
     <img src="/assets/illustrations/lion.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/Kibale_color_no_text.png" loading="lazy" decoding="async" style="width:60%; display:inline-block;">
+    <img src="/assets/illustrations/Kibale_color_no_text.png" loading="lazy" decoding="async" style="width:100%;">
   </div>
   <div class="gallery" style="text-align:center;">
     <img src="/assets/illustrations/bat_logo.png" loading="lazy" decoding="async" style="width:100%">
@@ -95,7 +95,7 @@ layout: grid
     <img src="/assets/illustrations/MPIAB_STRI.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/lonch.png" loading="lazy" decoding="async" style="width:80%; display:inline-block;">
+    <img src="/assets/illustrations/lonch.png" loading="lazy" decoding="async" style="width:100%;">
   </div>
 </div>
 

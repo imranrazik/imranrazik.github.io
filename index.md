@@ -4,7 +4,7 @@ layout: home
 # Home
 --- 
 <p align="center">
- <img src="/assets/illustrations/banner_logo.png" width="100%">  
+ <img src="/assets/illustrations/banner.png" width="100%">  
 </p>
 
 

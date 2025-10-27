@@ -4,9 +4,10 @@ layout: home
 # Home
 --- 
 <p align="center">
- <img src="/assets/illustrations/banner.png" width="100%">  
+ <img src="/assets/illustrations/banner.png" width="100%" margin-right="20%">  
 </p>
 
+<br>
 
 <b> Hi! I’m a zoologist, designer, data scientist, and outreach specialist at the Max Planck Institute of Animal Behavior in Konstanz, Germany. </b> <br/>
 

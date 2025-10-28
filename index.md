@@ -11,6 +11,6 @@ layout: home
 
 <b> Hi! I’m a zoologist, designer, and science communicator based at the Max Planck Institute of Animal Behavior. </b> <br/>
 
-With a background in research and skills in multimedia production, I work to make science communication effective, accessible, and fun. 
+With a background in research and skills in multimedia production, I work to make science fun, accessible, and effective.
 
 Feel free to reach out if you’re interested in collaborating or would like to know more about my work :)

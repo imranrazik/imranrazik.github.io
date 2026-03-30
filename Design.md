@@ -61,7 +61,7 @@ layout: grid
     <img src="/assets/illustrations/noctilio.png"  loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/wildebeest.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/white_rhino.png" loading="lazy" decoding="async" style="width:80%">
   </div>
   <div class="gallery" style="text-align:center;">
     <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">
@@ -89,15 +89,19 @@ layout: grid
     <img src="/assets/illustrations/bat_logo.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/hyenas.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/baboon_logo.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/MPIAB_STRI.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/ASC_logo.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/lonch.png" loading="lazy" decoding="async" style="width:100%;">
+    <img src="/assets/illustrations/SE2_logo.png" loading="lazy" decoding="async" style="width:100%;">
   </div>
 </div>
+
+<br>
+<img src="/assets/illustrations/scuba.png" loading="lazy" decoding="async" style="width:100%">
+<br>
 
 <br>
 

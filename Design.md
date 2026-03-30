@@ -61,7 +61,7 @@ layout: grid
     <img src="/assets/illustrations/noctilio.png"  loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/white_rhino.png" loading="lazy" decoding="async" style="width:80%">
+    <img src="/assets/illustrations/wildebeest.png" loading="lazy" decoding="async" style="width:80%">
   </div>
   <div class="gallery" style="text-align:center;">
     <img src="/assets/illustrations/aracari.png" loading="lazy" decoding="async" style="width:100%">

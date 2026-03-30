@@ -9,7 +9,7 @@ layout: home
 
 <br>
 
-<b> Hi! I’m a zoologist, designer, and science communicator based at the Max Planck Institute of Animal Behavior. </b> <br/>
+<b> Hi! I’m a science communicator, graphic designer, and biologist based at the Max Planck Institute of Animal Behavior. </b> <br/>
 
 With a background in research and skills in multimedia production, I work to make science accessible and engaging.
 

@@ -100,7 +100,7 @@ layout: grid
 </div>
 
 <br>
-<img src="/assets/illustrations/cichlid.png" loading="lazy" decoding="async" style="width:100%">
+<img src="/assets/illustrations/scuba.png" loading="lazy" decoding="async" style="width:100%">
 <br>
 
 <br>

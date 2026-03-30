@@ -92,10 +92,10 @@ layout: grid
     <img src="/assets/illustrations/baboon_logo.png" loading="lazy" decoding="async" style="width:100%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/ASC_logo.png" loading="lazy" decoding="async" style="width:100%">
+    <img src="/assets/illustrations/ASC_logo.png" loading="lazy" decoding="async" style="width:90%">
   </div>
   <div class="gallery" style="text-align:center;">
-    <img src="/assets/illustrations/SE2_logo.png" loading="lazy" decoding="async" style="width:100%;">
+    <img src="/assets/illustrations/SE2_logo.png" loading="lazy" decoding="async" style="width:80%;">
   </div>
 </div>
 

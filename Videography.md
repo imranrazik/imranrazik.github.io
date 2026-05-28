@@ -3,6 +3,20 @@ layout: default
 ---
 # Videography
 ---
+
+Video produced and edited for Lisowski et al. (2026). <a href="(https://www.science.org/doi/10.1126/science.ady2486)" target="_blank">**Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions**</a>, _Science_.
+<div style="position:relative; width:100%; aspect-ratio:16/9;">
+  <iframe 
+    src="[https://www.youtube.com/embed/-s8i2A5lgCI?si=-WkbQI_67eB6PzP_" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 Video produced in collaboration with TED-Ed. Written by myself & directed by Sharon Colman. 
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 

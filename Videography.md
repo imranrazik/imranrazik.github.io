@@ -4,7 +4,7 @@ layout: default
 # Videography
 ---
 
-Video produced and edited for Lisowski et al. (2026). <a href="(https://www.science.org/doi/10.1126/science.ady2486)" target="_blank">**Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions**</a>, _Science_.
+Video produced and edited for Lisowski et al. (2026). <a href="https://www.science.org/doi/10.1126/science.ady2486" target="_blank">**Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions**</a>, _Science_.
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 
     src="https://www.youtube.com/embed/-s8i2A5lgCI?si=-WkbQI_67eB6PzP_" 

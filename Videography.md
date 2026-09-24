@@ -4,7 +4,7 @@ layout: default
 # Videography
 ---
 
-Video produced and edited for Tomasek et al. (2026). <a href="https://https://doi.org/10.1073/pnas.2620602123" target="_blank">**Decision rules diverge between sympatric Featherfin cichlids despite shared preferences, ecology, and evolutionary history**</a>, _PNAS_.
+Video produced and edited for Tomasek et al. (2026). <a href="https://doi.org/10.1073/pnas.2620602123" target="_blank">**Decision rules diverge between sympatric Featherfin cichlids despite shared preferences, ecology, and evolutionary history**</a>, _PNAS_.
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 
     src="https://www.youtube.com/embed/ofnvbA9tLJ4?si=F4z_mDRxnQG0aPrz" 

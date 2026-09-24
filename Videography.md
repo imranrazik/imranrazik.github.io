@@ -4,6 +4,21 @@ layout: default
 # Videography
 ---
 
+Video produced and edited for Tomasek et al. (2026). <a href="https://https://doi.org/10.1073/pnas.2620602123" target="_blank">**Decision rules diverge between sympatric Featherfin cichlids despite shared preferences, ecology, and evolutionary history**</a>, _PNAS_.
+<div style="position:relative; width:100%; aspect-ratio:16/9;">
+  <iframe 
+    src="https://www.youtube.com/embed/ofnvbA9tLJ4?si=F4z_mDRxnQG0aPrz" 
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
+<br>
+
 Video produced and edited for Lisowski et al. (2026). <a href="https://www.science.org/doi/10.1126/science.ady2486" target="_blank">**Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions**</a>, _Science_.
 <div style="position:relative; width:100%; aspect-ratio:16/9;">
   <iframe 

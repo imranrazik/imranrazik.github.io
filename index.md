@@ -6,7 +6,7 @@ layout: home
 <div style="text-align: center;">
   <img src="/assets/illustrations/banner.png" alt="Banner" style="width: 70%; height: auto;">
 
-  <br>
+  <br><br>
 
   <p><strong>Hi! I’m a science communicator, graphic designer, and biologist based at the Max Planck Institute of Animal Behavior.</strong></p>
 

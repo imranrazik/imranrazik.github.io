@@ -20,8 +20,14 @@
       gap: 20px;
       padding: 20px;
     }
+    
+    .album-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
 
-    /* Individual photo items (inside a gallery) */
     .gallery img {
       width: 100%;
       height: auto;
@@ -37,7 +43,6 @@
       transform: scale(1.05);
     }
 
-    /* Gallery cover cards (on the main Photography index page) */
     .album-card {
       text-decoration: none;
       color: inherit;

@@ -1,7 +1,7 @@
 ---
 layout: grid
 title: Marine biology in the Mediterranean
-permalink: /photography/chiroptology/
+permalink: /photography/corsica/
 ---
 
 <a class="back-link" href="/photography/">&larr; All Galleries</a>
